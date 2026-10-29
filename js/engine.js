@@ -99,7 +99,8 @@
       history: {},
       saved: [],
       slow: false,
-      quiz: null
+      quiz: null,
+      bankStats: {}
     };
   }
 
@@ -309,12 +310,13 @@
     };
   }
 
-  function gradeQuestion(state, item, picked, today, skipSrs) {
+  function gradeQuestion(state, item, picked, today, skipSrs, opts) {
     var ok = picked === item.answer;
     if (skipSrs) return ok;
     var card = ensureCard(state, item.type, item.id);
+    if (item.display) card.display = item.display;
     card.seen = (card.seen || 0) + 1;
-    if (item.type === "vocab") {
+    if (item.type === "vocab" && !(opts && opts.skipIntro)) {
       if (state.introduced.indexOf(item.id) < 0) state.introduced.push(item.id);
     }
     if (ok) {

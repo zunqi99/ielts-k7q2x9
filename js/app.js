@@ -11,13 +11,16 @@
   var GRAMMAR = [];
   var ARTICLES = [];
   var GLOSS = {};
+  var DICT = {};
+  var PRACTICE = { reading: [], listening: [], writing: [], speaking: [] };
   var wordById = {};
+  var wordByText = {};
   var gById = {};
   var state = null;
   var tab = "quiz";
   var session = null;
   var wordPane = "wrong";
-  var reader = { view: "lib" };
+  var reader = { view: "lib", shelf: "built", page: 0, docId: null };
 
   var TTS = "speechSynthesis" in window;
   var voice = null;
@@ -196,14 +199,121 @@
     app.onclick = null;
     ensureQuiz();
     setTabs();
+    if (session && session.origin === "bank" && tab === "bank") return renderActive(session);
+    if (session && session.origin === "doc" && tab === "reader") return renderActive(session);
     if (tab === "quiz") renderQuiz();
+    else if (tab === "bank") window.IeltsBank.render(makeCtx());
     else if (tab === "reader") renderReader();
     else if (tab === "words") renderWords();
     else renderStats();
   }
 
+  function renderActive(q) {
+    if (q.phase === "cues") return window.IeltsBank.renderCues(q, makeCtx());
+    if (q.phase === "shadow") return window.IeltsDocs.renderShadow(q, makeCtx());
+    if (q.phase === "prompts") return window.IeltsDocs.renderPrompts(q, makeCtx());
+    if (q.phase === "result") return renderResult(q, false);
+    return renderQuestion(q, false);
+  }
+
+  function makeCtx() {
+    return {
+      state: state,
+      save: save,
+      esc: esc,
+      say: say,
+      spk: spk,
+      micBtn: micBtn,
+      SR: SR,
+      micNote: micNote,
+      E: E,
+      app: app,
+      words: WORDS,
+      units: UNITS,
+      grammar: GRAMMAR,
+      practice: PRACTICE,
+      wordByText: wordByText,
+      articles: ARTICLES,
+      reader: reader,
+      refresh: render,
+      startSession: startSession,
+      clearSession: clearSession,
+      rate: rate,
+      markPhrase: markPhrase,
+      showWord: showWord,
+      wrapWords: wrapWords,
+      splitSentences: splitSentences,
+      topBar: topBar
+    };
+  }
+
+  function startSession(s) {
+    s.picks = s.picks || [];
+    s.graded = s.graded || {};
+    s.wrong = s.wrong || [];
+    s.cursor = s.cursor || 0;
+    s.correct = s.correct || 0;
+    s.phase = s.phase || "quiz";
+    session = s;
+    if (s.origin === "bank") tab = "bank";
+    if (s.origin === "doc") tab = "reader";
+    render();
+  }
+
+  function clearSession() {
+    var origin = session && session.origin;
+    var docId = session && session.docId;
+    session = null;
+    if (origin === "doc") {
+      tab = "reader";
+      reader.view = docId ? "doc" : "lib";
+      reader.docId = docId;
+      reader.shelf = "mine";
+    } else if (origin === "bank") tab = "bank";
+    render();
+  }
+
+  function noteStats(key, ok) {
+    if (!key) return;
+    if (!state.bankStats) state.bankStats = {};
+    var row = state.bankStats[key] || { ok: 0, bad: 0 };
+    if (ok) row.ok += 1;
+    else row.bad += 1;
+    state.bankStats[key] = row;
+  }
+
+  function rate(q, ok) {
+    var item = q.items[q.cursor];
+    if (!item) return;
+    var key = (item.type || "cue") + ":" + item.id;
+    var skip = !q.srs || !!(q.graded && q.graded[key]);
+    E.gradeQuestion(state, { type: item.type || "cue", id: item.id, answer: ok ? 0 : 1, display: item.display }, ok ? 0 : 1, E.todayStr(), skip);
+    if (!skip) {
+      q.graded[key] = true;
+      noteStats(q.statKey, ok);
+    }
+    if (ok) q.correct += 1;
+    else q.wrong.push(item);
+    q.cursor += 1;
+    if (q.cursor >= q.items.length) { q.phase = "result"; q.done = true; }
+    save();
+    render();
+  }
+
+  function markPhrase(sentence) {
+    var id = "shadow-" + E.hashStr(sentence);
+    E.gradeQuestion(state, {
+      type: "phrase",
+      id: id,
+      answer: 1,
+      display: { title: sentence, ipa: "", pos: "跟讀", zh: "這句還不順", example: sentence, say: sentence }
+    }, 0, E.todayStr(), false);
+    noteStats("doc", false);
+    save();
+  }
+
   function renderQuiz() {
-    if (session) return renderQuestion(session, false);
+    if (session && !session.origin) return renderQuestion(session, false);
     var q = state.quiz;
     if (q.phase === "quiz") return renderQuestion(q, true);
     if (q.phase === "result") return renderResult(q, true);
@@ -226,6 +336,7 @@
     if (completed) h += '<div class="sub">今日最佳成績：' + hist.score + " / " + hist.total + "</div>";
     h += '<button type="button" class="btn" id="start">' + esc(label) + "</button>";
     h += '<button type="button" class="btn gray" id="speak">直接口說練習</button>';
+    h += '<button type="button" class="btn gray" id="to-bank">題庫自由練習</button>';
     h += '<p class="note">題目依這台裝置的日期產生。錯題與新單字會排進之後的練習，紀錄只存在本機。</p></div>';
     h += '<div class="path">';
     path.groups.forEach(function (u, ui) {
@@ -265,6 +376,7 @@
       save();
       render();
     };
+    document.getElementById("to-bank").onclick = function () { tab = "bank"; render(); };
   }
 
   function renderQuestion(q, isDaily) {
@@ -284,6 +396,8 @@
     var h = topBar(p);
     h += '<div class="card"><span class="tag">' + (q.title ? esc(q.title) + " · " : "") + (vocab ? "字彙" : "文法") + " · 第 " + (q.cursor + 1) + " / " + q.items.length + " 題</span>";
     h += togHtml();
+    if (item.passage) h += '<div class="passage">' + esc(item.passage).replace(/\n/g, "<br>") + "</div>";
+    if (item.audio) h += '<button type="button" class="btn sm" data-say="' + esc(item.audio) + '">播放</button><p class="note">先聽完再作答，可以重播。答完才看文字。</p>';
     if (vocab && !cloze) {
       h += '<div style="margin-top:8px;font-size:20px;font-weight:800">' + esc(item.word) + ' <span class="ipa">' + esc(item.ipa || "") + "</span>" + spk(item.word) + "</div>";
     }
@@ -298,7 +412,7 @@
     }).join("");
     h += '<div id="fb">' + (answered ? feedbackHtml(item, picked === item.answer) : "") + "</div></div>";
     h += '<button type="button" class="btn" id="next" ' + (answered ? "" : "disabled") + ">" + (q.cursor === q.items.length - 1 ? "查看結果" : "下一題") + "</button>";
-    h += '<button type="button" class="btn gray" id="back">' + (isDaily ? "回到路徑" : "結束複習") + "</button>";
+    h += '<button type="button" class="btn gray" id="back">' + (isDaily ? "回到路徑" : (q.origin === "doc" ? "回到文件" : (q.origin === "bank" ? "回到題庫" : "結束複習"))) + "</button>";
     app.innerHTML = h;
     bindTog();
     if (!answered) {
@@ -308,11 +422,11 @@
     }
     document.getElementById("next").onclick = function () { advance(q, isDaily); };
     document.getElementById("back").onclick = function () {
-      if (isDaily) { q.phase = "home"; save(); }
-      else session = null;
-      render();
+      if (isDaily) { q.phase = "home"; save(); render(); }
+      else clearSession();
     };
-    if (vocab && !cloze && !answered) setTimeout(function () { say(item.word); }, 280);
+    if (item.audio && !answered) setTimeout(function () { say(item.audio); }, 250);
+    else if (vocab && !cloze && !answered) setTimeout(function () { say(item.word); }, 280);
   }
 
   function feedbackHtml(item, ok) {
@@ -340,6 +454,10 @@
     }
     if (ok) q.correct += 1;
     else q.wrong.push(item);
+    if (!skip && !ok && item.link && item.link.type && item.link.id && !(item.link.type === item.type && item.link.id === item.id)) {
+      E.gradeQuestion(state, { type: item.link.type, id: item.link.id, answer: 1 }, 0, E.todayStr(), false, { skipIntro: true });
+    }
+    if (!skip && q.statKey) noteStats(q.statKey, ok);
     save();
     renderQuestion(q, isDaily);
   }
@@ -373,7 +491,9 @@
       h += '<div class="card">全部答對，太棒了！</div>';
     }
     if (isDaily) h += '<button type="button" class="btn" id="speak">口說練習</button>';
-    h += '<button type="button" class="btn gray" id="back">' + (isDaily ? "回到路徑" : "回到單字本") + "</button>";
+    if (q.shadows && q.shadows.length) h += '<button type="button" class="btn" id="shadow">跟讀與口說</button>';
+    var backLabel = isDaily ? "回到路徑" : (q.origin === "bank" ? "回到題庫" : (q.origin === "doc" ? "回到文件" : "回到單字本"));
+    h += '<button type="button" class="btn gray" id="back">' + backLabel + "</button>";
     app.innerHTML = h;
     var retry = document.getElementById("retry");
     if (retry) retry.onclick = function () {
@@ -388,16 +508,21 @@
         done: false,
         phase: "quiz",
         practice: true,
-        srs: false
+        srs: false,
+        origin: q.origin || "",
+        shadows: q.shadows || null,
+        prompts: q.prompts || null,
+        docId: q.docId || null
       };
       render();
     };
     var sp = document.getElementById("speak");
     if (sp) sp.onclick = function () { q.phase = "speak"; save(); render(); };
+    var sh = document.getElementById("shadow");
+    if (sh) sh.onclick = function () { q.phase = "shadow"; q.shadowIndex = 0; render(); };
     document.getElementById("back").onclick = function () {
-      if (isDaily) { q.phase = "home"; save(); }
-      else { session = null; tab = "words"; }
-      render();
+      if (isDaily) { q.phase = "home"; save(); render(); }
+      else clearSession();
     };
   }
 
@@ -415,14 +540,12 @@
   }
 
   function glossOf(k) {
-    var key = String(k || "").toLowerCase();
+    var key = String(k || "").toLowerCase().replace(/’/g, "'");
     if (GLOSS[key]) return { ipa: GLOSS[key][0], pos: GLOSS[key][1], zh: GLOSS[key][2] };
-    var w = wordById[key];
-    if (!w) {
-      w = WORDS.filter(function (item) { return item.word.toLowerCase() === key; })[0];
-    }
+    var w = wordByText[key] || wordById[key];
     if (w) return { ipa: String(w.ipa || "").replace(/\//g, ""), pos: w.pos, zh: w.zh };
-    return null;
+    if (DICT[key]) return { ipa: DICT[key].ipa || "", pos: DICT[key].pos || "", zh: DICT[key].zh || "" };
+    return { ipa: "", pos: "未收錄", zh: "題庫裡沒有這個字，仍可聽發音並收藏。", missing: true };
   }
 
   function splitSentences(text) {
@@ -440,10 +563,8 @@
       out += esc(sentence.slice(last, m.index));
       var w = m[0];
       var k = w.toLowerCase().replace(/’/g, "'");
-      if (glossOf(k)) {
-        var saved = (state.saved || []).some(function (x) { return x.w === k; });
-        out += '<span class="w' + (saved ? " saved" : "") + '" data-w="' + esc(k) + '">' + esc(w) + "</span>";
-      } else out += esc(w);
+      var saved = (state.saved || []).some(function (x) { return x.w === k; });
+      out += '<span class="w' + (saved ? " saved" : "") + '" data-w="' + esc(k) + '">' + esc(w) + "</span>";
       last = m.index + w.length;
     }
     out += esc(sentence.slice(last));
@@ -454,18 +575,8 @@
     stopSpeech();
     hidePop();
     if (reader.view === "article") return openArticle(reader.index);
-    var h = '<div class="top"><span>點讀英文</span><span style="color:#58cc02">⭐ ' + (state.saved || []).length + '</span><button type="button" class="btn gray sm" id="slowbtn" style="margin:0">' + (state.slow ? "🐢 慢速：開" : "🐢 慢速：關") + "</button></div>";
-    h += "<h1>文章庫</h1><div class=\"sub\">六篇口說主題。點單字看音標、詞性與中文，點 ▶ 聽句子。每篇有三題 IELTS 口說。</div>";
-    ARTICLES.forEach(function (a, i) {
-      var n = String(a.text || "").split(/\s+/).filter(Boolean).length;
-      h += '<div class="card art" data-i="' + i + '"><div class="ic">' + (a.icon || "📄") + '</div><div><h2>' + esc(a.title) + '</h2><div class="sub">' + esc(a.zh || "") + " · 約 " + n + " 字</div></div></div>";
-    });
-    app.innerHTML = h;
-    var slow = document.getElementById("slowbtn");
-    if (slow) slow.onclick = function () { state.slow = !state.slow; save(); renderReader(); };
-    app.querySelectorAll(".art").forEach(function (el) {
-      el.onclick = function () { reader.view = "article"; reader.index = +el.dataset.i; openArticle(reader.index); };
-    });
+    if (reader.view === "doc") return window.IeltsDocs.openStored(reader.docId, makeCtx());
+    window.IeltsDocs.renderLibrary(makeCtx());
   }
 
   function openArticle(i) {
@@ -583,7 +694,7 @@
     document.querySelectorAll(".w.sel").forEach(function (n) { n.classList.remove("sel"); });
     if (el) el.classList.add("sel");
     var g = glossOf(k);
-    if (!g) return;
+    if (g.missing) g = { ipa: "", pos: "未收錄", zh: "題庫裡沒有這個字，仍可聽發音並收藏。" };
     var saved = (state.saved || []).some(function (x) { return x.w === k; });
     var sent = "";
     if (el && el.closest) {
@@ -619,12 +730,14 @@
   function infoOf(card) {
     if (card.type === "vocab") {
       var w = wordById[card.id];
-      if (!w) return null;
-      return { title: w.word, ipa: w.ipa, pos: w.pos, zh: w.zh, example: w.example, say: w.word };
+      if (w) return { title: w.word, ipa: w.ipa, pos: w.pos, zh: w.zh, example: w.example, say: w.word };
     }
-    var g = gById[card.id];
-    if (!g) return null;
-    return { title: g.label, ipa: "", pos: "文法", zh: g.explanation, example: g.example, say: "" };
+    if (card.type === "grammar") {
+      var g = gById[card.id];
+      if (g) return { title: g.label, ipa: "", pos: "文法", zh: g.explanation, example: g.example, say: "" };
+    }
+    if (card.display) return card.display;
+    return null;
   }
 
   function renderWords() {
@@ -657,8 +770,9 @@
         h += '<button type="button" class="btn" id="flash">開始字卡</button><div class="card">';
         saved.forEach(function (x) {
           var g = glossOf(x.w);
-          if (!g) return;
-          h += '<div class="wl"><div><b>' + esc(x.w) + '</b> <span class="ipa">/' + esc(g.ipa) + '/</span><br><span class="tag">' + esc(g.pos) + "</span>" + esc(g.zh)
+          var zh = g.missing ? "（題庫沒有釋義）" : g.zh;
+          var pos = g.missing ? "未收錄" : g.pos;
+          h += '<div class="wl"><div><b>' + esc(x.w) + '</b> <span class="ipa">/' + esc(g.ipa || "") + '/</span><br><span class="tag">' + esc(pos) + "</span>" + esc(zh)
             + (x.s ? '<div class="sub" style="font-style:italic">' + esc(x.s) + "</div>" : "")
             + '</div><div>' + spk(x.w) + '<button type="button" class="play" data-del="' + esc(x.w) + '" style="background:#ffdfe0;color:#c00" aria-label="移除">✕</button></div></div>';
         });
@@ -759,9 +873,20 @@
       h += '<div class="wl"><div><b>' + esc(d) + "</b><div class=\"sub\">" + row.score + " / " + row.total + (row.wrong && row.wrong.length ? " · 錯 " + row.wrong.length + " 題" : "") + "</div></div><div>+" + (row.xpGained || 0) + " XP</div></div>";
     });
     h += "</div>";
+    h += '<div class="card"><h2>題庫正確率</h2>';
+    var stats = state.bankStats || {};
+    var statKeys = Object.keys(stats);
+    if (!statKeys.length) h += '<div class="sub">做過自由練習後，這裡會分項顯示。</div>';
+    statKeys.sort().forEach(function (key) {
+      var row = stats[key];
+      var tot = (row.ok || 0) + (row.bad || 0);
+      var pct = tot ? Math.round((row.ok || 0) / tot * 100) : 0;
+      h += '<div class="wl"><div><b>' + esc(statLabel(key)) + '</b><div class="sub">' + (row.ok || 0) + " 對 · " + (row.bad || 0) + " 錯</div></div><div>" + pct + "%</div></div>";
+    });
+    h += "</div>";
     h += '<div class="card"><h2>設定</h2><label class="field" for="exam">考試日期</label><input id="exam" type="date" value="' + esc(state.examDate) + '">';
-    h += '<p class="note">倒數、連續天數、經驗值、學過的字和每日成績都只存在這台裝置的瀏覽器，沒有帳號，也不會上傳。</p>';
-    h += '<button type="button" class="btn gray" id="reset">清除本機進度</button></div>';
+    h += '<p class="note">倒數、連續天數、經驗值、學過的字、題庫成績和匯入的文件都只存在這台裝置，沒有帳號，也不會上傳。</p>';
+    h += '<button type="button" class="btn gray" id="reset">清除本機進度與文件</button></div>';
     h += '<p class="sub" style="text-align:center">題庫 ' + WORDS.length + " 個字 · " + GRAMMAR.length + " 題文法 · " + ARTICLES.length + " 篇文章</p>";
     app.innerHTML = h;
     document.getElementById("exam").onchange = function (ev) {
@@ -769,13 +894,23 @@
       if (/^\d{4}-\d{2}-\d{2}$/.test(v)) { state.examDate = v; save(); renderStats(); }
     };
     document.getElementById("reset").onclick = function () {
-      if (!window.confirm("要清除這台裝置上的練習紀錄與單字本嗎？")) return;
+      if (!window.confirm("要清除這台裝置上的練習紀錄、單字本和匯入的文件嗎？")) return;
       state = E.initState();
       session = null;
+      if (window.IeltsBank) window.IeltsBank.reset();
+      if (window.IeltsDocs) window.IeltsDocs.clear();
       ensureQuiz();
       save();
       renderStats();
     };
+  }
+
+  function statLabel(key) {
+    var names = { reading: "閱讀", listening: "聽力", writing: "寫作片語", speaking: "口說", doc: "我的文件" };
+    if (names[key]) return names[key];
+    if (key.indexOf("vocab:") === 0) return "字彙・" + key.slice(6);
+    if (key.indexOf("grammar:") === 0) return "文法・" + key.slice(8);
+    return key;
   }
 
   document.addEventListener("click", function (ev) {
@@ -800,7 +935,9 @@
       fetch("data/words.json").then(function (r) { if (!r.ok) throw new Error("words"); return r.json(); }),
       fetch("data/grammar.json").then(function (r) { if (!r.ok) throw new Error("grammar"); return r.json(); }),
       fetch("data/articles.json").then(function (r) { if (!r.ok) throw new Error("articles"); return r.json(); }),
-      fetch("data/gloss.json").then(function (r) { if (!r.ok) throw new Error("gloss"); return r.json(); })
+      fetch("data/gloss.json").then(function (r) { if (!r.ok) throw new Error("gloss"); return r.json(); }),
+      fetch("data/practice.json").then(function (r) { if (!r.ok) throw new Error("practice"); return r.json(); }),
+      fetch("data/dict.json").then(function (r) { if (!r.ok) throw new Error("dict"); return r.json(); })
     ]).then(function (all) {
       var bank = all[0];
       UNITS = bank.units || [];
@@ -808,9 +945,15 @@
       GRAMMAR = all[1];
       ARTICLES = all[2];
       GLOSS = all[3];
-      WORDS.forEach(function (w) { wordById[w.id] = w; });
+      PRACTICE = all[4];
+      DICT = all[5] || {};
+      WORDS.forEach(function (w) {
+        wordById[w.id] = w;
+        wordByText[String(w.word || "").toLowerCase()] = w;
+      });
       GRAMMAR.forEach(function (g) { gById[g.id] = g; });
       state = loadState();
+      if (!state.bankStats) state.bankStats = {};
       ensureQuiz();
       render();
       if ("serviceWorker" in navigator) {

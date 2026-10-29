@@ -1,14 +1,21 @@
-var CACHE = "ielts-static-v1";
+var CACHE = "ielts-static-v2";
 var ASSETS = [
   "./",
   "./index.html",
   "./css/app.css",
   "./js/engine.js",
   "./js/app.js",
+  "./js/bank.js",
+  "./js/docs.js",
   "./data/words.json",
   "./data/grammar.json",
   "./data/articles.json",
   "./data/gloss.json",
+  "./data/practice.json",
+  "./data/dict.json",
+  "./vendor/pdf.min.js",
+  "./vendor/pdf.worker.min.js",
+  "./vendor/mammoth.browser.min.js",
   "./manifest.json",
   "./icon-192.png",
   "./icon-512.png",

@@ -1,0 +1,652 @@
+{
+ "this": {
+  "ipa": "ðɪs",
+  "pos": "det.",
+  "zh": "這個"
+ },
+ "you": {
+  "ipa": "juː",
+  "pos": "pron.",
+  "zh": "你；你們"
+ },
+ "he": {
+  "ipa": "hiː",
+  "pos": "pron.",
+  "zh": "他"
+ },
+ "she": {
+  "ipa": "ʃiː",
+  "pos": "pron.",
+  "zh": "她"
+ },
+ "his": {
+  "ipa": "hɪz",
+  "pos": "det.",
+  "zh": "他的"
+ },
+ "her": {
+  "ipa": "hɜː",
+  "pos": "det.",
+  "zh": "她的"
+ },
+ "your": {
+  "ipa": "jɔː",
+  "pos": "det.",
+  "zh": "你的"
+ },
+ "into": {
+  "ipa": "ˈɪntə",
+  "pos": "prep.",
+  "zh": "進入"
+ },
+ "than": {
+  "ipa": "ðæn",
+  "pos": "conj.",
+  "zh": "比"
+ },
+ "then": {
+  "ipa": "ðen",
+  "pos": "adv.",
+  "zh": "然後"
+ },
+ "what": {
+  "ipa": "wɒt",
+  "pos": "pron.",
+  "zh": "什麼"
+ },
+ "which": {
+  "ipa": "wɪtʃ",
+  "pos": "pron.",
+  "zh": "哪一個"
+ },
+ "those": {
+  "ipa": "ðəʊz",
+  "pos": "det.",
+  "zh": "那些"
+ },
+ "way": {
+  "ipa": "weɪ",
+  "pos": "n.",
+  "zh": "方式"
+ },
+ "woman": {
+  "ipa": "ˈwʊmən",
+  "pos": "n.",
+  "zh": "女人"
+ },
+ "child": {
+  "ipa": "tʃaɪld",
+  "pos": "n.",
+  "zh": "孩子"
+ },
+ "hand": {
+  "ipa": "hænd",
+  "pos": "n.",
+  "zh": "手"
+ },
+ "part": {
+  "ipa": "pɑːt",
+  "pos": "n.",
+  "zh": "部分"
+ },
+ "case": {
+  "ipa": "keɪs",
+  "pos": "n.",
+  "zh": "情況；案例"
+ },
+ "company": {
+  "ipa": "ˈkʌmpəni",
+  "pos": "n.",
+  "zh": "公司"
+ },
+ "system": {
+  "ipa": "ˈsɪstəm",
+  "pos": "n.",
+  "zh": "系統"
+ },
+ "program": {
+  "ipa": "ˈprəʊɡræm",
+  "pos": "n.",
+  "zh": "程式；節目"
+ },
+ "question": {
+  "ipa": "ˈkwestʃən",
+  "pos": "n.",
+  "zh": "問題"
+ },
+ "number": {
+  "ipa": "ˈnʌmbə",
+  "pos": "n.",
+  "zh": "數字；數量"
+ },
+ "point": {
+  "ipa": "pɔɪnt",
+  "pos": "n.",
+  "zh": "重點"
+ },
+ "water": {
+  "ipa": "ˈwɔːtə",
+  "pos": "n.",
+  "zh": "水"
+ },
+ "mother": {
+  "ipa": "ˈmʌðə",
+  "pos": "n.",
+  "zh": "母親"
+ },
+ "area": {
+  "ipa": "ˈeəriə",
+  "pos": "n.",
+  "zh": "地區"
+ },
+ "story": {
+  "ipa": "ˈstɔːri",
+  "pos": "n.",
+  "zh": "故事"
+ },
+ "fact": {
+  "ipa": "fækt",
+  "pos": "n.",
+  "zh": "事實"
+ },
+ "right": {
+  "ipa": "raɪt",
+  "pos": "n.",
+  "zh": "權利；右邊"
+ },
+ "study": {
+  "ipa": "ˈstʌdi",
+  "pos": "n.",
+  "zh": "學習；研究"
+ },
+ "eye": {
+  "ipa": "aɪ",
+  "pos": "n.",
+  "zh": "眼睛"
+ },
+ "job": {
+  "ipa": "dʒɒb",
+  "pos": "n.",
+  "zh": "工作"
+ },
+ "word": {
+  "ipa": "wɜːd",
+  "pos": "n.",
+  "zh": "字"
+ },
+ "business": {
+  "ipa": "ˈbɪznəs",
+  "pos": "n.",
+  "zh": "生意；企業"
+ },
+ "side": {
+  "ipa": "saɪd",
+  "pos": "n.",
+  "zh": "一邊"
+ },
+ "head": {
+  "ipa": "hed",
+  "pos": "n.",
+  "zh": "頭"
+ },
+ "house": {
+  "ipa": "haʊs",
+  "pos": "n.",
+  "zh": "房子"
+ },
+ "service": {
+  "ipa": "ˈsɜːvɪs",
+  "pos": "n.",
+  "zh": "服務"
+ },
+ "friend": {
+  "ipa": "frend",
+  "pos": "n.",
+  "zh": "朋友"
+ },
+ "father": {
+  "ipa": "ˈfɑːðə",
+  "pos": "n.",
+  "zh": "父親"
+ },
+ "power": {
+  "ipa": "ˈpaʊə",
+  "pos": "n.",
+  "zh": "力量；電力"
+ },
+ "hour": {
+  "ipa": "ˈaʊə",
+  "pos": "n.",
+  "zh": "小時"
+ },
+ "game": {
+  "ipa": "ɡeɪm",
+  "pos": "n.",
+  "zh": "遊戲；比賽"
+ },
+ "line": {
+  "ipa": "laɪn",
+  "pos": "n.",
+  "zh": "線；隊伍"
+ },
+ "end": {
+  "ipa": "end",
+  "pos": "n.",
+  "zh": "結束"
+ },
+ "among": {
+  "ipa": "əˈmʌŋ",
+  "pos": "prep.",
+  "zh": "在…之中"
+ },
+ "while": {
+  "ipa": "waɪl",
+  "pos": "conj.",
+  "zh": "而；當"
+ },
+ "mean": {
+  "ipa": "miːn",
+  "pos": "v.",
+  "zh": "意思是"
+ },
+ "between": {
+  "ipa": "bɪˈtwiːn",
+  "pos": "prep.",
+  "zh": "在…之間"
+ },
+ "large": {
+  "ipa": "lɑːdʒ",
+  "pos": "adj.",
+  "zh": "大的"
+ },
+ "still": {
+  "ipa": "stɪl",
+  "pos": "adv.",
+  "zh": "仍然"
+ },
+ "here": {
+  "ipa": "hɪə",
+  "pos": "adv.",
+  "zh": "這裡"
+ },
+ "again": {
+  "ipa": "əˈɡen",
+  "pos": "adv.",
+  "zh": "再一次"
+ },
+ "where": {
+  "ipa": "weə",
+  "pos": "adv.",
+  "zh": "在哪裡"
+ },
+ "before": {
+  "ipa": "bɪˈfɔː",
+  "pos": "prep.",
+  "zh": "在…之前"
+ },
+ "after": {
+  "ipa": "ˈɑːftə",
+  "pos": "prep.",
+  "zh": "在…之後"
+ },
+ "within": {
+  "ipa": "wɪˈðɪn",
+  "pos": "prep.",
+  "zh": "在…之內"
+ },
+ "through": {
+  "ipa": "θruː",
+  "pos": "prep.",
+  "zh": "穿過"
+ },
+ "over": {
+  "ipa": "ˈəʊvə",
+  "pos": "prep.",
+  "zh": "在…上方；超過"
+ },
+ "under": {
+  "ipa": "ˈʌndə",
+  "pos": "prep.",
+  "zh": "在…下面"
+ },
+ "around": {
+  "ipa": "əˈraʊnd",
+  "pos": "prep.",
+  "zh": "周圍；大約"
+ },
+ "against": {
+  "ipa": "əˈɡenst",
+  "pos": "prep.",
+  "zh": "反對；靠著"
+ },
+ "including": {
+  "ipa": "ɪnˈkluːdɪŋ",
+  "pos": "prep.",
+  "zh": "包括"
+ },
+ "another": {
+  "ipa": "əˈnʌðə",
+  "pos": "det.",
+  "zh": "另一個"
+ },
+ "both": {
+  "ipa": "bəʊθ",
+  "pos": "det.",
+  "zh": "兩者都"
+ },
+ "same": {
+  "ipa": "seɪm",
+  "pos": "adj.",
+  "zh": "相同的"
+ },
+ "able": {
+  "ipa": "ˈeɪbl",
+  "pos": "adj.",
+  "zh": "能夠的"
+ },
+ "long": {
+  "ipa": "lɒŋ",
+  "pos": "adj.",
+  "zh": "長的"
+ },
+ "great": {
+  "ipa": "ɡreɪt",
+  "pos": "adj.",
+  "zh": "很棒的；巨大的"
+ },
+ "little": {
+  "ipa": "ˈlɪtl",
+  "pos": "adj.",
+  "zh": "小的；少的"
+ },
+ "possible": {
+  "ipa": "ˈpɒsəbl",
+  "pos": "adj.",
+  "zh": "可能的"
+ },
+ "better": {
+  "ipa": "ˈbetə",
+  "pos": "adj.",
+  "zh": "更好的"
+ },
+ "sure": {
+  "ipa": "ʃɔː",
+  "pos": "adj.",
+  "zh": "確定的"
+ },
+ "full": {
+  "ipa": "fʊl",
+  "pos": "adj.",
+  "zh": "滿的"
+ },
+ "high": {
+  "ipa": "haɪ",
+  "pos": "adj.",
+  "zh": "高的"
+ },
+ "strong": {
+  "ipa": "strɒŋ",
+  "pos": "adj.",
+  "zh": "強壯的；堅固的"
+ },
+ "open": {
+  "ipa": "ˈəʊpən",
+  "pos": "v.",
+  "zh": "打開"
+ },
+ "get": {
+  "ipa": "ɡet",
+  "pos": "v.",
+  "zh": "得到"
+ },
+ "know": {
+  "ipa": "nəʊ",
+  "pos": "v.",
+  "zh": "知道"
+ },
+ "see": {
+  "ipa": "siː",
+  "pos": "v.",
+  "zh": "看見"
+ },
+ "look": {
+  "ipa": "lʊk",
+  "pos": "v.",
+  "zh": "看"
+ },
+ "give": {
+  "ipa": "ɡɪv",
+  "pos": "v.",
+  "zh": "給"
+ },
+ "tell": {
+  "ipa": "tel",
+  "pos": "v.",
+  "zh": "告訴"
+ },
+ "call": {
+  "ipa": "kɔːl",
+  "pos": "v.",
+  "zh": "打電話；稱呼"
+ },
+ "let": {
+  "ipa": "let",
+  "pos": "v.",
+  "zh": "讓"
+ },
+ "begin": {
+  "ipa": "bɪˈɡɪn",
+  "pos": "v.",
+  "zh": "開始"
+ },
+ "show": {
+  "ipa": "ʃəʊ",
+  "pos": "v.",
+  "zh": "展示"
+ },
+ "hear": {
+  "ipa": "hɪə",
+  "pos": "v.",
+  "zh": "聽見"
+ },
+ "run": {
+  "ipa": "rʌn",
+  "pos": "v.",
+  "zh": "跑；經營"
+ },
+ "hold": {
+  "ipa": "həʊld",
+  "pos": "v.",
+  "zh": "握住；舉行"
+ },
+ "happen": {
+  "ipa": "ˈhæpən",
+  "pos": "v.",
+  "zh": "發生"
+ },
+ "write": {
+  "ipa": "raɪt",
+  "pos": "v.",
+  "zh": "寫"
+ },
+ "stand": {
+  "ipa": "stænd",
+  "pos": "v.",
+  "zh": "站"
+ },
+ "lose": {
+  "ipa": "luːz",
+  "pos": "v.",
+  "zh": "失去"
+ },
+ "include": {
+  "ipa": "ɪnˈkluːd",
+  "pos": "v.",
+  "zh": "包括"
+ },
+ "continue": {
+  "ipa": "kənˈtɪnjuː",
+  "pos": "v.",
+  "zh": "繼續"
+ },
+ "lead": {
+  "ipa": "liːd",
+  "pos": "v.",
+  "zh": "帶領；導致"
+ },
+ "follow": {
+  "ipa": "ˈfɒləʊ",
+  "pos": "v.",
+  "zh": "跟隨"
+ },
+ "speak": {
+  "ipa": "spiːk",
+  "pos": "v.",
+  "zh": "說"
+ },
+ "read": {
+  "ipa": "riːd",
+  "pos": "v.",
+  "zh": "閱讀"
+ },
+ "grow": {
+  "ipa": "ɡrəʊ",
+  "pos": "v.",
+  "zh": "成長"
+ },
+ "win": {
+  "ipa": "wɪn",
+  "pos": "v.",
+  "zh": "贏"
+ },
+ "teach": {
+  "ipa": "tiːtʃ",
+  "pos": "v.",
+  "zh": "教"
+ },
+ "offer": {
+  "ipa": "ˈɒfə",
+  "pos": "v.",
+  "zh": "提供"
+ },
+ "remember": {
+  "ipa": "rɪˈmembə",
+  "pos": "v.",
+  "zh": "記得"
+ },
+ "buy": {
+  "ipa": "baɪ",
+  "pos": "v.",
+  "zh": "買"
+ },
+ "wait": {
+  "ipa": "weɪt",
+  "pos": "v.",
+  "zh": "等待"
+ },
+ "serve": {
+  "ipa": "sɜːv",
+  "pos": "v.",
+  "zh": "服務；供應"
+ },
+ "die": {
+  "ipa": "daɪ",
+  "pos": "v.",
+  "zh": "死亡"
+ },
+ "expect": {
+  "ipa": "ɪkˈspekt",
+  "pos": "v.",
+  "zh": "預期"
+ },
+ "build": {
+  "ipa": "bɪld",
+  "pos": "v.",
+  "zh": "建造"
+ },
+ "fall": {
+  "ipa": "fɔːl",
+  "pos": "v.",
+  "zh": "落下；下降"
+ },
+ "cut": {
+  "ipa": "kʌt",
+  "pos": "v.",
+  "zh": "切；削減"
+ },
+ "reach": {
+  "ipa": "riːtʃ",
+  "pos": "v.",
+  "zh": "到達"
+ },
+ "kill": {
+  "ipa": "kɪl",
+  "pos": "v.",
+  "zh": "殺死"
+ },
+ "raise": {
+  "ipa": "reɪz",
+  "pos": "v.",
+  "zh": "提高；籌集"
+ },
+ "pass": {
+  "ipa": "pɑːs",
+  "pos": "v.",
+  "zh": "通過"
+ },
+ "sell": {
+  "ipa": "sel",
+  "pos": "v.",
+  "zh": "賣"
+ },
+ "decide": {
+  "ipa": "dɪˈsaɪd",
+  "pos": "v.",
+  "zh": "決定"
+ },
+ "return": {
+  "ipa": "rɪˈtɜːn",
+  "pos": "v.",
+  "zh": "返回"
+ },
+ "carry": {
+  "ipa": "ˈkæri",
+  "pos": "v.",
+  "zh": "攜帶"
+ },
+ "break": {
+  "ipa": "breɪk",
+  "pos": "v.",
+  "zh": "打破"
+ },
+ "receive": {
+  "ipa": "rɪˈsiːv",
+  "pos": "v.",
+  "zh": "收到"
+ },
+ "hit": {
+  "ipa": "hɪt",
+  "pos": "v.",
+  "zh": "擊中；達到"
+ },
+ "cover": {
+  "ipa": "ˈkʌvə",
+  "pos": "v.",
+  "zh": "覆蓋"
+ },
+ "catch": {
+  "ipa": "kætʃ",
+  "pos": "v.",
+  "zh": "抓住"
+ },
+ "draw": {
+  "ipa": "drɔː",
+  "pos": "v.",
+  "zh": "畫；拉"
+ },
+ "choose": {
+  "ipa": "tʃuːz",
+  "pos": "v.",
+  "zh": "選擇"
+ }
+}

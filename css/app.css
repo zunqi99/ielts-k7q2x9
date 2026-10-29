@@ -30,6 +30,7 @@ h2{font-size:18px;margin:4px 0}
 .btn.sm{display:inline-block;width:auto;padding:8px 12px;font-size:14px;margin:6px 6px 6px 0}
 .btn.on{background:#1cb0f6;box-shadow:0 4px 0 #1899d6;color:#fff;border-color:transparent}
 .btn:disabled{background:#e5e5e5;box-shadow:none;color:#afafaf;border-color:#e5e5e5}
+.btn,.opt{scroll-margin-bottom:120px}
 .btn:active:not(:disabled){transform:translateY(2px);box-shadow:0 2px 0 #46a302}
 .btn.gray:active{box-shadow:0 2px 0 #e5e5e5}
 .path{display:flex;flex-direction:column;align-items:center}
@@ -122,9 +123,15 @@ input[type="date"]{
   display:flex;z-index:20;padding-bottom:env(safe-area-inset-bottom);
 }
 .tabbar button{
-  flex:1;border:0;background:none;padding:8px 2px 10px;font-size:12px;font-weight:800;color:#777;cursor:pointer;
+  flex:1;border:0;background:none;padding:8px 0 10px;font-size:11px;font-weight:800;color:#777;cursor:pointer;
 }
-.tabbar button .ti{display:block;font-size:18px;line-height:1.2}
+.tabbar button .ti{display:block;font-size:16px;line-height:1.2}
+.passage{max-height:168px;overflow:auto;background:#f3ffe6;border-radius:14px;padding:12px;font-size:15px;line-height:1.65;margin:8px 0}
+textarea,input[type="text"]{width:100%;font-size:16px;padding:12px;border-radius:12px;border:2px solid #e5e5e5;background:#fff;color:#3c3c3c}
+textarea{min-height:140px;resize:vertical}
+.pager{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.prog{height:12px;background:#e5e5e5;border-radius:8px;overflow:hidden;margin:8px 0}
+.prog i{display:block;height:100%;background:#58cc02;width:0}
 .tabbar button.on{color:#58cc02}
 .loading{text-align:center;padding:48px 10px;color:#777}
 @media (min-width:481px){

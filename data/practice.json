@@ -1,0 +1,5176 @@
+{
+ "reading": [
+  {
+   "id": "p-online",
+   "title": "Online Classes",
+   "topic": "education",
+   "text": "More university students now take part of their course online. A student can pause a lecture and play it again, which helps when the teacher speaks quickly. However, some students miss the chance to ask a question in a real classroom. In a 2024 survey at one university in Taiwan, 62 percent of students liked the flexible timetable, but only 41 percent said they spoke enough English during online classes. The campus library is still open every weekday, and many students go there to study with friends. The university has no plan to remove face-to-face teaching.",
+   "qs": [
+    {
+     "id": "p-online-1",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Students can play a recorded lecture again.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 0,
+     "explanation": "文章說學生可以暫停並再播放課程，所以這句是 True。",
+     "evidence": "A student can pause a lecture and play it again.",
+     "focus": "lecture"
+    },
+    {
+     "id": "p-online-2",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Most students in the survey felt they spoke enough English online.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "只有 41 percent 覺得線上英文說得夠，並非大多數，所以是 False。",
+     "evidence": "only 41 percent said they spoke enough English",
+     "focus": "survey"
+    },
+    {
+     "id": "p-online-3",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：The survey compared three universities in Taiwan.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 2,
+     "explanation": "文章只提到 one university，沒有比較三所大學，所以是 Not Given。",
+     "evidence": "a 2024 survey at one university in Taiwan",
+     "focus": ""
+    },
+    {
+     "id": "p-online-4",
+     "kind": "mcq",
+     "prompt": "What did 62 percent of the students like?",
+     "choices": [
+      "The flexible timetable",
+      "The long exams",
+      "The closed library",
+      "Speaking tests every day"
+     ],
+     "answer": 0,
+     "explanation": "62 percent 喜歡的是彈性的時間表。",
+     "evidence": "62 percent of students liked the flexible timetable",
+     "focus": "flexible"
+    },
+    {
+     "id": "p-online-5",
+     "kind": "mcq",
+     "prompt": "Where do many students study with friends?",
+     "choices": [
+      "In the campus library",
+      "On the train",
+      "In a cafe in Taipei",
+      "At the teacher's home"
+     ],
+     "answer": 0,
+     "explanation": "許多學生到校園圖書館和朋友一起讀書。",
+     "evidence": "many students go there to study with friends",
+     "focus": "library"
+    },
+    {
+     "id": "p-online-6",
+     "kind": "mcq",
+     "prompt": "What does the university plan to do about classrooms?",
+     "choices": [
+      "Keep face-to-face teaching",
+      "Close every classroom",
+      "Teach only at night",
+      "Move the campus"
+     ],
+     "answer": 0,
+     "explanation": "大學沒有打算取消面對面教學。",
+     "evidence": "The university has no plan to remove face-to-face teaching.",
+     "focus": ""
+    }
+   ]
+  },
+  {
+   "id": "p-plastic",
+   "title": "Plastic in Daily Life",
+   "topic": "environment",
+   "text": "Plastic is light and cheap, so shops use it for bags, bottles and food boxes. The problem starts after we throw it away. A plastic bottle can remain in the sea for hundreds of years, and small pieces are often eaten by fish. Some cities now charge shoppers for a plastic bag. In one coastal town, the charge cut bag use by about a third in the first year. Scientists say the charge helps, but it does not replace recycling. People still need to rinse bottles and put them in the correct bin. The article does not discuss air travel.",
+   "qs": [
+    {
+     "id": "p-plastic-1",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Plastic is popular with shops because it is light and cheap.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 0,
+     "explanation": "文章開頭就說塑膠又輕又便宜，所以商店使用它。True。",
+     "evidence": "Plastic is light and cheap, so shops use it",
+     "focus": "plastic"
+    },
+    {
+     "id": "p-plastic-2",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：The bag charge removed all plastic waste in the town.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "收費只讓塑膠袋使用減少約三分之一，而且作者說它不能取代回收。False。",
+     "evidence": "the charge cut bag use by about a third",
+     "focus": "charge"
+    },
+    {
+     "id": "p-plastic-3",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：The town banned plastic bottles last winter.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 2,
+     "explanation": "文章沒有提到禁止塑膠瓶，也沒有提到去年冬天。Not Given。",
+     "evidence": "",
+     "focus": ""
+    },
+    {
+     "id": "p-plastic-4",
+     "kind": "mcq",
+     "prompt": "What sometimes happens to small pieces of plastic?",
+     "choices": [
+      "Fish eat them",
+      "They become fuel",
+      "Shops reuse them the same day",
+      "They turn into glass"
+     ],
+     "answer": 0,
+     "explanation": "小碎片常被魚吃掉。",
+     "evidence": "small pieces are often eaten by fish",
+     "focus": "fish"
+    },
+    {
+     "id": "p-plastic-5",
+     "kind": "mcq",
+     "prompt": "What should people do with bottles?",
+     "choices": [
+      "Rinse them and sort them",
+      "Burn them at home",
+      "Bury them in the park",
+      "Fill them with oil"
+     ],
+     "answer": 0,
+     "explanation": "文章建議沖洗瓶子並放入正確的回收桶。",
+     "evidence": "rinse bottles and put them in the correct bin",
+     "focus": "recycle"
+    },
+    {
+     "id": "p-plastic-6",
+     "kind": "mcq",
+     "prompt": "By about how much did bag use fall in the first year?",
+     "choices": [
+      "A third",
+      "A half",
+      "Three times",
+      "It did not fall"
+     ],
+     "answer": 0,
+     "explanation": "第一年大約減少三分之一。",
+     "evidence": "cut bag use by about a third in the first year",
+     "focus": ""
+    }
+   ]
+  },
+  {
+   "id": "p-phones",
+   "title": "Phones at Work",
+   "topic": "technology",
+   "text": "A small design office in Taichung asked staff to leave personal phones in a box during meetings. The manager, Ms Lin, said meetings became twenty minutes shorter because people stopped checking messages. Not everyone agreed. Two designers said they needed the phone to show photos to a client. The office therefore allows phones when a client is in the room, but not during ordinary team meetings. The rule began in March. The company has not measured whether the quality of the design work improved.",
+   "qs": [
+    {
+     "id": "p-phones-1",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Meetings became shorter after the phone box was introduced.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 0,
+     "explanation": "經理說會議少了二十分鐘。True。",
+     "evidence": "meetings became twenty minutes shorter",
+     "focus": "meeting"
+    },
+    {
+     "id": "p-phones-2",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Every designer supported the rule.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "有兩位設計師不同意，因為他們要給客戶看照片。False。",
+     "evidence": "Not everyone agreed.",
+     "focus": "designer"
+    },
+    {
+     "id": "p-phones-3",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：The design work is now better than before.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 2,
+     "explanation": "公司還沒有衡量設計品質是否變好，所以不能說已經變好。Not Given。",
+     "evidence": "has not measured whether the quality of the design work improved",
+     "focus": ""
+    },
+    {
+     "id": "p-phones-4",
+     "kind": "mcq",
+     "prompt": "When may staff use phones?",
+     "choices": [
+      "When a client is in the room",
+      "During every team meeting",
+      "Only after 6 p.m.",
+      "Never"
+     ],
+     "answer": 0,
+     "explanation": "客戶在場時可以使用，一般團隊會議不行。",
+     "evidence": "allows phones when a client is in the room",
+     "focus": "client"
+    },
+    {
+     "id": "p-phones-5",
+     "kind": "mcq",
+     "prompt": "Where is the office?",
+     "choices": [
+      "Taichung",
+      "Taipei",
+      "London",
+      "Kaohsiung"
+     ],
+     "answer": 0,
+     "explanation": "辦公室在台中。",
+     "evidence": "A small design office in Taichung",
+     "focus": ""
+    },
+    {
+     "id": "p-phones-6",
+     "kind": "mcq",
+     "prompt": "When did the rule start?",
+     "choices": [
+      "In March",
+      "In May",
+      "Last Monday",
+      "In 2019"
+     ],
+     "answer": 0,
+     "explanation": "規定從三月開始。",
+     "evidence": "The rule began in March.",
+     "focus": ""
+    }
+   ]
+  },
+  {
+   "id": "p-walk",
+   "title": "A Short Walk",
+   "topic": "health",
+   "text": "Doctors at a city clinic advise adults to walk for thirty minutes on most days. The walk does not have to be fast. Even a walk to the market counts. Patients who walked regularly for three months reported better sleep and less back pain. The clinic did not claim that walking cures serious disease. It also reminded people with chest pain to speak to a doctor before they start. The advice is free, and the clinic prints it on a small card. No special shoes are required.",
+   "qs": [
+    {
+     "id": "p-walk-1",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：The clinic says every walk must be very fast.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "文章說不必走很快。False。",
+     "evidence": "The walk does not have to be fast.",
+     "focus": "walk"
+    },
+    {
+     "id": "p-walk-2",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Some patients slept better after walking for three months.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 0,
+     "explanation": "規律走路三個月的病人回報睡眠變好。True。",
+     "evidence": "reported better sleep and less back pain",
+     "focus": "sleep"
+    },
+    {
+     "id": "p-walk-3",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：The clinic sells walking shoes.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 2,
+     "explanation": "只說不需要特殊鞋子，沒有說診所賣鞋。Not Given。",
+     "evidence": "No special shoes are required.",
+     "focus": ""
+    },
+    {
+     "id": "p-walk-4",
+     "kind": "mcq",
+     "prompt": "How long should adults try to walk on most days?",
+     "choices": [
+      "Thirty minutes",
+      "Ten minutes",
+      "Two hours",
+      "Five minutes"
+     ],
+     "answer": 0,
+     "explanation": "建議大多數日子走三十分鐘。",
+     "evidence": "walk for thirty minutes on most days",
+     "focus": ""
+    },
+    {
+     "id": "p-walk-5",
+     "kind": "mcq",
+     "prompt": "Who should talk to a doctor before starting?",
+     "choices": [
+      "People with chest pain",
+      "All children",
+      "People who already walk",
+      "Office cleaners only"
+     ],
+     "answer": 0,
+     "explanation": "有胸痛的人開始前要先問醫生。",
+     "evidence": "people with chest pain to speak to a doctor before they start",
+     "focus": "pain"
+    },
+    {
+     "id": "p-walk-6",
+     "kind": "mcq",
+     "prompt": "What does the clinic say walking does NOT do?",
+     "choices": [
+      "Cure serious disease",
+      "Help sleep",
+      "Count a walk to the market",
+      "Reduce back pain"
+     ],
+     "answer": 0,
+     "explanation": "診所沒有聲稱走路能治癒嚴重疾病。",
+     "evidence": "did not claim that walking cures serious disease",
+     "focus": "disease"
+    }
+   ]
+  },
+  {
+   "id": "p-remote",
+   "title": "Working from Home",
+   "topic": "work",
+   "text": "After the office moved to a smaller building, half of the staff at GreenMart began working from home two days a week. Workers save the commute, and several said they finish reports earlier in a quiet room. The company still wants everyone in the office on Wednesday for meetings. New staff must spend their first month fully on site, so they can learn the job from a colleague. GreenMart did not cut salaries when the building became smaller. Managers say the home days are a trial until December.",
+   "qs": [
+    {
+     "id": "p-remote-1",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：All staff work from home every day.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "只有一半員工、每週兩天在家，星期三還要進辦公室。False。",
+     "evidence": "half of the staff ... two days a week",
+     "focus": "staff"
+    },
+    {
+     "id": "p-remote-2",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：New staff stay in the office for the first month.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 0,
+     "explanation": "新員工第一個月必須全程在公司。True。",
+     "evidence": "New staff must spend their first month fully on site",
+     "focus": "colleague"
+    },
+    {
+     "id": "p-remote-3",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Staff pay is lower in the smaller building.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "文章明確說薪水沒有因為大樓變小而減少。False。",
+     "evidence": "did not cut salaries",
+     "focus": "salary"
+    },
+    {
+     "id": "p-remote-4",
+     "kind": "mcq",
+     "prompt": "Which day must everyone be in the office?",
+     "choices": [
+      "Wednesday",
+      "Monday",
+      "Friday",
+      "Sunday"
+     ],
+     "answer": 0,
+     "explanation": "星期三全員進辦公室開會。",
+     "evidence": "everyone in the office on Wednesday",
+     "focus": "meeting"
+    },
+    {
+     "id": "p-remote-5",
+     "kind": "mcq",
+     "prompt": "Why do some workers finish reports earlier at home?",
+     "choices": [
+      "The room is quiet",
+      "The reports are shorter",
+      "A manager writes them",
+      "They have no computer"
+     ],
+     "answer": 0,
+     "explanation": "他們說安靜的房間讓報告更早完成。",
+     "evidence": "finish reports earlier in a quiet room",
+     "focus": ""
+    },
+    {
+     "id": "p-remote-6",
+     "kind": "mcq",
+     "prompt": "How long is the home-working trial?",
+     "choices": [
+      "Until December",
+      "For one week",
+      "For ten years",
+      "It has already ended"
+     ],
+     "answer": 0,
+     "explanation": "在家工作只是試行到十二月。",
+     "evidence": "a trial until December",
+     "focus": "trial"
+    }
+   ]
+  },
+  {
+   "id": "p-train",
+   "title": "The New Train Line",
+   "topic": "travel",
+   "text": "A new train line opened between the harbour and the university in June. The journey takes eighteen minutes, and trains run every ten minutes from 6 a.m. to 11 p.m. A single ticket costs 25 dollars. Students pay 15 dollars if they show a valid student card. Bicycles are allowed only on the last carriage, and they are not allowed during the morning rush from 7:30 to 9:00. In the first month, about 40,000 people used the line. The city has not yet decided whether shops will open inside the stations.",
+   "qs": [
+    {
+     "id": "p-train-1",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Trains stop running at 11 p.m.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 0,
+     "explanation": "班次從早上 6 點到晚上 11 點。True。",
+     "evidence": "from 6 a.m. to 11 p.m.",
+     "focus": "train"
+    },
+    {
+     "id": "p-train-2",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Students travel free.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "學生票是 15 元，不是免費。False。",
+     "evidence": "Students pay 15 dollars",
+     "focus": "student"
+    },
+    {
+     "id": "p-train-3",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Shops inside the stations are already open.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 2,
+     "explanation": "市府還沒決定車站裡要不要開店，所以不能說已經開了。Not Given 比 False 更準，因為連決定都還沒有。",
+     "evidence": "has not yet decided whether shops will open",
+     "focus": ""
+    },
+    {
+     "id": "p-train-4",
+     "kind": "mcq",
+     "prompt": "How long is the journey?",
+     "choices": [
+      "18 minutes",
+      "10 minutes",
+      "25 minutes",
+      "40 minutes"
+     ],
+     "answer": 0,
+     "explanation": "車程十八分鐘。十個月是班距，二十五是票價。",
+     "evidence": "The journey takes eighteen minutes",
+     "focus": "journey"
+    },
+    {
+     "id": "p-train-5",
+     "kind": "mcq",
+     "prompt": "When are bicycles not allowed?",
+     "choices": [
+      "From 7:30 to 9:00",
+      "After 11 p.m.",
+      "All day",
+      "Only on Sundays"
+     ],
+     "answer": 0,
+     "explanation": "早高峰 7:30 到 9:00 不能帶腳踏車。",
+     "evidence": "not allowed during the morning rush from 7:30 to 9:00",
+     "focus": "bicycle"
+    },
+    {
+     "id": "p-train-6",
+     "kind": "mcq",
+     "prompt": "How many people used the line in the first month?",
+     "choices": [
+      "About 40,000",
+      "About 15,000",
+      "About 18",
+      "About 400"
+     ],
+     "answer": 0,
+     "explanation": "第一個月大約四萬人。",
+     "evidence": "about 40,000 people used the line",
+     "focus": ""
+    }
+   ]
+  },
+  {
+   "id": "p-age",
+   "title": "An Older Town",
+   "topic": "society",
+   "text": "The town of Hualien's fishing district has fewer children than it did twenty years ago. Many young adults move to bigger cities for work, so the local school now has only four classes. The clinic, however, is busier, because a larger share of residents are over sixty. Volunteers run a lunch club three times a week. The mayor wants to build small flats for older people near the clinic, but the plan still needs funding. The passage does not say that the school will close. Tourism in summer remains important for shops on the main street.",
+   "qs": [
+    {
+     "id": "p-age-1",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：There are fewer children in the district than twenty years ago.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 0,
+     "explanation": "文章第一句就說孩子比二十年前少。True。",
+     "evidence": "has fewer children than it did twenty years ago",
+     "focus": "children"
+    },
+    {
+     "id": "p-age-2",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：The school has already closed.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "學校還在，只是只剩四個班，文章也說沒有提到會關閉。False。",
+     "evidence": "the local school now has only four classes",
+     "focus": "school"
+    },
+    {
+     "id": "p-age-3",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：The new flats have already been built.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 2,
+     "explanation": "市長想蓋，但還需要經費，沒有說已經蓋好。Not Given。",
+     "evidence": "the plan still needs funding",
+     "focus": "funding"
+    },
+    {
+     "id": "p-age-4",
+     "kind": "mcq",
+     "prompt": "Why is the clinic busier?",
+     "choices": [
+      "More residents are over sixty",
+      "It is the only shop",
+      "Tourists sleep there",
+      "The school moved into it"
+     ],
+     "answer": 0,
+     "explanation": "因為超過六十歲的居民比例變高。",
+     "evidence": "a larger share of residents are over sixty",
+     "focus": "clinic"
+    },
+    {
+     "id": "p-age-5",
+     "kind": "mcq",
+     "prompt": "How often does the lunch club meet?",
+     "choices": [
+      "Three times a week",
+      "Every morning",
+      "Once a year",
+      "Only in summer"
+     ],
+     "answer": 0,
+     "explanation": "志工的午餐會每週三次。",
+     "evidence": "a lunch club three times a week",
+     "focus": "volunteer"
+    },
+    {
+     "id": "p-age-6",
+     "kind": "mcq",
+     "prompt": "What remains important for shops on the main street?",
+     "choices": [
+      "Summer tourism",
+      "Night schools",
+      "Car factories",
+      "Winter sport"
+     ],
+     "answer": 0,
+     "explanation": "夏天的觀光對大街商店仍然重要。",
+     "evidence": "Tourism in summer remains important",
+     "focus": "tourism"
+    }
+   ]
+  },
+  {
+   "id": "p-museum",
+   "title": "A Free Museum",
+   "topic": "culture",
+   "text": "The city museum stopped charging for entry on weekdays. Visitor numbers rose from 800 a day to about 2,000. Teachers bring classes on Tuesday morning, when the galleries are quieter. The most popular room shows old photographs of the harbour. Audio guides are available in Mandarin and English, but not in Japanese. A small shop sells postcards, and the money from the shop helps pay for school visits. The museum is closed on Monday for cleaning. Cameras are allowed, but flash is not.",
+   "qs": [
+    {
+     "id": "p-museum-1",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Entry is free on weekdays.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 0,
+     "explanation": "平日停止收費，所以平日免費。True。",
+     "evidence": "stopped charging for entry on weekdays",
+     "focus": "museum"
+    },
+    {
+     "id": "p-museum-2",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Audio guides include Japanese.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "語音導覽有中文和英文，但沒有日文。False。",
+     "evidence": "in Mandarin and English, but not in Japanese",
+     "focus": "guide"
+    },
+    {
+     "id": "p-museum-3",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：The photographs were taken by a famous artist.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 2,
+     "explanation": "只說最受歡迎的房間有舊港照片，沒有說拍攝者。Not Given。",
+     "evidence": "old photographs of the harbour",
+     "focus": ""
+    },
+    {
+     "id": "p-museum-4",
+     "kind": "mcq",
+     "prompt": "About how many people visit each day now?",
+     "choices": [
+      "2,000",
+      "800",
+      "200",
+      "20,000"
+     ],
+     "answer": 0,
+     "explanation": "人數從每天 800 升到大約 2,000。",
+     "evidence": "rose from 800 a day to about 2,000",
+     "focus": "visitor"
+    },
+    {
+     "id": "p-museum-5",
+     "kind": "mcq",
+     "prompt": "When is the museum closed?",
+     "choices": [
+      "Monday",
+      "Tuesday",
+      "Sunday",
+      "Every weekday"
+     ],
+     "answer": 0,
+     "explanation": "星期一清掃，不開放。",
+     "evidence": "closed on Monday for cleaning",
+     "focus": ""
+    },
+    {
+     "id": "p-museum-6",
+     "kind": "mcq",
+     "prompt": "What helps pay for school visits?",
+     "choices": [
+      "Money from the postcard shop",
+      "A tax on cameras",
+      "Ticket sales on Monday",
+      "A fee for flash photos"
+     ],
+     "answer": 0,
+     "explanation": "商店賣明信片的收入用來支付學校參觀。",
+     "evidence": "the money from the shop helps pay for school visits",
+     "focus": "postcard"
+    }
+   ]
+  },
+  {
+   "id": "p-diet",
+   "title": "Lunch at School",
+   "topic": "health",
+   "text": "A secondary school changed its lunch menu in September. Fried food is served only on Friday, and students can choose fruit instead of a sweet drink. After one term, the canteen sold 30 percent fewer soft drinks. Teachers noticed that afternoon classes were a little calmer, but they did not prove that the menu was the only reason. Some parents complained that the new meals cost 10 dollars more each week. The school kitchen still uses local vegetables when they are in season. Breakfast is not provided.",
+   "qs": [
+    {
+     "id": "p-diet-1",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Fried food is available every day.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "油炸食物只在星期五供應。False。",
+     "evidence": "Fried food is served only on Friday",
+     "focus": "fried"
+    },
+    {
+     "id": "p-diet-2",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Soft drink sales fell by about 30 percent.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 0,
+     "explanation": "一學期後汽水少賣了百分之三十。True。",
+     "evidence": "sold 30 percent fewer soft drinks",
+     "focus": "canteen"
+    },
+    {
+     "id": "p-diet-3",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：The calmer classes were caused only by the new menu.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "老師沒有證明菜單是唯一原因，所以不能說只是因為菜單。False。",
+     "evidence": "did not prove that the menu was the only reason",
+     "focus": ""
+    },
+    {
+     "id": "p-diet-4",
+     "kind": "mcq",
+     "prompt": "What can students choose instead of a sweet drink?",
+     "choices": [
+      "Fruit",
+      "Fried chicken",
+      "Coffee",
+      "Nothing"
+     ],
+     "answer": 0,
+     "explanation": "可以用水果代替甜飲料。",
+     "evidence": "choose fruit instead of a sweet drink",
+     "focus": "fruit"
+    },
+    {
+     "id": "p-diet-5",
+     "kind": "mcq",
+     "prompt": "Why did some parents complain?",
+     "choices": [
+      "Meals cost 10 dollars more a week",
+      "The school closed the canteen",
+      "There was no fruit",
+      "Lunch became free"
+     ],
+     "answer": 0,
+     "explanation": "新餐點每週貴了 10 元。",
+     "evidence": "the new meals cost 10 dollars more each week",
+     "focus": "complain"
+    },
+    {
+     "id": "p-diet-6",
+     "kind": "mcq",
+     "prompt": "What is not provided?",
+     "choices": [
+      "Breakfast",
+      "Friday fried food",
+      "Local vegetables",
+      "Fruit"
+     ],
+     "answer": 0,
+     "explanation": "學校不提供早餐。",
+     "evidence": "Breakfast is not provided.",
+     "focus": "breakfast"
+    }
+   ]
+  },
+  {
+   "id": "p-rent",
+   "title": "Renting near Campus",
+   "topic": "society",
+   "text": "Rents near the campus rose by 15 percent last year. A single room now costs about 8,000 dollars a month, not including electricity. Many students share a flat so that each person pays less. The university keeps 200 low-cost beds, but the waiting list is long, and first-year students are given priority. Landlords must return the deposit within two weeks if the room is left in good condition. The city is building a new dormitory, yet it will not open until the year after next. Cafes near the gate have also become more expensive.",
+   "qs": [
+    {
+     "id": "p-rent-1",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：A single room costs about 8,000 dollars a month before electricity.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 0,
+     "explanation": "單人房大約每月 8,000，電費另計。True。",
+     "evidence": "about 8,000 dollars a month, not including electricity",
+     "focus": "rent"
+    },
+    {
+     "id": "p-rent-2",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Any student can get a low-cost bed immediately.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "候補名單很長，而且一年級優先，不是任何人立刻有床。False。",
+     "evidence": "the waiting list is long, and first-year students are given priority",
+     "focus": "priority"
+    },
+    {
+     "id": "p-rent-3",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：The new dormitory opens this September.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "要後年才開，不是今年九月。False。",
+     "evidence": "will not open until the year after next",
+     "focus": "dormitory"
+    },
+    {
+     "id": "p-rent-4",
+     "kind": "mcq",
+     "prompt": "By how much did rents rise last year?",
+     "choices": [
+      "15 percent",
+      "8 percent",
+      "200 beds",
+      "Two weeks"
+     ],
+     "answer": 0,
+     "explanation": "去年租金上漲百分之十五。",
+     "evidence": "rose by 15 percent last year",
+     "focus": ""
+    },
+    {
+     "id": "p-rent-5",
+     "kind": "mcq",
+     "prompt": "When must a landlord return the deposit?",
+     "choices": [
+      "Within two weeks if the room is in good condition",
+      "After one year",
+      "Only if the student fails",
+      "Never"
+     ],
+     "answer": 0,
+     "explanation": "房間狀況良好時，兩週內退還押金。",
+     "evidence": "return the deposit within two weeks",
+     "focus": "deposit"
+    },
+    {
+     "id": "p-rent-6",
+     "kind": "mcq",
+     "prompt": "What else near the campus became more expensive?",
+     "choices": [
+      "Cafes near the gate",
+      "Train tickets",
+      "Library fines",
+      "Textbooks from the clinic"
+     ],
+     "answer": 0,
+     "explanation": "校門口的咖啡店也變貴了。",
+     "evidence": "Cafes near the gate have also become more expensive.",
+     "focus": "cafe"
+    }
+   ]
+  },
+  {
+   "id": "p-energy",
+   "title": "Rooftop Solar",
+   "topic": "environment",
+   "text": "The town fitted solar panels on the roof of the sports hall in April. On sunny days the panels produce enough electricity for the lights and the showers. They do not power the whole town. Extra power is sold to the grid, and the income pays for repairs. In cloudy weeks the hall still uses ordinary electricity. Engineers check the panels twice a year. Local schools visit in May to learn how the system works. The project cost 2 million dollars and was partly funded by a national grant. Wind power is not used at the hall.",
+   "qs": [
+    {
+     "id": "p-energy-1",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：The panels can supply the whole town.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "文章說它們不能供應整個城鎮。False。",
+     "evidence": "They do not power the whole town.",
+     "focus": "solar"
+    },
+    {
+     "id": "p-energy-2",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：Extra electricity is sold.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 0,
+     "explanation": "多餘的電賣給電網，收入用來維修。True。",
+     "evidence": "Extra power is sold to the grid",
+     "focus": "electricity"
+    },
+    {
+     "id": "p-energy-3",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：The panels were made in Taiwan.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 2,
+     "explanation": "沒有提到面板的製造地。Not Given。",
+     "evidence": "",
+     "focus": ""
+    },
+    {
+     "id": "p-energy-4",
+     "kind": "mcq",
+     "prompt": "When were the panels fitted?",
+     "choices": [
+      "In April",
+      "In May",
+      "Twice a year",
+      "Last Monday"
+     ],
+     "answer": 0,
+     "explanation": "四月裝在體育館屋頂。五月是學校參觀。",
+     "evidence": "fitted solar panels ... in April",
+     "focus": "panel"
+    },
+    {
+     "id": "p-energy-5",
+     "kind": "mcq",
+     "prompt": "What happens in cloudy weeks?",
+     "choices": [
+      "The hall uses ordinary electricity",
+      "The town closes",
+      "Showers are removed",
+      "Schools pay the bill"
+     ],
+     "answer": 0,
+     "explanation": "陰天那幾週仍使用一般電力。",
+     "evidence": "In cloudy weeks the hall still uses ordinary electricity.",
+     "focus": ""
+    },
+    {
+     "id": "p-energy-6",
+     "kind": "mcq",
+     "prompt": "How was the project paid for in part?",
+     "choices": [
+      "A national grant",
+      "Ticket sales",
+      "A student fee",
+      "Wind turbines"
+     ],
+     "answer": 0,
+     "explanation": "部分經費來自國家補助。風電並沒有用在這座館。",
+     "evidence": "partly funded by a national grant",
+     "focus": "grant"
+    }
+   ]
+  },
+  {
+   "id": "p-exam",
+   "title": "Preparing for a Speaking Test",
+   "topic": "education",
+   "text": "James practises IELTS speaking for fifteen minutes every evening. He records himself and listens the next morning. His teacher told him to answer the question first and then give one reason and one example. Long lists of hard words do not help if the answer is unclear. In Part 2 he now spends the one minute of preparation writing three short prompts, not full sentences. He still finds Part 3 difficult because the questions are more general. He has not taken the real test yet. His target is band 6.5, and the test date on his form is 7 June 2027.",
+   "qs": [
+    {
+     "id": "p-exam-1",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：James practises speaking every evening.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 0,
+     "explanation": "他每天晚上練習十五分鐘。True。",
+     "evidence": "practises IELTS speaking for fifteen minutes every evening",
+     "focus": "practise"
+    },
+    {
+     "id": "p-exam-2",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：His teacher wants him to begin with a long list of difficult words.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 1,
+     "explanation": "老師要他先回答，再給一個理由和一個例子。難字清單如果讓答案不清楚就沒有幫助。False。",
+     "evidence": "answer the question first and then give one reason and one example",
+     "focus": "teacher"
+    },
+    {
+     "id": "p-exam-3",
+     "kind": "tfng",
+     "prompt": "根據文章判斷：James scored 6.5 on a test last month.",
+     "choices": [
+      "True 正確",
+      "False 錯誤",
+      "Not Given 文中未提及"
+     ],
+     "answer": 2,
+     "explanation": "6.5 是目標，他還沒考正式考試，文章沒有說他上個月考了 6.5。Not Given。",
+     "evidence": "He has not taken the real test yet.",
+     "focus": ""
+    },
+    {
+     "id": "p-exam-4",
+     "kind": "mcq",
+     "prompt": "What does he write during the Part 2 preparation minute?",
+     "choices": [
+      "Three short prompts",
+      "A full essay",
+      "The examiner's name",
+      "Ten idioms"
+     ],
+     "answer": 0,
+     "explanation": "他現在只寫三個短提示，不寫完整句子。",
+     "evidence": "writing three short prompts, not full sentences",
+     "focus": "preparation"
+    },
+    {
+     "id": "p-exam-5",
+     "kind": "mcq",
+     "prompt": "Which part is still hard for him?",
+     "choices": [
+      "Part 3",
+      "Part 1 only",
+      "The listening test",
+      "Spelling"
+     ],
+     "answer": 0,
+     "explanation": "他仍覺得 Part 3 較難，因為問題比較概括。",
+     "evidence": "He still finds Part 3 difficult",
+     "focus": ""
+    },
+    {
+     "id": "p-exam-6",
+     "kind": "mcq",
+     "prompt": "When is the test date on his form?",
+     "choices": [
+      "7 June 2027",
+      "15 minutes from now",
+      "Next Monday",
+      "7 June 2026"
+     ],
+     "answer": 0,
+     "explanation": "表格上的考試日是 2027 年 6 月 7 日。",
+     "evidence": "the test date on his form is 7 June 2027",
+     "focus": "target"
+    }
+   ]
+  }
+ ],
+ "listening": [
+  {
+   "id": "l001",
+   "kind": "gap",
+   "audio": "Please submit the essay by Friday.",
+   "prompt": "Please ______ the essay by Friday.",
+   "choices": [
+    "submit",
+    "admit",
+    "permit",
+    "omit"
+   ],
+   "answer": 0,
+   "explanation": "submit 是繳交。admit 承認，permit 允許，omit 省略。",
+   "focus": "submit"
+  },
+  {
+   "id": "l002",
+   "kind": "gap",
+   "audio": "The library is closed on Monday.",
+   "prompt": "The library is ______ on Monday.",
+   "choices": [
+    "closed",
+    "close",
+    "closing",
+    "closely"
+   ],
+   "answer": 0,
+   "explanation": "be closed 表示關閉。這裡是形容詞 closed。",
+   "focus": "closed"
+  },
+  {
+   "id": "l003",
+   "kind": "gap",
+   "audio": "She has lived here since 2019.",
+   "prompt": "She has lived here ______ 2019.",
+   "choices": [
+    "since",
+    "for",
+    "ago",
+    "during"
+   ],
+   "answer": 0,
+   "explanation": "since 接一個起點，for 接一段時間。",
+   "focus": "since"
+  },
+  {
+   "id": "l004",
+   "kind": "gap",
+   "audio": "We have studied English for six years.",
+   "prompt": "We have studied English ______ six years.",
+   "choices": [
+    "for",
+    "since",
+    "ago",
+    "at"
+   ],
+   "answer": 0,
+   "explanation": "for 後面接地點以外的一段時間。",
+   "focus": "for"
+  },
+  {
+   "id": "l005",
+   "kind": "gap",
+   "audio": "He is interested in history.",
+   "prompt": "He is interested ______ history.",
+   "choices": [
+    "in",
+    "on",
+    "at",
+    "for"
+   ],
+   "answer": 0,
+   "explanation": "interested 的介系詞是 in。",
+   "focus": "interested"
+  },
+  {
+   "id": "l006",
+   "kind": "gap",
+   "audio": "Success depends on regular practice.",
+   "prompt": "Success depends ______ regular practice.",
+   "choices": [
+    "on",
+    "of",
+    "to",
+    "at"
+   ],
+   "answer": 0,
+   "explanation": "depend on 表示取決於。",
+   "focus": "depend"
+  },
+  {
+   "id": "l007",
+   "kind": "gap",
+   "audio": "I look forward to hearing from you.",
+   "prompt": "I look forward to ______ from you.",
+   "choices": [
+    "hearing",
+    "hear",
+    "heard",
+    "to hear"
+   ],
+   "answer": 0,
+   "explanation": "look forward to 的 to 是介系詞，後面用 V-ing。",
+   "focus": "hearing"
+  },
+  {
+   "id": "l008",
+   "kind": "gap",
+   "audio": "There was a significant increase in rent.",
+   "prompt": "There was a significant ______ in rent.",
+   "choices": [
+    "increase",
+    "decrease",
+    "incident",
+    "instance"
+   ],
+   "answer": 0,
+   "explanation": "increase 是增加。decrease 是減少。",
+   "focus": "increase"
+  },
+  {
+   "id": "l009",
+   "kind": "gap",
+   "audio": "The number of cars has doubled.",
+   "prompt": "The ______ of cars has doubled.",
+   "choices": [
+    "number",
+    "amount",
+    "deal",
+    "plenty"
+   ],
+   "answer": 0,
+   "explanation": "可數名詞 cars 用 the number of。",
+   "focus": "number"
+  },
+  {
+   "id": "l010",
+   "kind": "gap",
+   "audio": "A number of students were absent.",
+   "prompt": "A number of students ______ absent.",
+   "choices": [
+    "were",
+    "was",
+    "is",
+    "has"
+   ],
+   "answer": 0,
+   "explanation": "a number of 表示許多，動詞用複數。",
+   "focus": "number"
+  },
+  {
+   "id": "l011",
+   "kind": "gap",
+   "audio": "Despite the rain, the match continued.",
+   "prompt": "______ the rain, the match continued.",
+   "choices": [
+    "Despite",
+    "Although",
+    "Even",
+    "Because"
+   ],
+   "answer": 0,
+   "explanation": "Despite 後面接受詞 the rain，Although 要接子句。",
+   "focus": "despite"
+  },
+  {
+   "id": "l012",
+   "kind": "gap",
+   "audio": "Although it was late, she kept working.",
+   "prompt": "______ it was late, she kept working.",
+   "choices": [
+    "Although",
+    "Despite",
+    "Because of",
+    "Instead"
+   ],
+   "answer": 0,
+   "explanation": "Although 後面有主詞 it 和動詞 was。",
+   "focus": "although"
+  },
+  {
+   "id": "l013",
+   "kind": "gap",
+   "audio": "The price rose by five pounds.",
+   "prompt": "The price rose ______ five pounds.",
+   "choices": [
+    "by",
+    "to",
+    "with",
+    "at"
+   ],
+   "answer": 0,
+   "explanation": "上升的幅度用 by。",
+   "focus": "rose"
+  },
+  {
+   "id": "l014",
+   "kind": "gap",
+   "audio": "Compared with buses, trains are quicker.",
+   "prompt": "______ with buses, trains are quicker.",
+   "choices": [
+    "Compared",
+    "Comparing",
+    "Compare",
+    "To compare"
+   ],
+   "answer": 0,
+   "explanation": "Compared with 表示與…相比。",
+   "focus": "compared"
+  },
+  {
+   "id": "l015",
+   "kind": "gap",
+   "audio": "If I had more time, I would travel.",
+   "prompt": "If I ______ more time, I would travel.",
+   "choices": [
+    "had",
+    "have",
+    "will have",
+    "would have"
+   ],
+   "answer": 0,
+   "explanation": "與現在事實相反，If 後面用過去式 had。",
+   "focus": "had"
+  },
+  {
+   "id": "l016",
+   "kind": "gap",
+   "audio": "Hardly had I sat down when the phone rang.",
+   "prompt": "Hardly ______ down when the phone rang.",
+   "choices": [
+    "had I sat",
+    "I had sat",
+    "I sat",
+    "did I sat"
+   ],
+   "answer": 0,
+   "explanation": "Hardly 放句首要倒裝：Hardly had I ...",
+   "focus": "hardly"
+  },
+  {
+   "id": "l017",
+   "kind": "gap",
+   "audio": "You should have revised more.",
+   "prompt": "You ______ revised more.",
+   "choices": [
+    "should have",
+    "should",
+    "must",
+    "would"
+   ],
+   "answer": 0,
+   "explanation": "過去該做卻沒做：should have + 過去分詞。",
+   "focus": "should"
+  },
+  {
+   "id": "l018",
+   "kind": "gap",
+   "audio": "The bridge was built in 1998.",
+   "prompt": "The bridge ______ in 1998.",
+   "choices": [
+    "was built",
+    "built",
+    "has built",
+    "was build"
+   ],
+   "answer": 0,
+   "explanation": "過去的被動是 was / were + 過去分詞。",
+   "focus": "built"
+  },
+  {
+   "id": "l019",
+   "kind": "gap",
+   "audio": "English is spoken in many countries.",
+   "prompt": "English ______ in many countries.",
+   "choices": [
+    "is spoken",
+    "speaks",
+    "is spoke",
+    "spoken"
+   ],
+   "answer": 0,
+   "explanation": "現在被動：is / are + 過去分詞。",
+   "focus": "spoken"
+  },
+  {
+   "id": "l020",
+   "kind": "gap",
+   "audio": "Each of the answers is correct.",
+   "prompt": "Each of the answers ______ correct.",
+   "choices": [
+    "is",
+    "are",
+    "were",
+    "have"
+   ],
+   "answer": 0,
+   "explanation": "Each of 的動詞用單數。",
+   "focus": "each"
+  },
+  {
+   "id": "l021",
+   "kind": "gap",
+   "audio": "The news was surprising.",
+   "prompt": "The news ______ surprising.",
+   "choices": [
+    "was",
+    "were",
+    "have",
+    "are"
+   ],
+   "answer": 0,
+   "explanation": "news 是不可數，動詞用單數。",
+   "focus": "news"
+  },
+  {
+   "id": "l022",
+   "kind": "gap",
+   "audio": "I prefer tea to coffee.",
+   "prompt": "I prefer tea ______ coffee.",
+   "choices": [
+    "to",
+    "than",
+    "from",
+    "over"
+   ],
+   "answer": 0,
+   "explanation": "prefer A to B，不用 than。",
+   "focus": "prefer"
+  },
+  {
+   "id": "l023",
+   "kind": "gap",
+   "audio": "She enjoys reading in the evening.",
+   "prompt": "She enjoys ______ in the evening.",
+   "choices": [
+    "reading",
+    "to read",
+    "read",
+    "to reading"
+   ],
+   "answer": 0,
+   "explanation": "enjoy 後面用 V-ing。",
+   "focus": "enjoys"
+  },
+  {
+   "id": "l024",
+   "kind": "gap",
+   "audio": "They decided to cancel the trip.",
+   "prompt": "They decided ______ the trip.",
+   "choices": [
+    "to cancel",
+    "cancel",
+    "cancelling",
+    "to cancelling"
+   ],
+   "answer": 0,
+   "explanation": "decide 後面用 to + 原形。",
+   "focus": "decided"
+  },
+  {
+   "id": "l025",
+   "kind": "gap",
+   "audio": "I am used to getting up early.",
+   "prompt": "I am used to ______ up early.",
+   "choices": [
+    "getting",
+    "get",
+    "got",
+    "to get"
+   ],
+   "answer": 0,
+   "explanation": "be used to 後面用 V-ing，表示習慣於。",
+   "focus": "used"
+  },
+  {
+   "id": "l026",
+   "kind": "gap",
+   "audio": "I used to live in Taichung.",
+   "prompt": "I ______ live in Taichung.",
+   "choices": [
+    "used to",
+    "use to",
+    "am used to",
+    "was use to"
+   ],
+   "answer": 0,
+   "explanation": "used to + 原形，表示過去的習慣。",
+   "focus": "used"
+  },
+  {
+   "id": "l027",
+   "kind": "gap",
+   "audio": "It was so boring that we left.",
+   "prompt": "It was ______ boring that we left.",
+   "choices": [
+    "so",
+    "such",
+    "very",
+    "too"
+   ],
+   "answer": 0,
+   "explanation": "so + 形容詞 + that。",
+   "focus": "so"
+  },
+  {
+   "id": "l028",
+   "kind": "gap",
+   "audio": "It was such a hot day that we stayed in.",
+   "prompt": "It was ______ a hot day that we stayed in.",
+   "choices": [
+    "such",
+    "so",
+    "very",
+    "too"
+   ],
+   "answer": 0,
+   "explanation": "such a + 形容詞 + 名詞。",
+   "focus": "such"
+  },
+  {
+   "id": "l029",
+   "kind": "gap",
+   "audio": "I wish I had more free time.",
+   "prompt": "I wish I ______ more free time.",
+   "choices": [
+    "had",
+    "have",
+    "will have",
+    "having"
+   ],
+   "answer": 0,
+   "explanation": "wish 後面用過去式，表示現在做不到的願望。",
+   "focus": "wish"
+  },
+  {
+   "id": "l030",
+   "kind": "gap",
+   "audio": "He said he would call the next day.",
+   "prompt": "He said he ______ call the next day.",
+   "choices": [
+    "would",
+    "will",
+    "calls",
+    "had"
+   ],
+   "answer": 0,
+   "explanation": "轉述時 will 改成 would。",
+   "focus": "would"
+  },
+  {
+   "id": "l031",
+   "kind": "gap",
+   "audio": "Look at those clouds. It is going to rain.",
+   "prompt": "Look at those clouds. It ______ rain.",
+   "choices": [
+    "is going to",
+    "rains",
+    "is go to",
+    "going"
+   ],
+   "answer": 0,
+   "explanation": "有眼前證據的預測用 be going to。",
+   "focus": "going"
+  },
+  {
+   "id": "l032",
+   "kind": "gap",
+   "audio": "Could you give me some information?",
+   "prompt": "Could you give me ______ information?",
+   "choices": [
+    "some",
+    "an",
+    "a",
+    "many"
+   ],
+   "answer": 0,
+   "explanation": "information 不可數，不能加 a。",
+   "focus": "information"
+  },
+  {
+   "id": "l033",
+   "kind": "gap",
+   "audio": "She gave me a piece of advice.",
+   "prompt": "She gave me a ______ of advice.",
+   "choices": [
+    "piece",
+    "pairs",
+    "lots",
+    "many"
+   ],
+   "answer": 0,
+   "explanation": "advice 不可數，要說 a piece of advice。",
+   "focus": "advice"
+  },
+  {
+   "id": "l034",
+   "kind": "gap",
+   "audio": "How much money do you need?",
+   "prompt": "How ______ money do you need?",
+   "choices": [
+    "much",
+    "many",
+    "few",
+    "a few"
+   ],
+   "answer": 0,
+   "explanation": "money 不可數，用 much。",
+   "focus": "much"
+  },
+  {
+   "id": "l035",
+   "kind": "gap",
+   "audio": "There were fewer people than yesterday.",
+   "prompt": "There were ______ people than yesterday.",
+   "choices": [
+    "fewer",
+    "less",
+    "little",
+    "few"
+   ],
+   "answer": 0,
+   "explanation": "people 可數，用 fewer，不用 less。",
+   "focus": "fewer"
+  },
+  {
+   "id": "l036",
+   "kind": "gap",
+   "audio": "The hotel was expensive. However, the view was wonderful.",
+   "prompt": "The hotel was expensive. ______, the view was wonderful.",
+   "choices": [
+    "However",
+    "Although",
+    "Despite",
+    "Because"
+   ],
+   "answer": 0,
+   "explanation": "However 連接兩個句子，後面加逗號。",
+   "focus": "however"
+  },
+  {
+   "id": "l037",
+   "kind": "gap",
+   "audio": "In spite of being tired, she kept working.",
+   "prompt": "______ being tired, she kept working.",
+   "choices": [
+    "In spite of",
+    "Although",
+    "Even though",
+    "Despite of"
+   ],
+   "answer": 0,
+   "explanation": "in spite of 後面用 V-ing 或名詞。沒有 despite of。",
+   "focus": "spite"
+  },
+  {
+   "id": "l038",
+   "kind": "gap",
+   "audio": "Not only did she pass, but she also won a prize.",
+   "prompt": "Not only ______ the exam, but she also won a prize.",
+   "choices": [
+    "did she pass",
+    "she passed",
+    "passed she",
+    "she did pass"
+   ],
+   "answer": 0,
+   "explanation": "Not only 放句首要倒裝。",
+   "focus": "only"
+  },
+  {
+   "id": "l039",
+   "kind": "gap",
+   "audio": "Under no circumstances should you share your password.",
+   "prompt": "Under no circumstances ______ your password.",
+   "choices": [
+    "should you share",
+    "you should share",
+    "you share",
+    "should you shared"
+   ],
+   "answer": 0,
+   "explanation": "否定片語放句首要倒裝。",
+   "focus": "circumstances"
+  },
+  {
+   "id": "l040",
+   "kind": "gap",
+   "audio": "The form must be completed in black ink.",
+   "prompt": "The form must ______ in black ink.",
+   "choices": [
+    "be completed",
+    "complete",
+    "completed",
+    "to be complete"
+   ],
+   "answer": 0,
+   "explanation": "情態動詞的被動是 must be + 過去分詞。",
+   "focus": "completed"
+  },
+  {
+   "id": "l041",
+   "kind": "gap",
+   "audio": "The teacher who taught me has retired.",
+   "prompt": "The teacher ______ taught me has retired.",
+   "choices": [
+    "who",
+    "which",
+    "whose",
+    "what"
+   ],
+   "answer": 0,
+   "explanation": "人當主詞用 who。",
+   "focus": "who"
+  },
+  {
+   "id": "l042",
+   "kind": "gap",
+   "audio": "This is the cafe where we first met.",
+   "prompt": "This is the cafe ______ we first met.",
+   "choices": [
+    "where",
+    "which",
+    "when",
+    "whose"
+   ],
+   "answer": 0,
+   "explanation": "地方用 where。",
+   "focus": "where"
+  },
+  {
+   "id": "l043",
+   "kind": "gap",
+   "audio": "I have a friend whose brother studies in London.",
+   "prompt": "I have a friend ______ brother studies in London.",
+   "choices": [
+    "whose",
+    "who",
+    "which",
+    "that"
+   ],
+   "answer": 0,
+   "explanation": "whose 表示誰的，後面接名詞。",
+   "focus": "whose"
+  },
+  {
+   "id": "l044",
+   "kind": "gap",
+   "audio": "By the time we arrived, the train had left.",
+   "prompt": "By the time we arrived, the train ______.",
+   "choices": [
+    "had left",
+    "left",
+    "has left",
+    "leaves"
+   ],
+   "answer": 0,
+   "explanation": "更早完成的動作用 had + 過去分詞。",
+   "focus": "left"
+  },
+  {
+   "id": "l045",
+   "kind": "gap",
+   "audio": "It has been raining all morning.",
+   "prompt": "It ______ all morning.",
+   "choices": [
+    "has been raining",
+    "rained",
+    "is rain",
+    "has rained yesterday"
+   ],
+   "answer": 0,
+   "explanation": "從過去持續到現在，用現在完成進行式。",
+   "focus": "raining"
+  },
+  {
+   "id": "l046",
+   "kind": "gap",
+   "audio": "I saw this film two years ago.",
+   "prompt": "I ______ this film two years ago.",
+   "choices": [
+    "saw",
+    "have seen",
+    "had seen",
+    "seen"
+   ],
+   "answer": 0,
+   "explanation": "ago 用過去簡單式。",
+   "focus": "saw"
+  },
+  {
+   "id": "l047",
+   "kind": "gap",
+   "audio": "This question is more difficult than the last one.",
+   "prompt": "This question is ______ than the last one.",
+   "choices": [
+    "more difficult",
+    "difficulter",
+    "more difficulter",
+    "difficult"
+   ],
+   "answer": 0,
+   "explanation": "多音節形容詞用 more，不加 -er。",
+   "focus": "difficult"
+  },
+  {
+   "id": "l048",
+   "kind": "gap",
+   "audio": "The more you practise, the more confident you become.",
+   "prompt": "______ you practise, the more confident you become.",
+   "choices": [
+    "The more",
+    "More",
+    "The most",
+    "As"
+   ],
+   "answer": 0,
+   "explanation": "the + 比較級, the + 比較級。",
+   "focus": "more"
+  },
+  {
+   "id": "l049",
+   "kind": "gap",
+   "audio": "My parents let me stay out late.",
+   "prompt": "My parents let me ______ out late.",
+   "choices": [
+    "stay",
+    "to stay",
+    "staying",
+    "stayed"
+   ],
+   "answer": 0,
+   "explanation": "let 後面用原形，不加 to。",
+   "focus": "let"
+  },
+  {
+   "id": "l050",
+   "kind": "gap",
+   "audio": "The news made her happy.",
+   "prompt": "The news made her ______.",
+   "choices": [
+    "happy",
+    "happily",
+    "happiness",
+    "to happy"
+   ],
+   "answer": 0,
+   "explanation": "make + 受詞 + 形容詞。",
+   "focus": "happy"
+  },
+  {
+   "id": "l051",
+   "kind": "gap",
+   "audio": "She is good at explaining ideas.",
+   "prompt": "She is good ______ explaining ideas.",
+   "choices": [
+    "at",
+    "in",
+    "on",
+    "for"
+   ],
+   "answer": 0,
+   "explanation": "good at + V-ing。",
+   "focus": "good"
+  },
+  {
+   "id": "l052",
+   "kind": "gap",
+   "audio": "We need to decide whether to accept the offer.",
+   "prompt": "We need to decide ______ to accept the offer.",
+   "choices": [
+    "whether",
+    "that",
+    "which",
+    "so"
+   ],
+   "answer": 0,
+   "explanation": "不確定要不要，用 whether。",
+   "focus": "whether"
+  },
+  {
+   "id": "l053",
+   "kind": "gap",
+   "audio": "What surprised me was the price.",
+   "prompt": "______ surprised me was the price.",
+   "choices": [
+    "What",
+    "That",
+    "Which",
+    "It"
+   ],
+   "answer": 0,
+   "explanation": "What 引導名詞子句，表示所…的事物。",
+   "focus": "what"
+  },
+  {
+   "id": "l054",
+   "kind": "gap",
+   "audio": "They must have gone home. The lights are off.",
+   "prompt": "They ______ home. The lights are off.",
+   "choices": [
+    "must have gone",
+    "must go",
+    "must went",
+    "should go"
+   ],
+   "answer": 0,
+   "explanation": "對過去很有把握的推測：must have + 過去分詞。",
+   "focus": "must"
+  },
+  {
+   "id": "l055",
+   "kind": "gap",
+   "audio": "He can't have received the email, because he was on a plane.",
+   "prompt": "He ______ the email, because he was on a plane.",
+   "choices": [
+    "can't have received",
+    "can't receive",
+    "must receive",
+    "couldn't received"
+   ],
+   "answer": 0,
+   "explanation": "對過去的否定推測：can't have + 過去分詞。",
+   "focus": "received"
+  },
+  {
+   "id": "l056",
+   "kind": "gap",
+   "audio": "Recycling is collected every Tuesday.",
+   "prompt": "Recycling ______ every Tuesday.",
+   "choices": [
+    "is collected",
+    "collects",
+    "is collect",
+    "collected"
+   ],
+   "answer": 0,
+   "explanation": "回收物被收取，用被動。",
+   "focus": "collected"
+  },
+  {
+   "id": "l057",
+   "kind": "gap",
+   "audio": "The majority of the students are in favour.",
+   "prompt": "The majority of the students ______ in favour.",
+   "choices": [
+    "are",
+    "is",
+    "was",
+    "has"
+   ],
+   "answer": 0,
+   "explanation": "the majority of + 複數名詞，動詞常用複數。",
+   "focus": "majority"
+  },
+  {
+   "id": "l058",
+   "kind": "gap",
+   "audio": "Neither of the options is suitable.",
+   "prompt": "Neither of the options ______ suitable.",
+   "choices": [
+    "is",
+    "are",
+    "were",
+    "have"
+   ],
+   "answer": 0,
+   "explanation": "Neither of 正式用法動詞用單數。",
+   "focus": "neither"
+  },
+  {
+   "id": "l059",
+   "kind": "gap",
+   "audio": "There is a serious problem with the data.",
+   "prompt": "There ______ a serious problem with the data.",
+   "choices": [
+    "is",
+    "are",
+    "be",
+    "were"
+   ],
+   "answer": 0,
+   "explanation": "problem 是單數，There is。",
+   "focus": "problem"
+  },
+  {
+   "id": "l060",
+   "kind": "gap",
+   "audio": "People in this town are very friendly.",
+   "prompt": "People in this town ______ very friendly.",
+   "choices": [
+    "are",
+    "is",
+    "was",
+    "has"
+   ],
+   "answer": 0,
+   "explanation": "people 表示人們時用複數動詞。",
+   "focus": "people"
+  },
+  {
+   "id": "l061",
+   "kind": "mcq",
+   "audio": "Woman: The seminar was at two, but it's been moved to half past three. Man: OK, I'll come at 3:30.",
+   "prompt": "What time will the man come?",
+   "choices": [
+    "2:00",
+    "2:30",
+    "3:00",
+    "3:30"
+   ],
+   "answer": 3,
+   "explanation": "原本兩點，改到三點半，男生說他 3:30 到。",
+   "focus": "seminar"
+  },
+  {
+   "id": "l062",
+   "kind": "mcq",
+   "audio": "Man: Did you take the bus? Woman: No, I walked. It only took twenty minutes.",
+   "prompt": "How did the woman travel?",
+   "choices": [
+    "By bus",
+    "By train",
+    "On foot",
+    "By taxi"
+   ],
+   "answer": 2,
+   "explanation": "她說她走路。on foot 就是步行。",
+   "focus": "walked"
+  },
+  {
+   "id": "l063",
+   "kind": "mcq",
+   "audio": "Woman: The library closes at seven tonight. Man: Then we should leave here by six.",
+   "prompt": "When does the library close tonight?",
+   "choices": [
+    "5:00",
+    "6:00",
+    "7:00",
+    "8:00"
+   ],
+   "answer": 2,
+   "explanation": "女生說圖書館七點關。六點是他們要離開的時間。",
+   "focus": "library"
+  },
+  {
+   "id": "l064",
+   "kind": "mcq",
+   "audio": "Man: Is the museum free on Monday? Woman: Monday it's closed. It's free on Tuesday.",
+   "prompt": "When is the museum free?",
+   "choices": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Sunday"
+   ],
+   "answer": 1,
+   "explanation": "星期一公休，星期二免費。",
+   "focus": "museum"
+  },
+  {
+   "id": "l065",
+   "kind": "mcq",
+   "audio": "Woman: I used to drink coffee every morning. Man: And now? Woman: I drink tea instead.",
+   "prompt": "What does the woman drink now?",
+   "choices": [
+    "Coffee",
+    "Tea",
+    "Milk",
+    "Nothing"
+   ],
+   "answer": 1,
+   "explanation": "她現在改喝茶。used to 是過去。",
+   "focus": "tea"
+  },
+  {
+   "id": "l066",
+   "kind": "mcq",
+   "audio": "Man: How long have you lived here? Woman: Since 2019. Before that I was in Taichung.",
+   "prompt": "When did the woman start living here?",
+   "choices": [
+    "In 2019",
+    "For 2019",
+    "Last week",
+    "In Taichung"
+   ],
+   "answer": 0,
+   "explanation": "since 2019 表示從 2019 開始住在這裡。",
+   "focus": "lived"
+  },
+  {
+   "id": "l067",
+   "kind": "mcq",
+   "audio": "Woman: The report hasn't been finished yet. Man: The manager wants it by Friday.",
+   "prompt": "What is true about the report?",
+   "choices": [
+    "It is already finished",
+    "It is not finished yet",
+    "The manager wrote it",
+    "It was lost"
+   ],
+   "answer": 1,
+   "explanation": "hasn't been finished yet 表示還沒完成。",
+   "focus": "report"
+  },
+  {
+   "id": "l068",
+   "kind": "mcq",
+   "audio": "Man: Should I take an umbrella? Woman: Yes. Look at those clouds. It's going to rain.",
+   "prompt": "Why should the man take an umbrella?",
+   "choices": [
+    "It is snowing",
+    "It is going to rain",
+    "The shop is closed",
+    "He likes umbrellas"
+   ],
+   "answer": 1,
+   "explanation": "女生根據烏雲判斷快下雨了。",
+   "focus": "umbrella"
+  },
+  {
+   "id": "l069",
+   "kind": "mcq",
+   "audio": "Woman: A single room is 8,000 a month, not including electricity. Man: That's more than I expected.",
+   "prompt": "What is NOT included in the 8,000?",
+   "choices": [
+    "The room",
+    "Electricity",
+    "The month",
+    "The bed"
+   ],
+   "answer": 1,
+   "explanation": "8,000 不含電費。",
+   "focus": "electricity"
+  },
+  {
+   "id": "l070",
+   "kind": "mcq",
+   "audio": "Man: Did everyone agree with the phone rule? Woman: No. Two designers needed their phones for clients.",
+   "prompt": "How many designers disagreed in the example?",
+   "choices": [
+    "None",
+    "One",
+    "Two",
+    "Ten"
+   ],
+   "answer": 2,
+   "explanation": "有兩位設計師需要手機給客戶看照片。",
+   "focus": "designers"
+  },
+  {
+   "id": "l071",
+   "kind": "mcq",
+   "audio": "Woman: Trains run every ten minutes until 11 p.m. Man: The journey is only eighteen minutes.",
+   "prompt": "How often do the trains run?",
+   "choices": [
+    "Every ten minutes",
+    "Every eighteen minutes",
+    "Once a day",
+    "Every 11 minutes"
+   ],
+   "answer": 0,
+   "explanation": "每十分鐘一班。十八分鐘是車程。",
+   "focus": "trains"
+  },
+  {
+   "id": "l072",
+   "kind": "mcq",
+   "audio": "Man: Students pay 15 dollars if they show a student card. Woman: A normal ticket is 25.",
+   "prompt": "How much is a student ticket?",
+   "choices": [
+    "10 dollars",
+    "15 dollars",
+    "25 dollars",
+    "40 dollars"
+   ],
+   "answer": 1,
+   "explanation": "學生票 15 元，一般票 25 元。",
+   "focus": "students"
+  },
+  {
+   "id": "l073",
+   "kind": "mcq",
+   "audio": "Woman: Bicycles are not allowed between 7:30 and 9:00. Man: I'll take the later train then.",
+   "prompt": "When are bicycles banned?",
+   "choices": [
+    "7:30 to 9:00",
+    "After 11 p.m.",
+    "All afternoon",
+    "On Sundays"
+   ],
+   "answer": 0,
+   "explanation": "早高峰 7:30 到 9:00 不能帶車。",
+   "focus": "bicycles"
+  },
+  {
+   "id": "l074",
+   "kind": "mcq",
+   "audio": "Man: Fried food is only on Friday now. Woman: And soft drink sales fell by 30 percent.",
+   "prompt": "When can students eat fried food?",
+   "choices": [
+    "Every day",
+    "Only on Friday",
+    "Never",
+    "Only at breakfast"
+   ],
+   "answer": 1,
+   "explanation": "油炸食物只在星期五。",
+   "focus": "fried"
+  },
+  {
+   "id": "l075",
+   "kind": "mcq",
+   "audio": "Woman: The clinic advises a thirty-minute walk on most days. Man: Does it have to be fast? Woman: No.",
+   "prompt": "Must the walk be fast?",
+   "choices": [
+    "Yes, always",
+    "No",
+    "Only for doctors",
+    "Only on Monday"
+   ],
+   "answer": 1,
+   "explanation": "文章式對話明確說不必走很快。",
+   "focus": "walk"
+  },
+  {
+   "id": "l076",
+   "kind": "mcq",
+   "audio": "Man: Half the staff work from home two days a week. Woman: But Wednesday everyone comes in.",
+   "prompt": "Which day is everyone in the office?",
+   "choices": [
+    "Monday",
+    "Wednesday",
+    "Friday",
+    "Sunday"
+   ],
+   "answer": 1,
+   "explanation": "星期三全員進公司。",
+   "focus": "Wednesday"
+  },
+  {
+   "id": "l077",
+   "kind": "mcq",
+   "audio": "Woman: New staff stay on site for the first month. Man: So they can learn from a colleague.",
+   "prompt": "Why do new staff stay in the office?",
+   "choices": [
+    "To learn the job",
+    "To cut salaries",
+    "The trial ended",
+    "There is no internet"
+   ],
+   "answer": 0,
+   "explanation": "第一個月在公司是為了跟同事學工作。",
+   "focus": "staff"
+  },
+  {
+   "id": "l078",
+   "kind": "mcq",
+   "audio": "Man: The solar panels do not power the whole town. Woman: But they run the lights and the showers on sunny days.",
+   "prompt": "What can the panels do on sunny days?",
+   "choices": [
+    "Power the whole town",
+    "Run the lights and showers",
+    "Replace all cars",
+    "Close the hall"
+   ],
+   "answer": 1,
+   "explanation": "晴天足夠供應燈和淋浴，不是整個城鎮。",
+   "focus": "solar"
+  },
+  {
+   "id": "l079",
+   "kind": "mcq",
+   "audio": "Woman: Visitor numbers rose from 800 to about 2,000 a day. Man: After entry became free on weekdays? Woman: Yes.",
+   "prompt": "About how many people visit each day now?",
+   "choices": [
+    "800",
+    "1,000",
+    "2,000",
+    "20,000"
+   ],
+   "answer": 2,
+   "explanation": "現在大約每天 2,000 人。800 是之前。",
+   "focus": "visitors"
+  },
+  {
+   "id": "l080",
+   "kind": "mcq",
+   "audio": "Man: The museum is closed on Monday. Woman: Then let's go on Tuesday morning. It's quieter.",
+   "prompt": "Why does the woman suggest Tuesday morning?",
+   "choices": [
+    "It is quieter",
+    "It is closed",
+    "Flash is required",
+    "It costs more"
+   ],
+   "answer": 0,
+   "explanation": "她說星期二早上比較安靜。",
+   "focus": "Tuesday"
+  },
+  {
+   "id": "l081",
+   "kind": "mcq",
+   "audio": "Woman: Audio guides are in Mandarin and English, but not Japanese. Man: That's fine. I need English.",
+   "prompt": "Which language is NOT available?",
+   "choices": [
+    "Mandarin",
+    "English",
+    "Japanese",
+    "Both Mandarin and English"
+   ],
+   "answer": 2,
+   "explanation": "沒有日文導覽。",
+   "focus": "Japanese"
+  },
+  {
+   "id": "l082",
+   "kind": "mcq",
+   "audio": "Man: Rents rose by 15 percent. Woman: A room is about 8,000, and cafes got more expensive too.",
+   "prompt": "What rose by 15 percent?",
+   "choices": [
+    "Rents",
+    "Student numbers",
+    "Train fares",
+    "Salaries"
+   ],
+   "answer": 0,
+   "explanation": "上漲 15% 的是租金。",
+   "focus": "rents"
+  },
+  {
+   "id": "l083",
+   "kind": "mcq",
+   "audio": "Woman: First-year students get priority for the cheap beds. Man: The waiting list is long.",
+   "prompt": "Who is given priority?",
+   "choices": [
+    "First-year students",
+    "Landlords",
+    "Tourists",
+    "Teachers only"
+   ],
+   "answer": 0,
+   "explanation": "一年級學生優先。",
+   "focus": "priority"
+  },
+  {
+   "id": "l084",
+   "kind": "mcq",
+   "audio": "Man: The deposit must be returned within two weeks. Woman: Only if the room is in good condition.",
+   "prompt": "When is the deposit returned?",
+   "choices": [
+    "Within two weeks if the room is fine",
+    "After ten years",
+    "Never",
+    "Only on Monday"
+   ],
+   "answer": 0,
+   "explanation": "房間狀況良好才在兩週內退押金。",
+   "focus": "deposit"
+  },
+  {
+   "id": "l085",
+   "kind": "mcq",
+   "audio": "Woman: I record myself and listen the next morning. Man: How long do you practise? Woman: Fifteen minutes every evening.",
+   "prompt": "When does she listen to the recording?",
+   "choices": [
+    "The next morning",
+    "During the test",
+    "Never",
+    "Only on Sunday"
+   ],
+   "answer": 0,
+   "explanation": "她隔天早上聽自己的錄音。",
+   "focus": "morning"
+  },
+  {
+   "id": "l086",
+   "kind": "mcq",
+   "audio": "Man: In Part 2 I write three short prompts, not full sentences. Woman: And Part 3? Man: Still hard.",
+   "prompt": "What does the man write in the preparation minute?",
+   "choices": [
+    "Three short prompts",
+    "A full essay",
+    "The examiner's name",
+    "Ten idioms"
+   ],
+   "answer": 0,
+   "explanation": "他只寫三個短提示。",
+   "focus": "prompts"
+  },
+  {
+   "id": "l087",
+   "kind": "mcq",
+   "audio": "Woman: The university will not remove face-to-face teaching. Man: Good. I miss asking questions in class.",
+   "prompt": "What will the university keep?",
+   "choices": [
+    "Face-to-face teaching",
+    "Only online tests",
+    "A closed library",
+    "No questions"
+   ],
+   "answer": 0,
+   "explanation": "大學不會取消面對面教學。",
+   "focus": "teaching"
+  },
+  {
+   "id": "l088",
+   "kind": "mcq",
+   "audio": "Man: Only 41 percent said they spoke enough English online. Woman: But 62 percent liked the flexible timetable.",
+   "prompt": "What did 62 percent like?",
+   "choices": [
+    "The flexible timetable",
+    "Speaking more English",
+    "Closing the library",
+    "Longer exams"
+   ],
+   "answer": 0,
+   "explanation": "62% 喜歡彈性課表。41% 才是覺得英文說得夠。",
+   "focus": "flexible"
+  },
+  {
+   "id": "l089",
+   "kind": "mcq",
+   "audio": "Woman: A plastic bottle can stay in the sea for hundreds of years. Man: And fish eat the small pieces.",
+   "prompt": "What eats small pieces of plastic?",
+   "choices": [
+    "Fish",
+    "Trains",
+    "Teachers",
+    "Bicycles"
+   ],
+   "answer": 0,
+   "explanation": "小碎片常被魚吃掉。",
+   "focus": "fish"
+  },
+  {
+   "id": "l090",
+   "kind": "mcq",
+   "audio": "Man: The bag charge cut use by about a third. Woman: It still doesn't replace recycling.",
+   "prompt": "What does the woman say the charge cannot replace?",
+   "choices": [
+    "Recycling",
+    "Shops",
+    "The sea",
+    "Money"
+   ],
+   "answer": 0,
+   "explanation": "收費有幫助，但不能取代回收。",
+   "focus": "recycling"
+  },
+  {
+   "id": "l091",
+   "kind": "mcq",
+   "audio": "Woman: Please rinse the bottles before you recycle them. Man: And put them in the correct bin.",
+   "prompt": "What should you do before recycling bottles?",
+   "choices": [
+    "Rinse them",
+    "Burn them",
+    "Fill them with oil",
+    "Hide them"
+   ],
+   "answer": 0,
+   "explanation": "回收前要先沖洗。",
+   "focus": "rinse"
+  },
+  {
+   "id": "l092",
+   "kind": "mcq",
+   "audio": "Man: Meetings became twenty minutes shorter. Woman: Because people stopped checking messages? Man: Yes.",
+   "prompt": "Why were meetings shorter?",
+   "choices": [
+    "People stopped checking phones",
+    "They started later",
+    "The office closed",
+    "There was no manager"
+   ],
+   "answer": 0,
+   "explanation": "大家不再看訊息，會議少了二十分鐘。",
+   "focus": "meetings"
+  },
+  {
+   "id": "l093",
+   "kind": "mcq",
+   "audio": "Woman: Phones are allowed when a client is in the room. Man: But not in ordinary team meetings.",
+   "prompt": "When are phones allowed?",
+   "choices": [
+    "When a client is present",
+    "In every meeting",
+    "Never",
+    "Only at lunch"
+   ],
+   "answer": 0,
+   "explanation": "客戶在場才可以用。",
+   "focus": "client"
+  },
+  {
+   "id": "l094",
+   "kind": "mcq",
+   "audio": "Man: Patients who walked for three months slept better. Woman: Did the clinic say walking cures disease? Man: No.",
+   "prompt": "What did walkers report?",
+   "choices": [
+    "Better sleep",
+    "A cure for all disease",
+    "New shoes",
+    "A longer clinic"
+   ],
+   "answer": 0,
+   "explanation": "他們回報睡眠變好，但診所沒說能治癒重病。",
+   "focus": "sleep"
+  },
+  {
+   "id": "l095",
+   "kind": "mcq",
+   "audio": "Woman: People with chest pain should speak to a doctor first. Man: The advice card is free.",
+   "prompt": "Who should see a doctor before starting?",
+   "choices": [
+    "People with chest pain",
+    "Everyone at the market",
+    "Only children",
+    "People who already walk"
+   ],
+   "answer": 0,
+   "explanation": "有胸痛的人要先問醫生。",
+   "focus": "pain"
+  },
+  {
+   "id": "l096",
+   "kind": "mcq",
+   "audio": "Man: About 40,000 people used the new line in the first month. Woman: And bikes only in the last carriage.",
+   "prompt": "Where may bicycles go?",
+   "choices": [
+    "Only in the last carriage",
+    "In every seat",
+    "On the roof",
+    "They are always free"
+   ],
+   "answer": 0,
+   "explanation": "腳踏車只能放最後一節車廂。",
+   "focus": "carriage"
+  },
+  {
+   "id": "l097",
+   "kind": "mcq",
+   "audio": "Woman: The lunch club meets three times a week. Man: Volunteers run it.",
+   "prompt": "Who runs the lunch club?",
+   "choices": [
+    "Volunteers",
+    "The army",
+    "Factory owners",
+    "Tour guides"
+   ],
+   "answer": 0,
+   "explanation": "志工經營午餐會。",
+   "focus": "volunteers"
+  },
+  {
+   "id": "l098",
+   "kind": "mcq",
+   "audio": "Man: The mayor wants small flats near the clinic, but the plan needs funding. Woman: So nothing is built yet.",
+   "prompt": "What does the plan still need?",
+   "choices": [
+    "Funding",
+    "A mayor",
+    "Fewer children",
+    "A new school"
+   ],
+   "answer": 0,
+   "explanation": "計畫還需要經費，所以還沒蓋。",
+   "focus": "funding"
+  },
+  {
+   "id": "l099",
+   "kind": "mcq",
+   "audio": "Woman: Summer tourism is still important for the main street shops. Man: Even though the town is older.",
+   "prompt": "What is still important for the shops?",
+   "choices": [
+    "Summer tourism",
+    "A new factory",
+    "Night school",
+    "Winter sport"
+   ],
+   "answer": 0,
+   "explanation": "夏天的觀光仍然重要。",
+   "focus": "tourism"
+  },
+  {
+   "id": "l100",
+   "kind": "mcq",
+   "audio": "Man: The school has four classes now. Woman: It has not closed.",
+   "prompt": "What is true about the school?",
+   "choices": [
+    "It still has four classes",
+    "It has closed",
+    "It has forty classes",
+    "It moved to Taipei"
+   ],
+   "answer": 0,
+   "explanation": "學校還在，只剩四個班。",
+   "focus": "classes"
+  }
+ ],
+ "writing": [
+  {
+   "id": "w001",
+   "phrase": "on the other hand",
+   "ipa": "/ˌɒn ðɪ ˈʌðə hænd/",
+   "zh": "另一方面",
+   "example": "The city is exciting. On the other hand, it is noisy.",
+   "explanation": "on the other hand 是固定片語，不用 in the other hand。",
+   "choices": [
+    "on the other hand",
+    "in the other hand",
+    "on other hands",
+    "by the other hand"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w002",
+   "phrase": "in terms of",
+   "ipa": "/ɪn ˈtɜːmz əv/",
+   "zh": "就…而言",
+   "example": "In terms of cost, the train is cheaper.",
+   "explanation": "in terms of 後面接名詞，表示在某方面。",
+   "choices": [
+    "in terms of",
+    "in term of",
+    "on terms of",
+    "by terms of"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w003",
+   "phrase": "for instance",
+   "ipa": "/fər ˈɪnstəns/",
+   "zh": "舉例來說",
+   "example": "I walk every day; for instance, I walk to the market.",
+   "explanation": "for instance 和 for example 相近，不能說 for instants。",
+   "choices": [
+    "for instance",
+    "for instants",
+    "by instance",
+    "on instance"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w004",
+   "phrase": "as a result",
+   "ipa": "/æz ə rɪˈzʌlt/",
+   "zh": "因此",
+   "example": "The bus was full. As a result, I was late.",
+   "explanation": "as a result 後面常接一個結果句。",
+   "choices": [
+    "as a result",
+    "as the result of",
+    "by a result",
+    "on result"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w005",
+   "phrase": "in addition",
+   "ipa": "/ɪn əˈdɪʃn/",
+   "zh": "此外",
+   "example": "The flat is small. In addition, it is far from the metro.",
+   "explanation": "in addition 後面可加逗號，再接一個句子。",
+   "choices": [
+    "in addition",
+    "on addition",
+    "in addition of",
+    "by addition"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w006",
+   "phrase": "on balance",
+   "ipa": "/ɒn ˈbæləns/",
+   "zh": "總的來說",
+   "example": "On balance, the advantages outweigh the drawbacks.",
+   "explanation": "on balance 表示整體衡量之後。",
+   "choices": [
+    "on balance",
+    "in balance",
+    "on the balance",
+    "by balance"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w007",
+   "phrase": "from my point of view",
+   "ipa": "/frəm maɪ ˈpɔɪnt əv vjuː/",
+   "zh": "依我看來",
+   "example": "From my point of view, daily practice matters most.",
+   "explanation": "point of view 不用 point of views。",
+   "choices": [
+    "from my point of view",
+    "from my point of views",
+    "in my point of view",
+    "by my point of view"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w008",
+   "phrase": "to a certain extent",
+   "ipa": "/tə ə ˈsɜːtn ɪkˈstent/",
+   "zh": "在某種程度上",
+   "example": "To a certain extent, I agree with that idea.",
+   "explanation": "extent 這裡是不可數的程度，不用 extents。",
+   "choices": [
+    "to a certain extent",
+    "to a certain extents",
+    "in a certain extend",
+    "on a certain extent"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w009",
+   "phrase": "that is to say",
+   "ipa": "/ðæt ɪz tə seɪ/",
+   "zh": "也就是說",
+   "example": "I am busy, that is to say I have little free time.",
+   "explanation": "that is to say 用來換一種說法。",
+   "choices": [
+    "that is to say",
+    "that is to tell",
+    "which is to say not",
+    "that says to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w010",
+   "phrase": "a case in point",
+   "ipa": "/ə keɪs ɪn pɔɪnt/",
+   "zh": "一個恰當的例子",
+   "example": "Traffic is worse. A case in point is the morning rush.",
+   "explanation": "a case in point 表示正是一個例子。",
+   "choices": [
+    "a case in point",
+    "a case on point",
+    "a point in case",
+    "the case of point"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w011",
+   "phrase": "it is widely believed",
+   "ipa": "/ɪt ɪz ˈwaɪdli bɪˈliːvd/",
+   "zh": "眾所周知",
+   "example": "It is widely believed that exercise improves mood.",
+   "explanation": "widely believed 表示很多人都這樣認為。",
+   "choices": [
+    "it is widely believed",
+    "it is wide believed",
+    "it is widely believe",
+    "it widely is believe"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w012",
+   "phrase": "play an important role",
+   "ipa": "/pleɪ ən ɪmˈpɔːtnt rəʊl/",
+   "zh": "扮演重要角色",
+   "example": "Parents play an important role in a child's reading.",
+   "explanation": "role 用 play，不用 do a role。",
+   "choices": [
+    "play an important role",
+    "do an important role",
+    "make an important role",
+    "play an important roll"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w013",
+   "phrase": "lead to",
+   "ipa": "/liːd tə/",
+   "zh": "導致",
+   "example": "Poor sleep can lead to poor concentration.",
+   "explanation": "lead to 後面接名詞或 V-ing，to 是介系詞。",
+   "choices": [
+    "lead to",
+    "lead for",
+    "lead at",
+    "lead towards to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w014",
+   "phrase": "result in",
+   "ipa": "/rɪˈzʌlt ɪn/",
+   "zh": "造成",
+   "example": "The delay resulted in a missed flight.",
+   "explanation": "result in 後面是結果。result from 後面是原因。",
+   "choices": [
+    "result in",
+    "result from",
+    "result to",
+    "result at"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w015",
+   "phrase": "result from",
+   "ipa": "/rɪˈzʌlt frəm/",
+   "zh": "起因於",
+   "example": "His tiredness resulted from a lack of sleep.",
+   "explanation": "result from 表示由…造成。",
+   "choices": [
+    "result from",
+    "result in",
+    "result of",
+    "result by"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w016",
+   "phrase": "not only... but also",
+   "ipa": "/nɒt ˈəʊnli bət ˈɔːlsəʊ/",
+   "zh": "不僅…而且",
+   "example": "He is not only a teacher but also a writer.",
+   "explanation": "兩邊詞性要對稱。",
+   "choices": [
+    "not only... but also",
+    "not only... and also",
+    "not only... but too",
+    "only not... but also"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w017",
+   "phrase": "despite",
+   "ipa": "/dɪˈspaɪt/",
+   "zh": "儘管",
+   "example": "Despite the rain, we went out.",
+   "explanation": "despite 後面接名詞，不接完整子句。",
+   "choices": [
+    "despite",
+    "despite of",
+    "although of",
+    "in despite"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w018",
+   "phrase": "although",
+   "ipa": "/ɔːlˈðəʊ/",
+   "zh": "雖然",
+   "example": "Although the course was hard, she enjoyed it.",
+   "explanation": "although 後面要有主詞和動詞。",
+   "choices": [
+    "although",
+    "although of",
+    "despite it",
+    "even of"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w019",
+   "phrase": "in other words",
+   "ipa": "/ɪn ˈʌðə wɜːdz/",
+   "zh": "換句話說",
+   "example": "The flat is tiny. In other words, there is only one room.",
+   "explanation": "in other words 用來改寫前一句。",
+   "choices": [
+    "in other words",
+    "in another words",
+    "by other word",
+    "on other words"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w020",
+   "phrase": "at the same time",
+   "ipa": "/æt ðə seɪm taɪm/",
+   "zh": "與此同時",
+   "example": "The job is tiring. At the same time, it is well paid.",
+   "explanation": "at the same time 可表示同時，也可輕微轉折。",
+   "choices": [
+    "at the same time",
+    "in the same time",
+    "on the same time",
+    "at same times"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w021",
+   "phrase": "an increasing number of",
+   "ipa": "/ən ɪnˈkriːsɪŋ ˈnʌmbər əv/",
+   "zh": "越來越多",
+   "example": "An increasing number of students study online.",
+   "explanation": "number of 接可數複數。",
+   "choices": [
+    "an increasing number of",
+    "an increasing amount of students",
+    "a increasing number",
+    "increasing numbers of the"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w022",
+   "phrase": "a significant amount of",
+   "ipa": "/ə sɪɡˈnɪfɪkənt əˈmaʊnt əv/",
+   "zh": "大量的",
+   "example": "A significant amount of money was invested.",
+   "explanation": "amount of 接不可數名詞。",
+   "choices": [
+    "a significant amount of",
+    "a significant number of money",
+    "significant amount",
+    "an amount significant of"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w023",
+   "phrase": "take measures",
+   "ipa": "/teɪk ˈmeʒəz/",
+   "zh": "採取措施",
+   "example": "The government should take measures to cut pollution.",
+   "explanation": "measures 用 take，不用 do measures。",
+   "choices": [
+    "take measures",
+    "do measures",
+    "make measures",
+    "take a measure to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w024",
+   "phrase": "raise concern",
+   "ipa": "/reɪz kənˈsɜːn/",
+   "zh": "引起關注",
+   "example": "The plan raised concern among local residents.",
+   "explanation": "concern 這裡不可數，raise concern 是引起擔憂。",
+   "choices": [
+    "raise concern",
+    "rise concern",
+    "raise concerns of the",
+    "lift concern"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w025",
+   "phrase": "to a large extent",
+   "ipa": "/tə ə lɑːdʒ ɪkˈstent/",
+   "zh": "在很大程度上",
+   "example": "To a large extent, the result depends on practice.",
+   "explanation": "extent 不用 extend。extend 是動詞。",
+   "choices": [
+    "to a large extent",
+    "to a large extend",
+    "in a large extent",
+    "on a large extent"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w026",
+   "phrase": "the advantages outweigh the drawbacks",
+   "ipa": "/ði ədˈvɑːntɪdʒɪz aʊtˈweɪ ðə ˈdrɔːbæks/",
+   "zh": "利大於弊",
+   "example": "On balance, the advantages outweigh the drawbacks.",
+   "explanation": "outweigh 是一個詞，表示超過。",
+   "choices": [
+    "the advantages outweigh the drawbacks",
+    "the advantages outweight the drawbacks",
+    "advantages are outweigh",
+    "the advantage outweighs of drawbacks"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w027",
+   "phrase": "in the long run",
+   "ipa": "/ɪn ðə lɒŋ rʌn/",
+   "zh": "從長遠來看",
+   "example": "In the long run, walking saves money.",
+   "explanation": "in the long run 表示長期而言。",
+   "choices": [
+    "in the long run",
+    "in the long runs",
+    "on the long run",
+    "for the long running"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w028",
+   "phrase": "there is no denying that",
+   "ipa": "/ðeər ɪz nəʊ dɪˈnaɪɪŋ ðæt/",
+   "zh": "不可否認",
+   "example": "There is no denying that the city is crowded.",
+   "explanation": "denying 是 V-ing，that 後面接子句。",
+   "choices": [
+    "there is no denying that",
+    "there is no deny that",
+    "there is not denying",
+    "it is no denying"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w029",
+   "phrase": "there is good reason to",
+   "ipa": "/ðeər ɪz ɡʊd ˈriːzn tə/",
+   "zh": "有充分理由",
+   "example": "There is good reason to believe the plan will work.",
+   "explanation": "reason 後面用 to + 原形。",
+   "choices": [
+    "there is good reason to",
+    "there is a good reason for to",
+    "there are good reason to",
+    "it has good reason for"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w030",
+   "phrase": "generally speaking",
+   "ipa": "/ˈdʒenrəli ˈspiːkɪŋ/",
+   "zh": "一般來說",
+   "example": "Generally speaking, people prefer a short commute.",
+   "explanation": "generally speaking 是獨立片語，後面加逗號。",
+   "choices": [
+    "generally speaking",
+    "general speaking",
+    "generally spoken",
+    "in generally speaking"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w031",
+   "phrase": "to be honest",
+   "ipa": "/tə bi ˈɒnɪst/",
+   "zh": "坦白說",
+   "example": "To be honest, I use my phone all day.",
+   "explanation": "to be honest 用來坦白轉折。",
+   "choices": [
+    "to be honest",
+    "to be honestly",
+    "being honest to",
+    "for be honest"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w032",
+   "phrase": "the thing is",
+   "ipa": "/ðə θɪŋ ɪz/",
+   "zh": "我的意思是",
+   "example": "The thing is, I do not have enough time.",
+   "explanation": "口說裡 the thing is 用來點出重點。",
+   "choices": [
+    "the thing is",
+    "the thing was is",
+    "a thing is",
+    "the things are"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w033",
+   "phrase": "the main reason is that",
+   "ipa": "/ðə meɪn ˈriːzn ɪz ðæt/",
+   "zh": "主要原因是",
+   "example": "The main reason is that big cities offer more jobs.",
+   "explanation": "reason 後面用 that 子句，不直接接 because。",
+   "choices": [
+    "the main reason is that",
+    "the main reason is because",
+    "the mainly reason is",
+    "main reason because of"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w034",
+   "phrase": "on top of that",
+   "ipa": "/ɒn tɒp əv ðæt/",
+   "zh": "除此之外",
+   "example": "The rent is high. On top of that, the flat is noisy.",
+   "explanation": "on top of that 表示還有另一個問題或理由。",
+   "choices": [
+    "on top of that",
+    "in top of that",
+    "on the top that",
+    "at top of this"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w035",
+   "phrase": "as a consequence",
+   "ipa": "/æz ə ˈkɒnsɪkwəns/",
+   "zh": "結果是",
+   "example": "He overslept. As a consequence, he missed the bus.",
+   "explanation": "consequence 是結果，拼法不是 consequense。",
+   "choices": [
+    "as a consequence",
+    "as a consequense",
+    "by consequence of",
+    "on a consequence"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w036",
+   "phrase": "by contrast",
+   "ipa": "/baɪ ˈkɒntrɑːst/",
+   "zh": "相比之下",
+   "example": "Cities are noisy. By contrast, the town is quiet.",
+   "explanation": "by contrast 用來對比前一句。",
+   "choices": [
+    "by contrast",
+    "in the contrast",
+    "by the contrast of",
+    "on contrast"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w037",
+   "phrase": "on the contrary",
+   "ipa": "/ɒn ðə ˈkɒntrəri/",
+   "zh": "與此相反",
+   "example": "I do not hate the city. On the contrary, I enjoy it.",
+   "explanation": "on the contrary 反駁前面的說法。",
+   "choices": [
+    "on the contrary",
+    "on the contrary to",
+    "in the contrary",
+    "by the contrary"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w038",
+   "phrase": "whereas",
+   "ipa": "/ˌweərˈæz/",
+   "zh": "而",
+   "example": "I like quiet cafes, whereas my brother likes crowds.",
+   "explanation": "whereas 連接兩個對比的子句。",
+   "choices": [
+    "whereas",
+    "whereas that",
+    "on whereas",
+    "where as"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w039",
+   "phrase": "so that",
+   "ipa": "/səʊ ðæt/",
+   "zh": "以便",
+   "example": "She set an alarm so that she would not oversleep.",
+   "explanation": "so that 後面接完整子句，表示目的。",
+   "choices": [
+    "so that",
+    "so as",
+    "in order",
+    "for that"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w040",
+   "phrase": "in order to",
+   "ipa": "/ɪn ˈɔːdə tə/",
+   "zh": "為了",
+   "example": "He spoke slowly in order to be clear.",
+   "explanation": "in order to 後面接原形動詞。",
+   "choices": [
+    "in order to",
+    "in order that to",
+    "so to order",
+    "for order to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w041",
+   "phrase": "instead of",
+   "ipa": "/ɪnˈsted əv/",
+   "zh": "而不是",
+   "example": "Take the stairs instead of the lift.",
+   "explanation": "instead of 後面接名詞或 V-ing。",
+   "choices": [
+    "instead of",
+    "instead from",
+    "instead than",
+    "in spite of"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w042",
+   "phrase": "otherwise",
+   "ipa": "/ˈʌðəwaɪz/",
+   "zh": "否則",
+   "example": "Leave now; otherwise you will miss the train.",
+   "explanation": "otherwise 表示如果不這樣。",
+   "choices": [
+    "otherwise",
+    "other wise",
+    "or otherwise to",
+    "on the otherwise"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w043",
+   "phrase": "eventually",
+   "ipa": "/ɪˈventʃuəli/",
+   "zh": "最終",
+   "example": "We eventually found a quiet cafe.",
+   "explanation": "eventually 是最後、終於，不是 eventfully。",
+   "choices": [
+    "eventually",
+    "eventfully",
+    "eventually to",
+    "at eventually"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w044",
+   "phrase": "currently",
+   "ipa": "/ˈkʌrəntli/",
+   "zh": "目前",
+   "example": "I am currently preparing for IELTS.",
+   "explanation": "currently 常與現在進行式一起用。",
+   "choices": [
+    "currently",
+    "current",
+    "at currently",
+    "in current"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w045",
+   "phrase": "recently",
+   "ipa": "/ˈriːsntli/",
+   "zh": "最近",
+   "example": "I recently started reading every day.",
+   "explanation": "recently 常配現在完成式或過去式。",
+   "choices": [
+    "recently",
+    "recent",
+    "in recently",
+    "at recent"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w046",
+   "phrase": "especially",
+   "ipa": "/ɪˈspeʃəli/",
+   "zh": "尤其",
+   "example": "It is hard, especially at the beginning.",
+   "explanation": "especially 用來強調其中一個情況。",
+   "choices": [
+    "especially",
+    "specially of",
+    "in especially",
+    "on special"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w047",
+   "phrase": "particularly",
+   "ipa": "/pəˈtɪkjələli/",
+   "zh": "特別是",
+   "example": "I like the city, particularly the food.",
+   "explanation": "particularly 和 especially 接近。",
+   "choices": [
+    "particularly",
+    "particular",
+    "in particularly",
+    "on particular"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w048",
+   "phrase": "relatively",
+   "ipa": "/ˈrelətɪvli/",
+   "zh": "相對地",
+   "example": "The exam was relatively fair.",
+   "explanation": "relatively 表示跟別的情況比起來。",
+   "choices": [
+    "relatively",
+    "relative",
+    "in relatively",
+    "on relative"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w049",
+   "phrase": "hardly",
+   "ipa": "/ˈhɑːdli/",
+   "zh": "幾乎不",
+   "example": "I hardly had time to eat breakfast.",
+   "explanation": "hardly 本身已是否定，不再加 not。",
+   "choices": [
+    "hardly",
+    "hardly not",
+    "not hardly",
+    "hardly no"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w050",
+   "phrase": "nearly",
+   "ipa": "/ˈnɪəli/",
+   "zh": "幾乎",
+   "example": "It is nearly eight o'clock.",
+   "explanation": "nearly 表示差不多，接近。",
+   "choices": [
+    "nearly",
+    "near",
+    "nearly to",
+    "in nearly"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w051",
+   "phrase": "tend to",
+   "ipa": "/tend tə/",
+   "zh": "往往",
+   "example": "Students tend to forget irregular verbs.",
+   "explanation": "tend to + 原形，表示有…的傾向。",
+   "choices": [
+    "tend to",
+    "tend for",
+    "tend at",
+    "tending to do"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w052",
+   "phrase": "a lack of",
+   "ipa": "/ə læk əv/",
+   "zh": "缺乏",
+   "example": "A lack of sleep makes it hard to study.",
+   "explanation": "a lack of + 名詞。lack 這裡是名詞。",
+   "choices": [
+    "a lack of",
+    "a lack for",
+    "lack of a",
+    "a lacking of"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w053",
+   "phrase": "have access to",
+   "ipa": "/hæv ˈækses tə/",
+   "zh": "有機會使用",
+   "example": "Not every student has access to a quiet desk.",
+   "explanation": "access 後面用 to，不用 access of。",
+   "choices": [
+    "have access to",
+    "have access of",
+    "have an access",
+    "access for to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w054",
+   "phrase": "a solution to",
+   "ipa": "/ə səˈluːʃn tə/",
+   "zh": "解決方法",
+   "example": "One solution to the problem is a time limit.",
+   "explanation": "solution 後面用 to，不用 solution of the problem 在這個考試片語裡較不自然。",
+   "choices": [
+    "a solution to",
+    "a solution of",
+    "a solution for to",
+    "the solution on"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w055",
+   "phrase": "implement",
+   "ipa": "/ˈɪmplɪment/",
+   "zh": "實施",
+   "example": "The school will implement the new rule in March.",
+   "explanation": "implement 是動詞，名詞是 implementation。",
+   "choices": [
+    "implement",
+    "implementate",
+    "imply",
+    "implicate"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w056",
+   "phrase": "encourage somebody to",
+   "ipa": "/ɪnˈkʌrɪdʒ/",
+   "zh": "鼓勵",
+   "example": "Teachers should encourage students to speak.",
+   "explanation": "encourage + 人 + to + 原形。",
+   "choices": [
+    "encourage somebody to",
+    "encourage to students",
+    "encourage students speaking",
+    "encourage for speak"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w057",
+   "phrase": "prevent somebody from",
+   "ipa": "/prɪˈvent/",
+   "zh": "防止",
+   "example": "A break can prevent you from getting too tired.",
+   "explanation": "prevent + 人 + from + V-ing。",
+   "choices": [
+    "prevent somebody from",
+    "prevent you to",
+    "prevent from you",
+    "prevent you of"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w058",
+   "phrase": "promote",
+   "ipa": "/prəˈməʊt/",
+   "zh": "促進",
+   "example": "The campaign will promote cycling.",
+   "explanation": "promote + 名詞或 V-ing，表示推廣。",
+   "choices": [
+    "promote",
+    "promote to cycling",
+    "promotion cycling",
+    "promote for to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w059",
+   "phrase": "reduce",
+   "ipa": "/rɪˈdjuːs/",
+   "zh": "減少",
+   "example": "We can reduce waste by bringing a bottle.",
+   "explanation": "reduce + 名詞。英式讀音是 /rɪˈdjuːs/。",
+   "choices": [
+    "reduce",
+    "reduce down",
+    "reduct",
+    "reduction the"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w060",
+   "phrase": "improve",
+   "ipa": "/ɪmˈpruːv/",
+   "zh": "改善",
+   "example": "Reading aloud can improve your rhythm.",
+   "explanation": "improve 後面直接接受詞，不說 improve up。",
+   "choices": [
+    "improve",
+    "improve up",
+    "improve to better",
+    "make improve"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w061",
+   "phrase": "contribute to",
+   "ipa": "/kənˈtrɪbjuːt tə/",
+   "zh": "促成",
+   "example": "Everyone can contribute to the project.",
+   "explanation": "contribute to 的 to 是介系詞。",
+   "choices": [
+    "contribute to",
+    "contribute for",
+    "contribute at",
+    "contribute on"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w062",
+   "phrase": "depend on",
+   "ipa": "/dɪˈpend ɒn/",
+   "zh": "取決於",
+   "example": "The result will depend on how often you practise.",
+   "explanation": "depend 用 on，不用 depend of。",
+   "choices": [
+    "depend on",
+    "depend of",
+    "depend to",
+    "depend at"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w063",
+   "phrase": "require",
+   "ipa": "/rɪˈkwaɪə/",
+   "zh": "需要",
+   "example": "The job will require clear spoken English.",
+   "explanation": "require + 名詞，或 require somebody to do。",
+   "choices": [
+    "require",
+    "require to English",
+    "require for doing",
+    "be require"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w064",
+   "phrase": "provide somebody with",
+   "ipa": "/prəˈvaɪd/",
+   "zh": "提供",
+   "example": "The course will provide you with feedback.",
+   "explanation": "也可以說 provide feedback for you。with 接所提供的東西。",
+   "choices": [
+    "provide somebody with",
+    "provide you for",
+    "provide you of",
+    "provide to you with"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w065",
+   "phrase": "in favour of",
+   "ipa": "/ɪn ˈfeɪvər əv/",
+   "zh": "支持",
+   "example": "Most students are in favour of the change.",
+   "explanation": "in favour of 是英式拼法，表示贊成。",
+   "choices": [
+    "in favour of",
+    "in favour for",
+    "on favour of",
+    "in favorite of"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w066",
+   "phrase": "be opposed to",
+   "ipa": "/bi əˈpəʊzd tə/",
+   "zh": "反對",
+   "example": "Some residents are opposed to the new road.",
+   "explanation": "opposed to 的 to 後面接名詞或 V-ing。",
+   "choices": [
+    "be opposed to",
+    "opposed with",
+    "oppose to",
+    "opposite to the"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w067",
+   "phrase": "regard ... as",
+   "ipa": "/rɪˈɡɑːd/",
+   "zh": "認為",
+   "example": "Many people regard the park as the heart of the town.",
+   "explanation": "regard A as B，as 不能省。",
+   "choices": [
+    "regard ... as",
+    "regard the park for",
+    "regard as the park",
+    "regard the park to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w068",
+   "phrase": "there appears to be",
+   "ipa": "/ðeər əˈpɪəz tə biː/",
+   "zh": "似乎",
+   "example": "There appears to be a mistake in the total.",
+   "explanation": "there appears to be 比 there seems a 更完整。",
+   "choices": [
+    "there appears to be",
+    "there appears being",
+    "there appear to",
+    "it appears to being"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w069",
+   "phrase": "remain",
+   "ipa": "/rɪˈmeɪn/",
+   "zh": "仍然",
+   "example": "Tickets remain expensive in the holidays.",
+   "explanation": "remain + 形容詞，不加 to be 也可以。",
+   "choices": [
+    "remain",
+    "remain to expensive",
+    "stay remain",
+    "remain as expensive to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w070",
+   "phrase": "I agree with",
+   "ipa": "/aɪ əˈɡriː wɪð/",
+   "zh": "同意",
+   "example": "I agree with the first point.",
+   "explanation": "agree with + 人／看法。agree to + 提議。",
+   "choices": [
+    "I agree with",
+    "I agree to the point of him",
+    "I agree on him",
+    "I am agree"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w071",
+   "phrase": "I disagree with",
+   "ipa": "/aɪ ˌdɪsəˈɡriː wɪð/",
+   "zh": "不同意",
+   "example": "I disagree with the idea that homework is useless.",
+   "explanation": "disagree 後面用 with。",
+   "choices": [
+    "I disagree with",
+    "I disagree to",
+    "I am disagree",
+    "I disagree for"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w072",
+   "phrase": "some people argue that",
+   "ipa": "/sʌm ˈpiːpl ˈɑːɡjuː ðæt/",
+   "zh": "主張",
+   "example": "Some people argue that cities are too crowded.",
+   "explanation": "argue that 後面接完整句子。",
+   "choices": [
+    "some people argue that",
+    "some people argue to",
+    "argue about that cities",
+    "people argues that"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w073",
+   "phrase": "I suggest taking",
+   "ipa": "/aɪ səˈdʒest ˈteɪkɪŋ/",
+   "zh": "建議",
+   "example": "I suggest taking the bus instead of a taxi.",
+   "explanation": "suggest 後面用 V-ing，不接 to V。",
+   "choices": [
+    "I suggest taking",
+    "I suggest to take",
+    "I suggest taking to",
+    "suggest for take"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w074",
+   "phrase": "be worth",
+   "ipa": "/bi wɜːθ/",
+   "zh": "值得",
+   "example": "The museum is worth the ticket price.",
+   "explanation": "worth 後面接名詞或 V-ing，不加 to。",
+   "choices": [
+    "be worth",
+    "worth to visit",
+    "worth of the",
+    "be worth to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w075",
+   "phrase": "prefer A to B",
+   "ipa": "/prɪˈfɜː/",
+   "zh": "比較喜歡",
+   "example": "I prefer tea to coffee.",
+   "explanation": "prefer 名詞時用 to，不用 than。",
+   "choices": [
+    "prefer A to B",
+    "prefer tea than coffee",
+    "prefer tea from coffee",
+    "prefer tea over than"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w076",
+   "phrase": "recommend",
+   "ipa": "/ˌrekəˈmend/",
+   "zh": "推薦",
+   "example": "I recommend the night market to every visitor.",
+   "explanation": "recommend A to B，或 recommend doing。",
+   "choices": [
+    "recommend",
+    "recommend to visit the",
+    "recommend visiting to",
+    "recommend for to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w077",
+   "phrase": "adapt to",
+   "ipa": "/əˈdæpt tə/",
+   "zh": "適應",
+   "example": "It took a few days to adapt to the food.",
+   "explanation": "adapt to 表示適應。adopt 是收養或採納，不要混。",
+   "choices": [
+    "adapt to",
+    "adapt with",
+    "adopt to",
+    "adapt for"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w078",
+   "phrase": "adjust to",
+   "ipa": "/əˈdʒʌst tə/",
+   "zh": "調整",
+   "example": "You can adjust to the new timetable.",
+   "explanation": "adjust to + 名詞。",
+   "choices": [
+    "adjust to",
+    "adjust with",
+    "adjust for to",
+    "adjustment to do"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w079",
+   "phrase": "be familiar with",
+   "ipa": "/bi fəˈmɪliə wɪð/",
+   "zh": "熟悉",
+   "example": "I am familiar with this street.",
+   "explanation": "familiar with + 事物。事物 familiar to + 人。",
+   "choices": [
+    "be familiar with",
+    "familiar to this street",
+    "familiar of",
+    "be familiar for"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w080",
+   "phrase": "broaden your horizons",
+   "ipa": "/ˈbrɔːdn jɔː həˈraɪznz/",
+   "zh": "拓寬眼界",
+   "example": "Travel can broaden your horizons.",
+   "explanation": "horizons 常用複數。",
+   "choices": [
+    "broaden your horizons",
+    "broad your horizon",
+    "broaden your horizon to",
+    "wide your eyes"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w081",
+   "phrase": "one advantage of",
+   "ipa": "/wʌn ədˈvɑːntɪdʒ əv/",
+   "zh": "優點",
+   "example": "One advantage of the train is the view.",
+   "explanation": "advantage of + 名詞。",
+   "choices": [
+    "one advantage of",
+    "one advantage for",
+    "an advantage to of",
+    "advantage in of"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w082",
+   "phrase": "one drawback of",
+   "ipa": "/wʌn ˈdrɔːbæk əv/",
+   "zh": "缺點",
+   "example": "One drawback of flying is the cost.",
+   "explanation": "drawback 是可數名詞，一個缺點用 one drawback。",
+   "choices": [
+    "one drawback of",
+    "one drawback for",
+    "a draw back",
+    "drawback to of"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w083",
+   "phrase": "pose a challenge",
+   "ipa": "/pəʊz ə ˈtʃælɪndʒ/",
+   "zh": "挑戰",
+   "example": "Reading a timetable in another language can pose a challenge.",
+   "explanation": "pose a challenge 表示構成挑戰。",
+   "choices": [
+    "pose a challenge",
+    "make a challenge to",
+    "pose to a challenge",
+    "give challenge for"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w084",
+   "phrase": "an opportunity to",
+   "ipa": "/ən ˌɒpəˈtjuːnəti tə/",
+   "zh": "機會",
+   "example": "The trip is an opportunity to use English.",
+   "explanation": "opportunity to + 原形。",
+   "choices": [
+    "an opportunity to",
+    "an opportunity for to",
+    "opportunity of doing to",
+    "an opportunitiy to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w085",
+   "phrase": "a global problem",
+   "ipa": "/ə ˈɡləʊbl ˈprɒbləm/",
+   "zh": "全球的問題",
+   "example": "Climate change is a global problem.",
+   "explanation": "global 是形容詞，直接放在名詞前。",
+   "choices": [
+    "a global problem",
+    "a globally problem",
+    "a global's problem",
+    "the globe problem"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w086",
+   "phrase": "domestic",
+   "ipa": "/dəˈmestɪk/",
+   "zh": "國內的",
+   "example": "A domestic flight is often shorter than the train.",
+   "explanation": "domestic 可指國內的，也可指家庭的。",
+   "choices": [
+    "domestic",
+    "domestical",
+    "domesticated flight",
+    "indoor flight of nation"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w087",
+   "phrase": "international",
+   "ipa": "/ˌɪntəˈnæʃnəl/",
+   "zh": "國際的",
+   "example": "The airport has many international flights.",
+   "explanation": "international 中間沒有 a。",
+   "choices": [
+    "international",
+    "internation",
+    "inter national",
+    "internationality flights"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w088",
+   "phrase": "affordable",
+   "ipa": "/əˈfɔːdəbl/",
+   "zh": "負擔得起的",
+   "example": "The hostel is affordable for students.",
+   "explanation": "affordable 是形容詞。afford 是動詞。",
+   "choices": [
+    "affordable",
+    "afford to students",
+    "affording",
+    "affordable to buy for"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w089",
+   "phrase": "flexible",
+   "ipa": "/ˈfleksəbl/",
+   "zh": "有彈性的",
+   "example": "Our plans are flexible if the weather changes.",
+   "explanation": "flexible 表示可以調整。",
+   "choices": [
+    "flexible",
+    "flexable",
+    "flexibility plans",
+    "flexibly plans"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w090",
+   "phrase": "independent",
+   "ipa": "/ˌɪndɪˈpendənt/",
+   "zh": "獨立的",
+   "example": "Travelling alone made him more independent.",
+   "explanation": "independent 後面若接事物用 of：independent of。",
+   "choices": [
+    "independent",
+    "independant",
+    "independent from of",
+    "in dependent"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w091",
+   "phrase": "effective",
+   "ipa": "/ɪˈfektɪv/",
+   "zh": "有效的",
+   "example": "Short daily practice is more effective than one long session.",
+   "explanation": "effective 是有效果。efficient 是有效率。",
+   "choices": [
+    "effective",
+    "efficient for practice only",
+    "affective",
+    "effectful"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w092",
+   "phrase": "practical",
+   "ipa": "/ˈpræktɪkl/",
+   "zh": "實際的",
+   "example": "We need a practical plan, not only a hope.",
+   "explanation": "practical 表示做得到。",
+   "choices": [
+    "practical",
+    "practic",
+    "practically plan",
+    "practice plan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w093",
+   "phrase": "a realistic goal",
+   "ipa": "/ə ˌrɪəˈlɪstɪk ɡəʊl/",
+   "zh": "務實的目標",
+   "example": "A realistic goal keeps you going.",
+   "explanation": "realistic 不是 realitic。",
+   "choices": [
+    "a realistic goal",
+    "a realist goal",
+    "a real goal of realistic",
+    "realisticly goal"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w094",
+   "phrase": "it is necessary to",
+   "ipa": "/ɪt ɪz ˈnesəsəri tə/",
+   "zh": "必要的",
+   "example": "It is necessary to read the question twice.",
+   "explanation": "necessary 的英式讀音是 /ˈnesəsəri/。",
+   "choices": [
+    "it is necessary to",
+    "it is necessary for to",
+    "it is necessitate",
+    "necessary that to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w095",
+   "phrase": "suitable for",
+   "ipa": "/ˈsuːtəbl fɔː/",
+   "zh": "適合的",
+   "example": "This topic is suitable for a two-minute answer.",
+   "explanation": "suitable for + 名詞。",
+   "choices": [
+    "suitable for",
+    "suitable to for",
+    "suit for",
+    "suitable on"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w096",
+   "phrase": "available",
+   "ipa": "/əˈveɪləbl/",
+   "zh": "可取得的",
+   "example": "The book is available at the library.",
+   "explanation": "available 表示找得到、用得到。",
+   "choices": [
+    "available",
+    "avaliable",
+    "available for to get",
+    "in available"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w097",
+   "phrase": "crucial",
+   "ipa": "/ˈkruːʃl/",
+   "zh": "關鍵的",
+   "example": "Sleep is crucial before an exam.",
+   "explanation": "crucial 後面可用 to 或 for。",
+   "choices": [
+    "crucial",
+    "crutial",
+    "crucial to for the",
+    "crusial"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w098",
+   "phrase": "vital",
+   "ipa": "/ˈvaɪtl/",
+   "zh": "極重要的",
+   "example": "Handwashing is vital in a hospital.",
+   "explanation": "vital 表示不可或缺。",
+   "choices": [
+    "vital",
+    "vitally the",
+    "a vital of",
+    "vitalic"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w099",
+   "phrase": "significant",
+   "ipa": "/sɪɡˈnɪfɪkənt/",
+   "zh": "顯著的",
+   "example": "There was a significant increase in sales.",
+   "explanation": "significant 是顯著的，不是 signature。",
+   "choices": [
+    "significant",
+    "significantly increase of",
+    "signature",
+    "significent"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w100",
+   "phrase": "roughly",
+   "ipa": "/ˈrʌfli/",
+   "zh": "大致",
+   "example": "The journey takes roughly forty minutes.",
+   "explanation": "roughly 表示大約，和 approximately 接近。",
+   "choices": [
+    "roughly",
+    "rough",
+    "in roughly",
+    "on rough"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w101",
+   "phrase": "approximately",
+   "ipa": "/əˈprɒksɪmətli/",
+   "zh": "大約",
+   "example": "Approximately half of the class walks to school.",
+   "explanation": "approximately 比 about 更正式，適合寫作。",
+   "choices": [
+    "approximately",
+    "approximate half",
+    "in approximately",
+    "on approximate"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w102",
+   "phrase": "dramatically",
+   "ipa": "/drəˈmætɪkli/",
+   "zh": "大幅地",
+   "example": "The number of visitors rose dramatically.",
+   "explanation": "dramatically 強調幅度很大。",
+   "choices": [
+    "dramatically",
+    "dramatic",
+    "in dramatically",
+    "drama rise"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w103",
+   "phrase": "gradually",
+   "ipa": "/ˈɡrædʒuəli/",
+   "zh": "逐漸地",
+   "example": "The town has gradually become more crowded.",
+   "explanation": "gradually 表示一點一點地。",
+   "choices": [
+    "gradually",
+    "gradual",
+    "in gradually",
+    "by gradual"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w104",
+   "phrase": "sharply",
+   "ipa": "/ˈʃɑːpli/",
+   "zh": "急遽地",
+   "example": "Unemployment fell sharply after the factory opened.",
+   "explanation": "sharply 可形容數字突然上升或下降。",
+   "choices": [
+    "sharply",
+    "sharp",
+    "in sharply",
+    "sharply to fall"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w105",
+   "phrase": "steadily",
+   "ipa": "/ˈstedəli/",
+   "zh": "穩定地",
+   "example": "Wages have risen steadily for five years.",
+   "explanation": "steadily 表示穩定、沒有大波動。",
+   "choices": [
+    "steadily",
+    "steady",
+    "in steadily",
+    "steadly"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w106",
+   "phrase": "slightly",
+   "ipa": "/ˈslaɪtli/",
+   "zh": "稍微",
+   "example": "The figure is slightly higher than last year.",
+   "explanation": "slightly 表示只有一點點。",
+   "choices": [
+    "slightly",
+    "slight",
+    "in slightly",
+    "slightly more higher"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w107",
+   "phrase": "fluctuate",
+   "ipa": "/ˈflʌktʃueɪt/",
+   "zh": "波動",
+   "example": "Oil prices fluctuate from month to month.",
+   "explanation": "fluctuate 是動詞。名詞是 fluctuation。",
+   "choices": [
+    "fluctuate",
+    "fluctuation the price",
+    "flexuate",
+    "fluctuate to up"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w108",
+   "phrase": "a large proportion of",
+   "ipa": "/ə lɑːdʒ prəˈpɔːʃn əv/",
+   "zh": "比例",
+   "example": "A large proportion of the budget goes to schools.",
+   "explanation": "proportion of 後面的動詞看名詞的單複數。",
+   "choices": [
+    "a large proportion of",
+    "a large proportion for",
+    "large proportional",
+    "a proportion large"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w109",
+   "phrase": "the majority of",
+   "ipa": "/ðə məˈdʒɒrəti əv/",
+   "zh": "多數",
+   "example": "The majority of students travel by bus.",
+   "explanation": "the majority of + 複數名詞時，動詞常用複數。",
+   "choices": [
+    "the majority of",
+    "the major of",
+    "majority students",
+    "the most of students"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w110",
+   "phrase": "a minority of",
+   "ipa": "/ə maɪˈnɒrəti əv/",
+   "zh": "少數",
+   "example": "Only a minority of residents opposed the park.",
+   "explanation": "minority 是少數，不是 minor。",
+   "choices": [
+    "a minority of",
+    "a minor of",
+    "the minority people of",
+    "a less of"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w111",
+   "phrase": "there is clear evidence that",
+   "ipa": "/ðeər ɪz klɪər ˈevɪdəns ðæt/",
+   "zh": "證據",
+   "example": "There is clear evidence that sleep improves memory.",
+   "explanation": "evidence 不可數，不說 an evidence。",
+   "choices": [
+    "there is clear evidence that",
+    "there is a clear evidence",
+    "there are evidences that",
+    "evidence clear is"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w112",
+   "phrase": "according to the chart",
+   "ipa": "/əˈkɔːdɪŋ tə ðə tʃɑːt/",
+   "zh": "根據圖表",
+   "example": "According to the chart, sales fell in May.",
+   "explanation": "according to 後面接名詞，不接句子當主詞。",
+   "choices": [
+    "according to the chart",
+    "according to the chart says",
+    "according the chart",
+    "by according to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w113",
+   "phrase": "as the graph shows",
+   "ipa": "/æz ðə ɡrɑːf ʃəʊz/",
+   "zh": "如圖所示",
+   "example": "As the graph shows, the figure rose after 2010.",
+   "explanation": "as the graph shows 是插入的方式，動詞用 shows。",
+   "choices": [
+    "as the graph shows",
+    "as the graph show",
+    "as graph showing",
+    "like the graph say"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w114",
+   "phrase": "reach a peak",
+   "ipa": "/riːtʃ ə piːk/",
+   "zh": "達到高峰",
+   "example": "Sales reached a peak in August.",
+   "explanation": "peak 是高峰。reach a peak 是圖表常用語。",
+   "choices": [
+    "reach a peak",
+    "reach to a peak of the",
+    "arrive a peak",
+    "get a top peak"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w115",
+   "phrase": "hit a low",
+   "ipa": "/hɪt ə ləʊ/",
+   "zh": "降到最低",
+   "example": "The number hit a low in February.",
+   "explanation": "hit a low 表示降到低點。",
+   "choices": [
+    "hit a low",
+    "hit a lowest",
+    "hit to low",
+    "make a lowly"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w116",
+   "phrase": "remain stable",
+   "ipa": "/rɪˈmeɪn ˈsteɪbl/",
+   "zh": "保持穩定",
+   "example": "Prices remained stable for most of the year.",
+   "explanation": "remain + 形容詞 stable。",
+   "choices": [
+    "remain stable",
+    "remain stably",
+    "stay stablely",
+    "remain to stable"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w117",
+   "phrase": "stand at",
+   "ipa": "/stænd æt/",
+   "zh": "約為",
+   "example": "The figure stood at 20 percent in 2015.",
+   "explanation": "stand at 用來報一個當時的數字。",
+   "choices": [
+    "stand at",
+    "stand on",
+    "stand to",
+    "stand by at"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w118",
+   "phrase": "account for",
+   "ipa": "/əˈkaʊnt fɔː/",
+   "zh": "佔",
+   "example": "Food accounted for a third of their spending.",
+   "explanation": "account for 表示佔（比例）或解釋原因。",
+   "choices": [
+    "account for",
+    "account of",
+    "account about",
+    "account to for"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "w119",
+   "phrase": "respectively",
+   "ipa": "/rɪˈspektɪvli/",
+   "zh": "分別",
+   "example": "The figures were 10 and 12 percent respectively.",
+   "explanation": "respectively 表示前面兩個數字各自對應。",
+   "choices": [
+    "respectively",
+    "respectfully",
+    "respective",
+    "in respectively"
+   ],
+   "answer": 0
+  }
+ ],
+ "speaking": [
+  {
+   "id": "sp-p1-home",
+   "part": "Part 1",
+   "topic": "hometown",
+   "cue": "Do you like your hometown?",
+   "points": [
+    "where it is",
+    "what you like"
+   ],
+   "phrases": [
+    "I come from...",
+    "What I like most is..."
+   ],
+   "model": "I come from a small city in the south of Taiwan. What I like most is the night market, because the food is cheap and friendly."
+  },
+  {
+   "id": "sp-p1-work",
+   "part": "Part 1",
+   "topic": "work",
+   "cue": "What do you do?",
+   "points": [
+    "your job or studies",
+    "why you do it"
+   ],
+   "phrases": [
+    "At the moment, I'm...",
+    "I mainly..."
+   ],
+   "model": "At the moment, I'm preparing for IELTS. I mainly study in the evening, because I work during the day."
+  },
+  {
+   "id": "sp-p1-phone",
+   "part": "Part 1",
+   "topic": "technology",
+   "cue": "How often do you use your phone?",
+   "points": [
+    "how often",
+    "what for"
+   ],
+   "phrases": [
+    "To be honest,...",
+    "I mainly use it for..."
+   ],
+   "model": "To be honest, I use it pretty much all day. I mainly use it for messages and maps."
+  },
+  {
+   "id": "sp-p1-health",
+   "part": "Part 1",
+   "topic": "health",
+   "cue": "What do you do to stay healthy?",
+   "points": [
+    "exercise",
+    "food or sleep"
+   ],
+   "phrases": [
+    "I try to...",
+    "I've cut down on..."
+   ],
+   "model": "I try to walk for thirty minutes after dinner. I've also cut down on sweet drinks."
+  },
+  {
+   "id": "sp-p1-food",
+   "part": "Part 1",
+   "topic": "food",
+   "cue": "What is your favourite food?",
+   "points": [
+    "the dish",
+    "why"
+   ],
+   "phrases": [
+    "My favourite is...",
+    "The reason is that..."
+   ],
+   "model": "My favourite is beef noodle soup. The reason is that it tastes rich but it is still a simple meal."
+  },
+  {
+   "id": "sp-p1-weather",
+   "part": "Part 1",
+   "topic": "weather",
+   "cue": "What is the weather like in your country?",
+   "points": [
+    "seasons",
+    "an example"
+   ],
+   "phrases": [
+    "It depends on the season.",
+    "For example,..."
+   ],
+   "model": "It depends on the season. For example, summer is hot and wet, while winter is milder in the south."
+  },
+  {
+   "id": "sp-p1-music",
+   "part": "Part 1",
+   "topic": "music",
+   "cue": "Do you like listening to music?",
+   "points": [
+    "when",
+    "what kind"
+   ],
+   "phrases": [
+    "I tend to...",
+    "It helps me..."
+   ],
+   "model": "I tend to listen to music on the metro. It helps me relax before work."
+  },
+  {
+   "id": "sp-p1-read",
+   "part": "Part 1",
+   "topic": "reading",
+   "cue": "Do you like reading?",
+   "points": [
+    "what",
+    "how often"
+   ],
+   "phrases": [
+    "I'm more of a...",
+    "I usually..."
+   ],
+   "model": "I'm more of a news reader than a novel reader. I usually read for twenty minutes before bed."
+  },
+  {
+   "id": "sp-p1-friend",
+   "part": "Part 1",
+   "topic": "friends",
+   "cue": "Do you prefer to spend time with friends or alone?",
+   "points": [
+    "your preference",
+    "why"
+   ],
+   "phrases": [
+    "It depends.",
+    "On the one hand,..."
+   ],
+   "model": "It depends. On the one hand, I like a quiet evening alone. On the other hand, I enjoy dinner with close friends."
+  },
+  {
+   "id": "sp-p1-morning",
+   "part": "Part 1",
+   "topic": "daily",
+   "cue": "What do you usually do in the morning?",
+   "points": [
+    "routine",
+    "one detail"
+   ],
+   "phrases": [
+    "The first thing I do is...",
+    "After that,..."
+   ],
+   "model": "The first thing I do is check the weather. After that, I have breakfast and leave for work."
+  },
+  {
+   "id": "sp-p1-shop",
+   "part": "Part 1",
+   "topic": "shopping",
+   "cue": "Do you like shopping?",
+   "points": [
+    "yes or no",
+    "reason"
+   ],
+   "phrases": [
+    "Not really.",
+    "I only..."
+   ],
+   "model": "Not really. I only shop when I need something, because crowded shops make me tired."
+  },
+  {
+   "id": "sp-p1-park",
+   "part": "Part 1",
+   "topic": "places",
+   "cue": "Do you often go to parks?",
+   "points": [
+    "how often",
+    "why"
+   ],
+   "phrases": [
+    "I try to go...",
+    "It's a chance to..."
+   ],
+   "model": "I try to go once a week. It's a chance to walk and to get away from my desk."
+  },
+  {
+   "id": "sp-p1-eng",
+   "part": "Part 1",
+   "topic": "study",
+   "cue": "Why are you learning English?",
+   "points": [
+    "goal",
+    "how"
+   ],
+   "phrases": [
+    "I'm hoping to...",
+    "The main reason is that..."
+   ],
+   "model": "I'm hoping to get band 6.5. The main reason is that I want to use English at work, not only in class."
+  },
+  {
+   "id": "sp-p1-trans",
+   "part": "Part 1",
+   "topic": "transport",
+   "cue": "How do you usually travel to work or school?",
+   "points": [
+    "the method",
+    "why"
+   ],
+   "phrases": [
+    "I usually...",
+    "It's more... than..."
+   ],
+   "model": "I usually take the metro. It's more reliable than driving, and I can read on the way."
+  },
+  {
+   "id": "sp-p1-weekend",
+   "part": "Part 1",
+   "topic": "free time",
+   "cue": "What do you usually do at the weekend?",
+   "points": [
+    "one activity",
+    "who with"
+   ],
+   "phrases": [
+    "At the weekend, I...",
+    "If I have time,..."
+   ],
+   "model": "At the weekend, I cook and sometimes meet a friend. If I have time, I go to a market."
+  },
+  {
+   "id": "sp-p1-photo",
+   "part": "Part 1",
+   "topic": "hobbies",
+   "cue": "Do you like taking photos?",
+   "points": [
+    "yes or no",
+    "what of"
+   ],
+   "phrases": [
+    "I take photos of...",
+    "I don't..."
+   ],
+   "model": "I take photos of food and streets, but I don't spend long editing them."
+  },
+  {
+   "id": "sp-p2-city",
+   "part": "Part 2",
+   "topic": "travel",
+   "cue": "Describe a city you would like to visit.",
+   "points": [
+    "where it is",
+    "what you know about it",
+    "why you want to go"
+   ],
+   "phrases": [
+    "I've always wanted to...",
+    "The main reason is that..."
+   ],
+   "model": "I've always wanted to visit London. The main reason is that I could use my English in real shops and stations, and I would like to see the old buildings."
+  },
+  {
+   "id": "sp-p2-person",
+   "part": "Part 2",
+   "topic": "people",
+   "cue": "Describe a person who helped you.",
+   "points": [
+    "who",
+    "how they helped",
+    "how you felt"
+   ],
+   "phrases": [
+    "I want to talk about...",
+    "What I remember most is..."
+   ],
+   "model": "I want to talk about my English teacher. What I remember most is that she told me to answer first and then give one example. I felt much calmer after that."
+  },
+  {
+   "id": "sp-p2-meal",
+   "part": "Part 2",
+   "topic": "food",
+   "cue": "Describe a special meal you had.",
+   "points": [
+    "where",
+    "what you ate",
+    "why it was special"
+   ],
+   "phrases": [
+    "One meal that stands out is...",
+    "It was special because..."
+   ],
+   "model": "One meal that stands out is a birthday dinner at a night market. It was special because my friends paid, and we stayed talking for two hours."
+  },
+  {
+   "id": "sp-p2-place",
+   "part": "Part 2",
+   "topic": "places",
+   "cue": "Describe a quiet place you like.",
+   "points": [
+    "where",
+    "what you do there",
+    "why it is quiet"
+   ],
+   "phrases": [
+    "The place I'd like to describe is...",
+    "I go there when..."
+   ],
+   "model": "The place I'd like to describe is the library near my office. I go there when I need to read. It is quiet because phones are not allowed."
+  },
+  {
+   "id": "sp-p2-skill",
+   "part": "Part 2",
+   "topic": "skills",
+   "cue": "Describe a skill you would like to learn.",
+   "points": [
+    "what",
+    "how you would learn it",
+    "why"
+   ],
+   "phrases": [
+    "A skill I'd like to learn is...",
+    "I'd start by..."
+   ],
+   "model": "A skill I'd like to learn is cooking simple healthy food. I'd start by learning three dishes. I want this skill because I eat out too often."
+  },
+  {
+   "id": "sp-p2-trip",
+   "part": "Part 2",
+   "topic": "travel",
+   "cue": "Describe a trip you enjoyed.",
+   "points": [
+    "where",
+    "what you did",
+    "why you enjoyed it"
+   ],
+   "phrases": [
+    "Last year I...",
+    "The best part was..."
+   ],
+   "model": "Last year I went to Kenting with two friends. The best part was the train ride along the coast, because we talked the whole way."
+  },
+  {
+   "id": "sp-p2-book",
+   "part": "Part 2",
+   "topic": "reading",
+   "cue": "Describe a book or article you enjoyed.",
+   "points": [
+    "what it was about",
+    "why you read it",
+    "what you learned"
+   ],
+   "phrases": [
+    "I recently read...",
+    "What I learned was..."
+   ],
+   "model": "I recently read a short article about walking. What I learned was that thirty minutes a day is enough to start. I read it because I wanted a simple health plan."
+  },
+  {
+   "id": "sp-p2-job",
+   "part": "Part 2",
+   "topic": "work",
+   "cue": "Describe a job you would like to have.",
+   "points": [
+    "what the job is",
+    "what you would do",
+    "why it suits you"
+   ],
+   "phrases": [
+    "The job I'd like is...",
+    "It suits me because..."
+   ],
+   "model": "The job I'd like is a junior designer in a small office. It suits me because I like clear tasks, and I would still have a colleague to learn from."
+  },
+  {
+   "id": "sp-p2-gift",
+   "part": "Part 2",
+   "topic": "people",
+   "cue": "Describe a gift you received.",
+   "points": [
+    "what it was",
+    "who gave it",
+    "why it mattered"
+   ],
+   "phrases": [
+    "The gift was...",
+    "It mattered because..."
+   ],
+   "model": "The gift was a simple dictionary. A friend gave it to me when I started English. It mattered because I still use the notes I wrote in it."
+  },
+  {
+   "id": "sp-p2-home",
+   "part": "Part 2",
+   "topic": "home",
+   "cue": "Describe your home.",
+   "points": [
+    "where",
+    "what it is like",
+    "which room you like"
+   ],
+   "phrases": [
+    "I live in...",
+    "The room I like most is..."
+   ],
+   "model": "I live in a small flat near a market. The room I like most is the kitchen, because it gets the morning light."
+  },
+  {
+   "id": "sp-p2-app",
+   "part": "Part 2",
+   "topic": "technology",
+   "cue": "Describe a phone app you often use.",
+   "points": [
+    "what it is",
+    "how you use it",
+    "why it is useful"
+   ],
+   "phrases": [
+    "My go-to app is...",
+    "It's handy because..."
+   ],
+   "model": "My go-to app is a map. It's handy because I can check the metro even when I am in a new part of the city."
+  },
+  {
+   "id": "sp-p2-day",
+   "part": "Part 2",
+   "topic": "events",
+   "cue": "Describe a busy day you had.",
+   "points": [
+    "when",
+    "what you did",
+    "how you felt"
+   ],
+   "phrases": [
+    "I had a busy day when...",
+    "By the end,..."
+   ],
+   "model": "I had a busy day when I worked and then studied for a test. By the end, I was tired but pleased, because I finished both."
+  },
+  {
+   "id": "sp-p2-shop",
+   "part": "Part 2",
+   "topic": "places",
+   "cue": "Describe a shop you like.",
+   "points": [
+    "what it sells",
+    "how often you go",
+    "why you like it"
+   ],
+   "phrases": [
+    "There's a shop...",
+    "I like it because..."
+   ],
+   "model": "There's a small fruit shop near my building. I like it because the seller remembers what I usually buy."
+  },
+  {
+   "id": "sp-p2-sport",
+   "part": "Part 2",
+   "topic": "health",
+   "cue": "Describe a sport or exercise you do.",
+   "points": [
+    "what",
+    "how often",
+    "why you do it"
+   ],
+   "phrases": [
+    "The exercise I do is...",
+    "I do it because..."
+   ],
+   "model": "The exercise I do is walking. I do it because it does not need special shoes, and I can start from my front door."
+  },
+  {
+   "id": "sp-p2-film",
+   "part": "Part 2",
+   "topic": "media",
+   "cue": "Describe a film you liked.",
+   "points": [
+    "what it was about",
+    "who you watched it with",
+    "why you liked it"
+   ],
+   "phrases": [
+    "The film was about...",
+    "I liked it because..."
+   ],
+   "model": "The film was about a student moving to a new city. I liked it because the story was simple and the ending was hopeful."
+  },
+  {
+   "id": "sp-p2-teacher",
+   "part": "Part 2",
+   "topic": "education",
+   "cue": "Describe a teacher who influenced you.",
+   "points": [
+    "who",
+    "what they did",
+    "how they influenced you"
+   ],
+   "phrases": [
+    "One teacher who influenced me...",
+    "Because of that,..."
+   ],
+   "model": "One teacher who influenced me spoke slowly and waited. Because of that, I was less afraid to answer, even when my English was short."
+  },
+  {
+   "id": "sp-p3-young",
+   "part": "Part 3",
+   "topic": "society",
+   "cue": "Why do many young people leave their hometowns?",
+   "points": [
+    "jobs",
+    "lifestyle",
+    "result"
+   ],
+   "phrases": [
+    "The main reason is that...",
+    "On top of that,..."
+   ],
+   "model": "The main reason is that big cities offer more jobs. On top of that, young people want a more exciting life. As a result, some towns become older."
+  },
+  {
+   "id": "sp-p3-env",
+   "part": "Part 3",
+   "topic": "environment",
+   "cue": "Who should protect the environment, governments or individuals?",
+   "points": [
+    "both sides",
+    "your view"
+   ],
+   "phrases": [
+    "In my view,...",
+    "At the same time,..."
+   ],
+   "model": "In my view, governments play the main role, because they can make laws. At the same time, ordinary people should recycle and use public transport."
+  },
+  {
+   "id": "sp-p3-tech",
+   "part": "Part 3",
+   "topic": "technology",
+   "cue": "Do children spend too much time on technology?",
+   "points": [
+    "agree partly",
+    "example"
+   ],
+   "phrases": [
+    "I'd say that...",
+    "On the one hand,..."
+   ],
+   "model": "I'd say that many children do. On the one hand, technology can help them learn. On the other hand, they may stop playing outside."
+  },
+  {
+   "id": "sp-p3-online",
+   "part": "Part 3",
+   "topic": "education",
+   "cue": "Is online learning better than classroom learning?",
+   "points": [
+    "both",
+    "your balance"
+   ],
+   "phrases": [
+    "Both have pros and cons.",
+    "The biggest advantage is..."
+   ],
+   "model": "Both have pros and cons. The biggest advantage of online learning is flexibility. However, in a classroom you can ask questions at once."
+  },
+  {
+   "id": "sp-p3-health",
+   "part": "Part 3",
+   "topic": "health",
+   "cue": "Why do many people find it hard to stay healthy?",
+   "points": [
+    "time",
+    "food",
+    "a solution"
+   ],
+   "phrases": [
+    "The main reason is that...",
+    "One solution is..."
+   ],
+   "model": "The main reason is that modern life is busy, so fast food is easy. One solution is a short daily walk, which does not need a gym."
+  },
+  {
+   "id": "sp-p3-city",
+   "part": "Part 3",
+   "topic": "cities",
+   "cue": "What are the advantages of living in a city?",
+   "points": [
+    "jobs",
+    "services",
+    "drawback"
+   ],
+   "phrases": [
+    "First of all,...",
+    "However,..."
+   ],
+   "model": "First of all, cities have more jobs and hospitals. However, rents are high, so the advantages do not help everyone equally."
+  },
+  {
+   "id": "sp-p3-travel",
+   "part": "Part 3",
+   "topic": "travel",
+   "cue": "How can travel help young people?",
+   "points": [
+    "independence",
+    "language",
+    "limits"
+   ],
+   "phrases": [
+    "First of all,...",
+    "Another benefit is..."
+   ],
+   "model": "First of all, they have to plan things themselves, so they become more independent. Another benefit is that they may use a foreign language."
+  },
+  {
+   "id": "sp-p3-work",
+   "part": "Part 3",
+   "topic": "work",
+   "cue": "Is it better to work from home or in an office?",
+   "points": [
+    "both",
+    "your view"
+   ],
+   "phrases": [
+    "It depends on...",
+    "For example,..."
+   ],
+   "model": "It depends on the job. For example, quiet writing is easier at home, but a new worker learns faster beside a colleague."
+  },
+  {
+   "id": "sp-p3-ads",
+   "part": "Part 3",
+   "topic": "media",
+   "cue": "Do advertisements have too much influence?",
+   "points": [
+    "yes partly",
+    "why"
+   ],
+   "phrases": [
+    "To a certain extent,...",
+    "The problem is that..."
+   ],
+   "model": "To a certain extent, yes. The problem is that some adverts make ordinary products seem necessary, especially to young people."
+  },
+  {
+   "id": "sp-p3-museum",
+   "part": "Part 3",
+   "topic": "culture",
+   "cue": "Should museums be free?",
+   "points": [
+    "yes or no",
+    "reason"
+   ],
+   "phrases": [
+    "I think they should...",
+    "The reason is that..."
+   ],
+   "model": "I think they should be free on some days. The reason is that a free morning lets students visit, while the shop can still raise money."
+  },
+  {
+   "id": "sp-p3-exam",
+   "part": "Part 3",
+   "topic": "education",
+   "cue": "Are exams a good way to measure learning?",
+   "points": [
+    "limits",
+    "a better mix"
+   ],
+   "phrases": [
+    "Exams can...",
+    "However,..."
+   ],
+   "model": "Exams can check knowledge quickly. However, they do not show speaking or teamwork, so a mix of coursework and exams is fairer."
+  },
+  {
+   "id": "sp-p3-age",
+   "part": "Part 3",
+   "topic": "society",
+   "cue": "How can cities help older people?",
+   "points": [
+    "housing",
+    "health",
+    "community"
+   ],
+   "phrases": [
+    "One way is...",
+    "Another way is..."
+   ],
+   "model": "One way is to build small flats near clinics. Another way is to support lunch clubs, so people are less isolated."
+  },
+  {
+   "id": "sp-p3-public",
+   "part": "Part 3",
+   "topic": "transport",
+   "cue": "Should cities invest more in public transport?",
+   "points": [
+    "your view",
+    "example"
+   ],
+   "phrases": [
+    "I strongly believe...",
+    "For instance,..."
+   ],
+   "model": "I strongly believe they should. For instance, a train every ten minutes can cut traffic, and it is cheaper than building more roads."
+  },
+  {
+   "id": "sp-p3-food",
+   "part": "Part 3",
+   "topic": "health",
+   "cue": "Should schools control what students eat?",
+   "points": [
+    "balance",
+    "parents"
+   ],
+   "phrases": [
+    "Schools can...",
+    "At the same time,..."
+   ],
+   "model": "Schools can offer fruit and fewer sweet drinks. At the same time, parents still decide breakfast, so the school should not control everything."
+  },
+  {
+   "id": "sp-p3-phone",
+   "part": "Part 3",
+   "topic": "technology",
+   "cue": "Should phones be banned in meetings?",
+   "points": [
+    "a rule",
+    "exceptions"
+   ],
+   "phrases": [
+    "A sensible rule is...",
+    "However,..."
+   ],
+   "model": "A sensible rule is to put phones away in ordinary meetings. However, if a client needs to see a photo, a short exception is reasonable."
+  },
+  {
+   "id": "sp-p3-house",
+   "part": "Part 3",
+   "topic": "society",
+   "cue": "Why is housing expensive near universities?",
+   "points": [
+    "demand",
+    "what could help"
+   ],
+   "phrases": [
+    "The main reason is that...",
+    "The government could..."
+   ],
+   "model": "The main reason is that too many students want a short commute. The government could add low-cost beds and give first-year students priority."
+  }
+ ]
+}
