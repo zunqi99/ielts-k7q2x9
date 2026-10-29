@@ -1,0 +1,8697 @@
+{
+ "units": [
+  {
+   "id": "academic",
+   "title": "Unit 1 學術基礎字彙",
+   "topic": "學術基礎",
+   "grammar": [
+    "假設語氣（第二條件句）",
+    "倒裝句",
+    "主詞動詞一致"
+   ],
+   "lessons": 5
+  },
+  {
+   "id": "environment",
+   "title": "Unit 2 環境與社會",
+   "topic": "環境",
+   "grammar": [
+    "被動語態",
+    "關係子句"
+   ],
+   "lessons": 5
+  },
+  {
+   "id": "education",
+   "title": "Unit 3 教育",
+   "topic": "教育",
+   "grammar": [
+    "完成式",
+    "比較級與最高級"
+   ],
+   "lessons": 5
+  },
+  {
+   "id": "technology",
+   "title": "Unit 4 科技",
+   "topic": "科技",
+   "grammar": [
+    "分詞構句",
+    "名詞子句"
+   ],
+   "lessons": 5
+  },
+  {
+   "id": "health",
+   "title": "Unit 5 健康",
+   "topic": "健康",
+   "grammar": [
+    "情態動詞推測",
+    "不定詞與動名詞"
+   ],
+   "lessons": 5
+  },
+  {
+   "id": "economy",
+   "title": "Unit 6 經濟與圖表",
+   "topic": "經濟",
+   "grammar": [
+    "圖表描述用語",
+    "連接詞與轉折語"
+   ],
+   "lessons": 5
+  },
+  {
+   "id": "society",
+   "title": "Unit 7 城市與社會",
+   "topic": "社會",
+   "grammar": [
+    "冠詞",
+    "量詞"
+   ],
+   "lessons": 5
+  },
+  {
+   "id": "culture",
+   "title": "Unit 8 文化與媒體",
+   "topic": "文化",
+   "grammar": [
+    "讓步子句",
+    "used to"
+   ],
+   "lessons": 5
+  },
+  {
+   "id": "government",
+   "title": "Unit 9 政府與法律",
+   "topic": "政府",
+   "grammar": [
+    "被動語態",
+    "形式主詞"
+   ],
+   "lessons": 5
+  },
+  {
+   "id": "science",
+   "title": "Unit 10 科學與研究",
+   "topic": "科學",
+   "grammar": [
+    "完成式",
+    "情態動詞"
+   ],
+   "lessons": 5
+  },
+  {
+   "id": "travel",
+   "title": "Unit 11 旅行與全球化",
+   "topic": "旅行",
+   "grammar": [
+    "未來式",
+    "比較"
+   ],
+   "lessons": 5
+  },
+  {
+   "id": "speaking",
+   "title": "Unit 12 口說高分用字",
+   "topic": "口說",
+   "grammar": [
+    "連接詞",
+    "意見句型"
+   ],
+   "lessons": 5
+  }
+ ],
+ "words": [
+  {
+   "id": "substantial",
+   "word": "substantial",
+   "ipa": "/səbˈstænʃl/",
+   "pos": "adj.",
+   "zh": "大量的；相當可觀的",
+   "example": "A substantial number of students now study online.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "allocate",
+   "word": "allocate",
+   "ipa": "/ˈæləkeɪt/",
+   "pos": "v.",
+   "zh": "分配；撥出",
+   "example": "The council will allocate more funds to local schools.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "ambiguous",
+   "word": "ambiguous",
+   "ipa": "/æmˈbɪɡjuəs/",
+   "pos": "adj.",
+   "zh": "模稜兩可的；含糊不清的",
+   "example": "The question was ambiguous, so the answers varied widely.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "mitigate",
+   "word": "mitigate",
+   "ipa": "/ˈmɪtɪɡeɪt/",
+   "pos": "v.",
+   "zh": "減輕；緩和",
+   "example": "New laws aim to mitigate the impact of climate change.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "prevalent",
+   "word": "prevalent",
+   "ipa": "/ˈprevələnt/",
+   "pos": "adj.",
+   "zh": "普遍的；盛行的",
+   "example": "Obesity is becoming more prevalent among young people.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "analyse",
+   "word": "analyse",
+   "ipa": "/ˈænəlaɪz/",
+   "pos": "v.",
+   "zh": "分析",
+   "example": "Scientists analyse the data before they draw a conclusion.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "significant",
+   "word": "significant",
+   "ipa": "/sɪɡˈnɪfɪkənt/",
+   "pos": "adj.",
+   "zh": "重大的；顯著的",
+   "example": "There was a significant increase in online sales.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "factor",
+   "word": "factor",
+   "ipa": "/ˈfæktə/",
+   "pos": "n.",
+   "zh": "因素",
+   "example": "Cost is an important factor when people choose a course.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "approach",
+   "word": "approach",
+   "ipa": "/əˈprəʊtʃ/",
+   "pos": "n.",
+   "zh": "方法；途徑",
+   "example": "This approach to revision is simple and effective.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "concept",
+   "word": "concept",
+   "ipa": "/ˈkɒnsept/",
+   "pos": "n.",
+   "zh": "概念",
+   "example": "The concept of fairness is central to the essay.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "theory",
+   "word": "theory",
+   "ipa": "/ˈθɪəri/",
+   "pos": "n.",
+   "zh": "理論",
+   "example": "The theory is supported by several recent studies.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "evidence",
+   "word": "evidence",
+   "ipa": "/ˈevɪdəns/",
+   "pos": "n.",
+   "zh": "證據",
+   "example": "There is clear evidence that sleep improves memory.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "research",
+   "word": "research",
+   "ipa": "/rɪˈsɜːtʃ/",
+   "pos": "n.",
+   "zh": "研究",
+   "example": "Recent research shows a link between diet and mood.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "data",
+   "word": "data",
+   "ipa": "/ˈdeɪtə/",
+   "pos": "n.",
+   "zh": "數據",
+   "example": "The data suggest that the new policy is working.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "source",
+   "word": "source",
+   "ipa": "/sɔːs/",
+   "pos": "n.",
+   "zh": "來源",
+   "example": "A reliable source makes an argument much stronger.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "context",
+   "word": "context",
+   "ipa": "/ˈkɒntekst/",
+   "pos": "n.",
+   "zh": "上下文；情境",
+   "example": "You should always understand a new word in context.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "issue",
+   "word": "issue",
+   "ipa": "/ˈɪʃuː/",
+   "pos": "n.",
+   "zh": "議題",
+   "example": "Housing is a major issue in many big cities.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "argument",
+   "word": "argument",
+   "ipa": "/ˈɑːɡjumənt/",
+   "pos": "n.",
+   "zh": "論點",
+   "example": "The writer presents a clear argument for recycling.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "claim",
+   "word": "claim",
+   "ipa": "/kleɪm/",
+   "pos": "v.",
+   "zh": "聲稱",
+   "example": "Some people claim that the drink gives you more energy.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "assume",
+   "word": "assume",
+   "ipa": "/əˈsjuːm/",
+   "pos": "v.",
+   "zh": "假定",
+   "example": "Do not assume that every reader shares your opinion.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "conclude",
+   "word": "conclude",
+   "ipa": "/kənˈkluːd/",
+   "pos": "v.",
+   "zh": "下結論",
+   "example": "Experts conclude that the scheme was a success.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "define",
+   "word": "define",
+   "ipa": "/dɪˈfaɪn/",
+   "pos": "v.",
+   "zh": "定義",
+   "example": "It is hard to define success in a single sentence.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "establish",
+   "word": "establish",
+   "ipa": "/ɪˈstæblɪʃ/",
+   "pos": "v.",
+   "zh": "建立；證實",
+   "example": "The study tries to establish a link between the two factors.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "indicate",
+   "word": "indicate",
+   "ipa": "/ˈɪndɪkeɪt/",
+   "pos": "v.",
+   "zh": "顯示",
+   "example": "These figures indicate a steady rise in prices.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "imply",
+   "word": "imply",
+   "ipa": "/ɪmˈplaɪ/",
+   "pos": "v.",
+   "zh": "暗示",
+   "example": "His silence seemed to imply that he disagreed.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "infer",
+   "word": "infer",
+   "ipa": "/ɪnˈfɜː/",
+   "pos": "v.",
+   "zh": "推論",
+   "example": "We can infer from the chart that sales fell in May.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "interpret",
+   "word": "interpret",
+   "ipa": "/ɪnˈtɜːprɪt/",
+   "pos": "v.",
+   "zh": "解讀",
+   "example": "Students must interpret the graph before they write a comment.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "evaluate",
+   "word": "evaluate",
+   "ipa": "/ɪˈvæljueɪt/",
+   "pos": "v.",
+   "zh": "評估",
+   "example": "Teachers evaluate essays with a clear marking guide.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "assess",
+   "word": "assess",
+   "ipa": "/əˈses/",
+   "pos": "v.",
+   "zh": "評量",
+   "example": "This short test is used to assess speaking ability.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "criteria",
+   "word": "criteria",
+   "ipa": "/kraɪˈtɪəriə/",
+   "pos": "n.",
+   "zh": "評分標準",
+   "example": "The criteria for the scholarship are published online.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "relevant",
+   "word": "relevant",
+   "ipa": "/ˈreləvənt/",
+   "pos": "adj.",
+   "zh": "相關的",
+   "example": "Please give a relevant example from your daily life.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "specific",
+   "word": "specific",
+   "ipa": "/spəˈsɪfɪk/",
+   "pos": "adj.",
+   "zh": "具體的",
+   "example": "Give a specific reason, not only a general idea.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "abstract",
+   "word": "abstract",
+   "ipa": "/ˈæbstrækt/",
+   "pos": "adj.",
+   "zh": "抽象的",
+   "example": "The idea is too abstract for a two-minute speech.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "complex",
+   "word": "complex",
+   "ipa": "/ˈkɒmpleks/",
+   "pos": "adj.",
+   "zh": "複雜的",
+   "example": "The causes of traffic jams in this city are complex.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "obvious",
+   "word": "obvious",
+   "ipa": "/ˈɒbviəs/",
+   "pos": "adj.",
+   "zh": "明顯的",
+   "example": "There is an obvious gap between the two age groups.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "consistent",
+   "word": "consistent",
+   "ipa": "/kənˈsɪstənt/",
+   "pos": "adj.",
+   "zh": "一致的",
+   "example": "Her marks were consistent across the three tests.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "accurate",
+   "word": "accurate",
+   "ipa": "/ˈækjərət/",
+   "pos": "adj.",
+   "zh": "準確的",
+   "example": "Please check that every figure in the table is accurate.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "valid",
+   "word": "valid",
+   "ipa": "/ˈvælɪd/",
+   "pos": "adj.",
+   "zh": "成立的；有效的",
+   "example": "That is a valid point, but it is not the full story.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "bias",
+   "word": "bias",
+   "ipa": "/ˈbaɪəs/",
+   "pos": "n.",
+   "zh": "偏差；偏見",
+   "example": "A very small sample can create bias in the results.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "objective",
+   "word": "objective",
+   "ipa": "/əbˈdʒektɪv/",
+   "pos": "adj.",
+   "zh": "客觀的",
+   "example": "A good report should stay as objective as possible.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "subjective",
+   "word": "subjective",
+   "ipa": "/səbˈdʒektɪv/",
+   "pos": "adj.",
+   "zh": "主觀的",
+   "example": "Taste in music is highly subjective.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "aspect",
+   "word": "aspect",
+   "ipa": "/ˈæspekt/",
+   "pos": "n.",
+   "zh": "方面",
+   "example": "We should look at every aspect of the problem.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "feature",
+   "word": "feature",
+   "ipa": "/ˈfiːtʃə/",
+   "pos": "n.",
+   "zh": "特徵",
+   "example": "A key feature of the town is its busy night market.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "trend",
+   "word": "trend",
+   "ipa": "/trend/",
+   "pos": "n.",
+   "zh": "趨勢",
+   "example": "There is a clear trend towards working from home.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "pattern",
+   "word": "pattern",
+   "ipa": "/ˈpætn/",
+   "pos": "n.",
+   "zh": "模式",
+   "example": "The data show a similar pattern every summer.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "proportion",
+   "word": "proportion",
+   "ipa": "/prəˈpɔːʃn/",
+   "pos": "n.",
+   "zh": "比例",
+   "example": "A large proportion of the budget goes to schools.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "majority",
+   "word": "majority",
+   "ipa": "/məˈdʒɒrəti/",
+   "pos": "n.",
+   "zh": "多數",
+   "example": "The majority of students travel to school by bus.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "minority",
+   "word": "minority",
+   "ipa": "/maɪˈnɒrəti/",
+   "pos": "n.",
+   "zh": "少數",
+   "example": "Only a minority of residents opposed the new park.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "vary",
+   "word": "vary",
+   "ipa": "/ˈveəri/",
+   "pos": "v.",
+   "zh": "有所不同",
+   "example": "Ticket prices vary from one city to another.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "occur",
+   "word": "occur",
+   "ipa": "/əˈkɜː/",
+   "pos": "v.",
+   "zh": "發生",
+   "example": "Most road accidents occur on the way home from work.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "process",
+   "word": "process",
+   "ipa": "/ˈprəʊses/",
+   "pos": "n.",
+   "zh": "過程",
+   "example": "Learning a language well is a long process.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "structure",
+   "word": "structure",
+   "ipa": "/ˈstrʌktʃə/",
+   "pos": "n.",
+   "zh": "結構",
+   "example": "The structure of the essay is easy to follow.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "section",
+   "word": "section",
+   "ipa": "/ˈsekʃn/",
+   "pos": "n.",
+   "zh": "部分",
+   "example": "The first section explains how the study was done.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "paragraph",
+   "word": "paragraph",
+   "ipa": "/ˈpærəɡrɑːf/",
+   "pos": "n.",
+   "zh": "段落",
+   "example": "Each paragraph should contain only one main idea.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "summary",
+   "word": "summary",
+   "ipa": "/ˈsʌməri/",
+   "pos": "n.",
+   "zh": "摘要",
+   "example": "Write a short summary of the article in your own words.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "quotation",
+   "word": "quotation",
+   "ipa": "/kwəʊˈteɪʃn/",
+   "pos": "n.",
+   "zh": "引文",
+   "example": "The essay opens with a quotation from a famous scientist.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "method",
+   "word": "method",
+   "ipa": "/ˈmeθəd/",
+   "pos": "n.",
+   "zh": "方法",
+   "example": "We used a simple method to collect the answers.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "topic",
+   "word": "topic",
+   "ipa": "/ˈtɒpɪk/",
+   "pos": "n.",
+   "zh": "主題",
+   "example": "The topic of today's class is public transport.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "range",
+   "word": "range",
+   "ipa": "/reɪndʒ/",
+   "pos": "n.",
+   "zh": "範圍",
+   "example": "The library offers a wide range of science magazines.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "individual",
+   "word": "individual",
+   "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+   "pos": "n.",
+   "zh": "個人",
+   "example": "Each individual in the group gave a short talk.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "previous",
+   "word": "previous",
+   "ipa": "/ˈpriːviəs/",
+   "pos": "adj.",
+   "zh": "先前的",
+   "example": "The previous study used a much smaller sample.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "subsequent",
+   "word": "subsequent",
+   "ipa": "/ˈsʌbsɪkwənt/",
+   "pos": "adj.",
+   "zh": "隨後的",
+   "example": "Subsequent tests confirmed the first result.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "initial",
+   "word": "initial",
+   "ipa": "/ɪˈnɪʃl/",
+   "pos": "adj.",
+   "zh": "最初的",
+   "example": "My initial reaction to the news was surprise.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "overall",
+   "word": "overall",
+   "ipa": "/ˌəʊvərˈɔːl/",
+   "pos": "adj.",
+   "zh": "整體的",
+   "example": "The overall result was better than we had expected.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "primary",
+   "word": "primary",
+   "ipa": "/ˈpraɪməri/",
+   "pos": "adj.",
+   "zh": "主要的",
+   "example": "The primary aim of the course is to build confidence.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "principal",
+   "word": "principal",
+   "ipa": "/ˈprɪnsəpl/",
+   "pos": "adj.",
+   "zh": "最主要的",
+   "example": "The principal reason for the delay was bad weather.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "fundamental",
+   "word": "fundamental",
+   "ipa": "/ˌfʌndəˈmentl/",
+   "pos": "adj.",
+   "zh": "根本的",
+   "example": "Trust is fundamental to a strong friendship.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "essential",
+   "word": "essential",
+   "ipa": "/ɪˈsenʃl/",
+   "pos": "adj.",
+   "zh": "不可或缺的",
+   "example": "Clean water is essential for every living thing.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "crucial",
+   "word": "crucial",
+   "ipa": "/ˈkruːʃl/",
+   "pos": "adj.",
+   "zh": "關鍵的",
+   "example": "A good night's sleep is crucial before an exam.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "appropriate",
+   "word": "appropriate",
+   "ipa": "/əˈprəʊpriət/",
+   "pos": "adj.",
+   "zh": "適當的",
+   "example": "Please wear appropriate clothes for the interview.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "principle",
+   "word": "principle",
+   "ipa": "/ˈprɪnsəpl/",
+   "pos": "n.",
+   "zh": "原則",
+   "example": "The basic principle is easy, but the details are hard.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "framework",
+   "word": "framework",
+   "ipa": "/ˈfreɪmwɜːk/",
+   "pos": "n.",
+   "zh": "框架",
+   "example": "The essay needs a clear framework before you add examples.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "notion",
+   "word": "notion",
+   "ipa": "/ˈnəʊʃn/",
+   "pos": "n.",
+   "zh": "概念；想法",
+   "example": "The notion that money buys happiness is too simple.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "obtain",
+   "word": "obtain",
+   "ipa": "/əbˈteɪn/",
+   "pos": "v.",
+   "zh": "獲得",
+   "example": "You can obtain a copy of the form at the office.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "seek",
+   "word": "seek",
+   "ipa": "/siːk/",
+   "pos": "v.",
+   "zh": "尋求",
+   "example": "Many graduates seek work in larger cities.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "reveal",
+   "word": "reveal",
+   "ipa": "/rɪˈviːl/",
+   "pos": "v.",
+   "zh": "顯示；揭露",
+   "example": "The survey may reveal a change in public opinion.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "retain",
+   "word": "retain",
+   "ipa": "/rɪˈteɪn/",
+   "pos": "v.",
+   "zh": "保留；記住",
+   "example": "It is easier to retain a word if you use it in a sentence.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "shift",
+   "word": "shift",
+   "ipa": "/ʃɪft/",
+   "pos": "n.",
+   "zh": "轉變",
+   "example": "There has been a shift away from cash towards cards.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "sector",
+   "word": "sector",
+   "ipa": "/ˈsektə/",
+   "pos": "n.",
+   "zh": "部門；產業",
+   "example": "The health sector needs more trained nurses.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "scheme",
+   "word": "scheme",
+   "ipa": "/skiːm/",
+   "pos": "n.",
+   "zh": "計畫",
+   "example": "The recycling scheme has been popular with residents.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "scope",
+   "word": "scope",
+   "ipa": "/skəʊp/",
+   "pos": "n.",
+   "zh": "範圍",
+   "example": "The scope of the project is wider than we first thought.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "task",
+   "word": "task",
+   "ipa": "/tɑːsk/",
+   "pos": "n.",
+   "zh": "任務",
+   "example": "The first task is to read the chart carefully.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "target",
+   "word": "target",
+   "ipa": "/ˈtɑːɡɪt/",
+   "pos": "n.",
+   "zh": "目標",
+   "example": "My target is an IELTS band of six point five.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "temporary",
+   "word": "temporary",
+   "ipa": "/ˈtemprəri/",
+   "pos": "adj.",
+   "zh": "暫時的",
+   "example": "This is only a temporary solution to the problem.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "unique",
+   "word": "unique",
+   "ipa": "/juˈniːk/",
+   "pos": "adj.",
+   "zh": "獨特的",
+   "example": "Every city has a unique character.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "widespread",
+   "word": "widespread",
+   "ipa": "/ˈwaɪdspred/",
+   "pos": "adj.",
+   "zh": "普及的；廣泛的",
+   "example": "There is widespread support for the new library.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "aware",
+   "word": "aware",
+   "ipa": "/əˈweə/",
+   "pos": "adj.",
+   "zh": "意識到的",
+   "example": "Many people are not aware of how much sugar they eat.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "capable",
+   "word": "capable",
+   "ipa": "/ˈkeɪpəbl/",
+   "pos": "adj.",
+   "zh": "有能力的",
+   "example": "She is capable of giving a clear, calm speech.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "capacity",
+   "word": "capacity",
+   "ipa": "/kəˈpæsəti/",
+   "pos": "n.",
+   "zh": "能力；容量",
+   "example": "The hall has a capacity of three hundred people.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "circumstance",
+   "word": "circumstance",
+   "ipa": "/ˈsɜːkəmstəns/",
+   "pos": "n.",
+   "zh": "情況",
+   "example": "In this circumstance, a short answer is better.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "colleague",
+   "word": "colleague",
+   "ipa": "/ˈkɒliːɡ/",
+   "pos": "n.",
+   "zh": "同事",
+   "example": "I discussed the idea with a colleague at work.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "component",
+   "word": "component",
+   "ipa": "/kəmˈpəʊnənt/",
+   "pos": "n.",
+   "zh": "組成部分",
+   "example": "Listening is a key component of the speaking test.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "comprehensive",
+   "word": "comprehensive",
+   "ipa": "/ˌkɒmprɪˈhensɪv/",
+   "pos": "adj.",
+   "zh": "全面的",
+   "example": "The report gives a comprehensive view of the problem.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "conflict",
+   "word": "conflict",
+   "ipa": "/ˈkɒnflɪkt/",
+   "pos": "n.",
+   "zh": "衝突；矛盾",
+   "example": "There is a conflict between the two sets of figures.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "considerable",
+   "word": "considerable",
+   "ipa": "/kənˈsɪdərəbl/",
+   "pos": "adj.",
+   "zh": "相當大的",
+   "example": "The storm caused considerable damage to the roads.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "constant",
+   "word": "constant",
+   "ipa": "/ˈkɒnstənt/",
+   "pos": "adj.",
+   "zh": "持續不斷的",
+   "example": "The constant noise made it hard to concentrate.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "controversy",
+   "word": "controversy",
+   "ipa": "/ˈkɒntrəvɜːsi/",
+   "pos": "n.",
+   "zh": "爭議",
+   "example": "The new law caused a lot of controversy.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "core",
+   "word": "core",
+   "ipa": "/kɔː/",
+   "pos": "n.",
+   "zh": "核心",
+   "example": "Vocabulary is at the core of language learning.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "create",
+   "word": "create",
+   "ipa": "/kriˈeɪt/",
+   "pos": "v.",
+   "zh": "創造；造成",
+   "example": "Heavy traffic can create stress for drivers.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "decade",
+   "word": "decade",
+   "ipa": "/ˈdekeɪd/",
+   "pos": "n.",
+   "zh": "十年",
+   "example": "A lot has changed in the past decade.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "derive",
+   "word": "derive",
+   "ipa": "/dɪˈraɪv/",
+   "pos": "v.",
+   "zh": "得到；衍生",
+   "example": "We can derive a useful lesson from this mistake.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "distinct",
+   "word": "distinct",
+   "ipa": "/dɪˈstɪŋkt/",
+   "pos": "adj.",
+   "zh": "明顯不同的",
+   "example": "The two neighbourhoods have distinct characters.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "distribute",
+   "word": "distribute",
+   "ipa": "/dɪˈstrɪbjuːt/",
+   "pos": "v.",
+   "zh": "分配；發送",
+   "example": "Volunteers distribute food to families every Friday.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "element",
+   "word": "element",
+   "ipa": "/ˈelɪmənt/",
+   "pos": "n.",
+   "zh": "要素",
+   "example": "Surprise is an important element of a good story.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "emerge",
+   "word": "emerge",
+   "ipa": "/ɪˈmɜːdʒ/",
+   "pos": "v.",
+   "zh": "出現",
+   "example": "A new problem may emerge after the first one is solved.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "emphasis",
+   "word": "emphasis",
+   "ipa": "/ˈemfəsɪs/",
+   "pos": "n.",
+   "zh": "強調",
+   "example": "The course puts emphasis on speaking, not only grammar.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "enable",
+   "word": "enable",
+   "ipa": "/ɪˈneɪbl/",
+   "pos": "v.",
+   "zh": "使能夠",
+   "example": "Subtitles enable learners to follow a fast conversation.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "enormous",
+   "word": "enormous",
+   "ipa": "/ɪˈnɔːməs/",
+   "pos": "adj.",
+   "zh": "巨大的",
+   "example": "The project required an enormous amount of time.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "ensure",
+   "word": "ensure",
+   "ipa": "/ɪnˈʃɔː/",
+   "pos": "v.",
+   "zh": "確保",
+   "example": "Please ensure that your name is on the answer sheet.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "equivalent",
+   "word": "equivalent",
+   "ipa": "/ɪˈkwɪvələnt/",
+   "pos": "adj.",
+   "zh": "相當的；等值的",
+   "example": "One US dollar is roughly equivalent to thirty Taiwan dollars.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "error",
+   "word": "error",
+   "ipa": "/ˈerə/",
+   "pos": "n.",
+   "zh": "錯誤",
+   "example": "A small error in the data can change the result.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "evident",
+   "word": "evident",
+   "ipa": "/ˈevɪdənt/",
+   "pos": "adj.",
+   "zh": "明顯的",
+   "example": "It is evident that the city needs more parks.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "expand",
+   "word": "expand",
+   "ipa": "/ɪkˈspænd/",
+   "pos": "v.",
+   "zh": "擴張；擴充",
+   "example": "The company plans to expand into other countries.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "explicit",
+   "word": "explicit",
+   "ipa": "/ɪkˈsplɪsɪt/",
+   "pos": "adj.",
+   "zh": "明確的",
+   "example": "The instructions were explicit, so nobody was confused.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "expose",
+   "word": "expose",
+   "ipa": "/ɪkˈspəʊz/",
+   "pos": "v.",
+   "zh": "使接觸；使暴露",
+   "example": "Travel can expose you to new ideas.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "external",
+   "word": "external",
+   "ipa": "/ɪkˈstɜːnl/",
+   "pos": "adj.",
+   "zh": "外部的",
+   "example": "External noise should not affect the recording.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "facilitate",
+   "word": "facilitate",
+   "ipa": "/fəˈsɪlɪteɪt/",
+   "pos": "v.",
+   "zh": "促進；使便利",
+   "example": "Group work can facilitate discussion.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "focus",
+   "word": "focus",
+   "ipa": "/ˈfəʊkəs/",
+   "pos": "v.",
+   "zh": "聚焦；專注",
+   "example": "The essay should focus on one clear question.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "foundation",
+   "word": "foundation",
+   "ipa": "/faʊnˈdeɪʃn/",
+   "pos": "n.",
+   "zh": "基礎",
+   "example": "Reading every day builds a strong foundation.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "fund",
+   "word": "fund",
+   "ipa": "/fʌnd/",
+   "pos": "n.",
+   "zh": "資金",
+   "example": "The school needs a fund for new computers.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "generate",
+   "word": "generate",
+   "ipa": "/ˈdʒenəreɪt/",
+   "pos": "v.",
+   "zh": "產生",
+   "example": "The discussion will generate several useful ideas.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "guarantee",
+   "word": "guarantee",
+   "ipa": "/ˌɡærənˈtiː/",
+   "pos": "v.",
+   "zh": "保證",
+   "example": "Practice cannot guarantee a high score, but it helps.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "guideline",
+   "word": "guideline",
+   "ipa": "/ˈɡaɪdlaɪn/",
+   "pos": "n.",
+   "zh": "指引",
+   "example": "Follow the guideline at the top of the page.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "hence",
+   "word": "hence",
+   "ipa": "/hens/",
+   "pos": "adv.",
+   "zh": "因此",
+   "example": "The roads were icy; hence the school was closed.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "hierarchy",
+   "word": "hierarchy",
+   "ipa": "/ˈhaɪərɑːki/",
+   "pos": "n.",
+   "zh": "階層；等級制度",
+   "example": "There is a clear hierarchy in the organisation.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "highlight",
+   "word": "highlight",
+   "ipa": "/ˈhaɪlaɪt/",
+   "pos": "v.",
+   "zh": "強調；標出",
+   "example": "The speaker used a story to highlight the main point.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "identical",
+   "word": "identical",
+   "ipa": "/aɪˈdentɪkl/",
+   "pos": "adj.",
+   "zh": "完全相同的",
+   "example": "The twins gave almost identical answers.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "illustrate",
+   "word": "illustrate",
+   "ipa": "/ˈɪləstreɪt/",
+   "pos": "v.",
+   "zh": "說明；舉例說明",
+   "example": "A simple diagram can illustrate the process.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "implicit",
+   "word": "implicit",
+   "ipa": "/ɪmˈplɪsɪt/",
+   "pos": "adj.",
+   "zh": "含蓄的；隱含的",
+   "example": "There was an implicit criticism in her comment.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "impose",
+   "word": "impose",
+   "ipa": "/ɪmˈpəʊz/",
+   "pos": "v.",
+   "zh": "強加",
+   "example": "The city may impose a fee on plastic bags.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "incentive",
+   "word": "incentive",
+   "ipa": "/ɪnˈsentɪv/",
+   "pos": "n.",
+   "zh": "誘因",
+   "example": "A small reward can be an incentive to study.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "inevitable",
+   "word": "inevitable",
+   "ipa": "/ɪnˈevɪtəbl/",
+   "pos": "adj.",
+   "zh": "不可避免的",
+   "example": "Some mistakes are inevitable when you learn a language.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "inherent",
+   "word": "inherent",
+   "ipa": "/ɪnˈhɪərənt/",
+   "pos": "adj.",
+   "zh": "固有的；內在的",
+   "example": "There is an inherent risk in any new business.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "inhibit",
+   "word": "inhibit",
+   "ipa": "/ɪnˈhɪbɪt/",
+   "pos": "v.",
+   "zh": "抑制；妨礙",
+   "example": "Fear of mistakes can inhibit students from speaking.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "initiate",
+   "word": "initiate",
+   "ipa": "/ɪˈnɪʃieɪt/",
+   "pos": "v.",
+   "zh": "發起",
+   "example": "The teacher will initiate the discussion with a question.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "insert",
+   "word": "insert",
+   "ipa": "/ɪnˈsɜːt/",
+   "pos": "v.",
+   "zh": "插入",
+   "example": "Insert a clear example after your topic sentence.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "insight",
+   "word": "insight",
+   "ipa": "/ˈɪnsaɪt/",
+   "pos": "n.",
+   "zh": "洞見",
+   "example": "The interview gave me a new insight into the job.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "integral",
+   "word": "integral",
+   "ipa": "/ˈɪntɪɡrəl/",
+   "pos": "adj.",
+   "zh": "不可或缺的",
+   "example": "Teamwork is integral to this kind of project.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "integrity",
+   "word": "integrity",
+   "ipa": "/ɪnˈteɡrəti/",
+   "pos": "n.",
+   "zh": "誠信",
+   "example": "Academic integrity means you do not copy other people's work.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "intense",
+   "word": "intense",
+   "ipa": "/ɪnˈtens/",
+   "pos": "adj.",
+   "zh": "強烈的",
+   "example": "The heat in July can be intense.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "internal",
+   "word": "internal",
+   "ipa": "/ɪnˈtɜːnl/",
+   "pos": "adj.",
+   "zh": "內部的",
+   "example": "The company is doing an internal review.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "interval",
+   "word": "interval",
+   "ipa": "/ˈɪntəvl/",
+   "pos": "n.",
+   "zh": "間隔",
+   "example": "There was a short interval between the two talks.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "investigate",
+   "word": "investigate",
+   "ipa": "/ɪnˈvestɪɡeɪt/",
+   "pos": "v.",
+   "zh": "調查",
+   "example": "Police will investigate the cause of the fire.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "involve",
+   "word": "involve",
+   "ipa": "/ɪnˈvɒlv/",
+   "pos": "v.",
+   "zh": "涉及；需要",
+   "example": "The job will involve a lot of public speaking.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "isolate",
+   "word": "isolate",
+   "ipa": "/ˈaɪsəleɪt/",
+   "pos": "v.",
+   "zh": "使孤立",
+   "example": "Do not isolate one number from the rest of the chart.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "justify",
+   "word": "justify",
+   "ipa": "/ˈdʒʌstɪfaɪ/",
+   "pos": "v.",
+   "zh": "證明…為合理",
+   "example": "You should justify your opinion with a reason.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "label",
+   "word": "label",
+   "ipa": "/ˈleɪbl/",
+   "pos": "v.",
+   "zh": "把…稱為",
+   "example": "It is unfair to label every teenager as lazy.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "labour",
+   "word": "labour",
+   "ipa": "/ˈleɪbə/",
+   "pos": "n.",
+   "zh": "勞動；勞力",
+   "example": "The bridge took years of labour to complete.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "logic",
+   "word": "logic",
+   "ipa": "/ˈlɒdʒɪk/",
+   "pos": "n.",
+   "zh": "邏輯",
+   "example": "The logic of the argument is easy to follow.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "major",
+   "word": "major",
+   "ipa": "/ˈmeɪdʒə/",
+   "pos": "adj.",
+   "zh": "重大的；主要的",
+   "example": "Noise is a major problem near the airport.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "manipulate",
+   "word": "manipulate",
+   "ipa": "/məˈnɪpjuleɪt/",
+   "pos": "v.",
+   "zh": "操縱；操作",
+   "example": "It is possible to manipulate a photo with software.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "margin",
+   "word": "margin",
+   "ipa": "/ˈmɑːdʒɪn/",
+   "pos": "n.",
+   "zh": "差額；頁邊",
+   "example": "The team won by a very small margin.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "mature",
+   "word": "mature",
+   "ipa": "/məˈtjʊə/",
+   "pos": "adj.",
+   "zh": "成熟的",
+   "example": "A mature answer looks at both sides of the question.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "mechanism",
+   "word": "mechanism",
+   "ipa": "/ˈmekənɪzəm/",
+   "pos": "n.",
+   "zh": "機制",
+   "example": "We need a fair mechanism for choosing the winner.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "minimal",
+   "word": "minimal",
+   "ipa": "/ˈmɪnɪml/",
+   "pos": "adj.",
+   "zh": "最小的；極少的",
+   "example": "The change had only a minimal effect.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "minimise",
+   "word": "minimise",
+   "ipa": "/ˈmɪnɪmaɪz/",
+   "pos": "v.",
+   "zh": "使降到最低",
+   "example": "Wearing a helmet can minimise the risk of injury.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "modify",
+   "word": "modify",
+   "ipa": "/ˈmɒdɪfaɪ/",
+   "pos": "v.",
+   "zh": "修改",
+   "example": "You may modify the plan if the budget is too small.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "mutual",
+   "word": "mutual",
+   "ipa": "/ˈmjuːtʃuəl/",
+   "pos": "adj.",
+   "zh": "相互的",
+   "example": "Respect should be mutual.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "neutral",
+   "word": "neutral",
+   "ipa": "/ˈnjuːtrəl/",
+   "pos": "adj.",
+   "zh": "中立的",
+   "example": "Try to keep a neutral tone in an academic essay.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "nonetheless",
+   "word": "nonetheless",
+   "ipa": "/ˌnʌnðəˈles/",
+   "pos": "adv.",
+   "zh": "儘管如此",
+   "example": "The task was hard. It was useful nonetheless.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "occupy",
+   "word": "occupy",
+   "ipa": "/ˈɒkjupaɪ/",
+   "pos": "v.",
+   "zh": "佔用；佔領",
+   "example": "Homework should not occupy every evening.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "ongoing",
+   "word": "ongoing",
+   "ipa": "/ˈɒnɡəʊɪŋ/",
+   "pos": "adj.",
+   "zh": "持續進行的",
+   "example": "There is an ongoing debate about the exam format.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "option",
+   "word": "option",
+   "ipa": "/ˈɒpʃn/",
+   "pos": "n.",
+   "zh": "選項",
+   "example": "Working from home is now a real option for many people.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "outcome",
+   "word": "outcome",
+   "ipa": "/ˈaʊtkʌm/",
+   "pos": "n.",
+   "zh": "結果",
+   "example": "The outcome of the vote will be announced tonight.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "output",
+   "word": "output",
+   "ipa": "/ˈaʊtpʊt/",
+   "pos": "n.",
+   "zh": "產出",
+   "example": "The factory increased its output last year.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "overlap",
+   "word": "overlap",
+   "ipa": "/ˌəʊvəˈlæp/",
+   "pos": "v.",
+   "zh": "重疊",
+   "example": "Work and study overlap when you take an evening class.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "perceive",
+   "word": "perceive",
+   "ipa": "/pəˈsiːv/",
+   "pos": "v.",
+   "zh": "認為；察覺",
+   "example": "People perceive the same event in different ways.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "period",
+   "word": "period",
+   "ipa": "/ˈpɪəriəd/",
+   "pos": "n.",
+   "zh": "時期",
+   "example": "This was a difficult period for the family.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "persist",
+   "word": "persist",
+   "ipa": "/pəˈsɪst/",
+   "pos": "v.",
+   "zh": "持續；堅持",
+   "example": "If the pain does persist, you should see a doctor.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "phase",
+   "word": "phase",
+   "ipa": "/feɪz/",
+   "pos": "n.",
+   "zh": "階段",
+   "example": "The project is still in an early phase.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "portion",
+   "word": "portion",
+   "ipa": "/ˈpɔːʃn/",
+   "pos": "n.",
+   "zh": "一部分",
+   "example": "Only a small portion of the waste is recycled.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "pose",
+   "word": "pose",
+   "ipa": "/pəʊz/",
+   "pos": "v.",
+   "zh": "造成；提出",
+   "example": "Plastic waste can pose a threat to sea life.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "positive",
+   "word": "positive",
+   "ipa": "/ˈpɒzətɪv/",
+   "pos": "adj.",
+   "zh": "正面的",
+   "example": "She tried to stay positive even when the result was poor.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "precise",
+   "word": "precise",
+   "ipa": "/prɪˈsaɪs/",
+   "pos": "adj.",
+   "zh": "精確的",
+   "example": "Please give a precise figure, not a rough guess.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "preliminary",
+   "word": "preliminary",
+   "ipa": "/prɪˈlɪmɪnəri/",
+   "pos": "adj.",
+   "zh": "初步的",
+   "example": "These are only preliminary results.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "presume",
+   "word": "presume",
+   "ipa": "/prɪˈzjuːm/",
+   "pos": "v.",
+   "zh": "假定",
+   "example": "I presume you have already read the article.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "prior",
+   "word": "prior",
+   "ipa": "/ˈpraɪə/",
+   "pos": "adj.",
+   "zh": "在先的；事先的",
+   "example": "You do not need prior experience for this role.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "priority",
+   "word": "priority",
+   "ipa": "/praɪˈɒrəti/",
+   "pos": "n.",
+   "zh": "優先事項",
+   "example": "Health should be a priority, not an afterthought.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "proceed",
+   "word": "proceed",
+   "ipa": "/prəˈsiːd/",
+   "pos": "v.",
+   "zh": "繼續進行",
+   "example": "We can proceed to the next question.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "professional",
+   "word": "professional",
+   "ipa": "/prəˈfeʃənl/",
+   "pos": "adj.",
+   "zh": "專業的",
+   "example": "A professional reply is polite and clear.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "prohibit",
+   "word": "prohibit",
+   "ipa": "/prəˈhɪbɪt/",
+   "pos": "v.",
+   "zh": "禁止",
+   "example": "The rules prohibit the use of phones in the exam.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "project",
+   "word": "project",
+   "ipa": "/ˈprɒdʒekt/",
+   "pos": "n.",
+   "zh": "專案；計畫",
+   "example": "Our project is about reducing food waste.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "prospect",
+   "word": "prospect",
+   "ipa": "/ˈprɒspekt/",
+   "pos": "n.",
+   "zh": "前景",
+   "example": "The prospect of studying abroad both excited and worried her.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "publication",
+   "word": "publication",
+   "ipa": "/ˌpʌblɪˈkeɪʃn/",
+   "pos": "n.",
+   "zh": "出版；刊物",
+   "example": "The research was accepted for publication.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "pursue",
+   "word": "pursue",
+   "ipa": "/pəˈsjuː/",
+   "pos": "v.",
+   "zh": "追求；從事",
+   "example": "She hopes to pursue a career in teaching.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "ratio",
+   "word": "ratio",
+   "ipa": "/ˈreɪʃiəʊ/",
+   "pos": "n.",
+   "zh": "比率",
+   "example": "The ratio of teachers to students is one to fifteen.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "rational",
+   "word": "rational",
+   "ipa": "/ˈræʃnəl/",
+   "pos": "adj.",
+   "zh": "理性的",
+   "example": "Try to give a rational explanation, not only a feeling.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "refine",
+   "word": "refine",
+   "ipa": "/rɪˈfaɪn/",
+   "pos": "v.",
+   "zh": "改進；精煉",
+   "example": "You can refine your answer by adding one example.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "reinforce",
+   "word": "reinforce",
+   "ipa": "/ˌriːɪnˈfɔːs/",
+   "pos": "v.",
+   "zh": "強化",
+   "example": "A second example will reinforce your main point.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "reject",
+   "word": "reject",
+   "ipa": "/rɪˈdʒekt/",
+   "pos": "v.",
+   "zh": "拒絕",
+   "example": "The committee may reject a plan that is too expensive.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "release",
+   "word": "release",
+   "ipa": "/rɪˈliːs/",
+   "pos": "v.",
+   "zh": "發布；釋放",
+   "example": "The company will release the report next Monday.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "rely",
+   "word": "rely",
+   "ipa": "/rɪˈlaɪ/",
+   "pos": "v.",
+   "zh": "依賴",
+   "example": "You should not rely on only one source.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "remove",
+   "word": "remove",
+   "ipa": "/rɪˈmuːv/",
+   "pos": "v.",
+   "zh": "移除",
+   "example": "Please remove any information that is not relevant.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "resolve",
+   "word": "resolve",
+   "ipa": "/rɪˈzɒlv/",
+   "pos": "v.",
+   "zh": "解決",
+   "example": "We need to resolve this disagreement before the meeting.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "respond",
+   "word": "respond",
+   "ipa": "/rɪˈspɒnd/",
+   "pos": "v.",
+   "zh": "回應",
+   "example": "Please respond to the email by Friday.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "restore",
+   "word": "restore",
+   "ipa": "/rɪˈstɔː/",
+   "pos": "v.",
+   "zh": "修復；恢復",
+   "example": "The city hopes to restore the old theatre.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "restrict",
+   "word": "restrict",
+   "ipa": "/rɪˈstrɪkt/",
+   "pos": "v.",
+   "zh": "限制",
+   "example": "The library may restrict the number of books you can borrow.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "reverse",
+   "word": "reverse",
+   "ipa": "/rɪˈvɜːs/",
+   "pos": "v.",
+   "zh": "逆轉",
+   "example": "One good policy cannot reverse years of damage.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "rigid",
+   "word": "rigid",
+   "ipa": "/ˈrɪdʒɪd/",
+   "pos": "adj.",
+   "zh": "僵化的；嚴格的",
+   "example": "A rigid timetable does not suit every student.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "role",
+   "word": "role",
+   "ipa": "/rəʊl/",
+   "pos": "n.",
+   "zh": "角色",
+   "example": "Parents play an important role in a child's reading.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "scenario",
+   "word": "scenario",
+   "ipa": "/səˈnɑːriəʊ/",
+   "pos": "n.",
+   "zh": "情境；可能情況",
+   "example": "Imagine a scenario in which petrol becomes very expensive.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "schedule",
+   "word": "schedule",
+   "ipa": "/ˈʃedjuːl/",
+   "pos": "n.",
+   "zh": "時間表",
+   "example": "The schedule for the oral test is on the noticeboard.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "select",
+   "word": "select",
+   "ipa": "/sɪˈlekt/",
+   "pos": "v.",
+   "zh": "挑選",
+   "example": "Select the answer that best matches the question.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "sequence",
+   "word": "sequence",
+   "ipa": "/ˈsiːkwəns/",
+   "pos": "n.",
+   "zh": "順序",
+   "example": "Tell the story in a clear sequence.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "series",
+   "word": "series",
+   "ipa": "/ˈsɪəriːz/",
+   "pos": "n.",
+   "zh": "一系列",
+   "example": "The channel showed a series of programmes about the ocean.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "specify",
+   "word": "specify",
+   "ipa": "/ˈspesɪfaɪ/",
+   "pos": "v.",
+   "zh": "明確說明",
+   "example": "The question does not specify a word limit.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "status",
+   "word": "status",
+   "ipa": "/ˈsteɪtəs/",
+   "pos": "n.",
+   "zh": "地位；狀態",
+   "example": "The status of the application is still unknown.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "straightforward",
+   "word": "straightforward",
+   "ipa": "/ˌstreɪtˈfɔːwəd/",
+   "pos": "adj.",
+   "zh": "直截了當的",
+   "example": "The instructions are straightforward.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "submit",
+   "word": "submit",
+   "ipa": "/səbˈmɪt/",
+   "pos": "v.",
+   "zh": "繳交",
+   "example": "You must submit the essay before midnight.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "substitute",
+   "word": "substitute",
+   "ipa": "/ˈsʌbstɪtjuːt/",
+   "pos": "n.",
+   "zh": "替代品",
+   "example": "Brown rice can be a substitute for white rice.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "sufficient",
+   "word": "sufficient",
+   "ipa": "/səˈfɪʃnt/",
+   "pos": "adj.",
+   "zh": "足夠的",
+   "example": "One example is not sufficient to prove the point.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "supplement",
+   "word": "supplement",
+   "ipa": "/ˈsʌplɪmənt/",
+   "pos": "v.",
+   "zh": "補充",
+   "example": "You can supplement your notes with a podcast.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "survive",
+   "word": "survive",
+   "ipa": "/səˈvaɪv/",
+   "pos": "v.",
+   "zh": "存活；挺過",
+   "example": "Small shops may not survive if rents keep rising.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "suspend",
+   "word": "suspend",
+   "ipa": "/səˈspend/",
+   "pos": "v.",
+   "zh": "暫停",
+   "example": "The school had to suspend classes during the typhoon.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "technical",
+   "word": "technical",
+   "ipa": "/ˈteknɪkl/",
+   "pos": "adj.",
+   "zh": "技術上的",
+   "example": "The article avoids technical language.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "technique",
+   "word": "technique",
+   "ipa": "/tekˈniːk/",
+   "pos": "n.",
+   "zh": "技巧",
+   "example": "Shadowing is a useful technique for pronunciation.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "terminate",
+   "word": "terminate",
+   "ipa": "/ˈtɜːmɪneɪt/",
+   "pos": "v.",
+   "zh": "終止",
+   "example": "Either side may terminate the contract with one month's notice.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "thereby",
+   "word": "thereby",
+   "ipa": "/ˌðeəˈbaɪ/",
+   "pos": "adv.",
+   "zh": "藉此",
+   "example": "She took the earlier train, thereby arriving on time.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "trace",
+   "word": "trace",
+   "ipa": "/treɪs/",
+   "pos": "v.",
+   "zh": "追溯；追蹤",
+   "example": "Historians can trace the custom back several centuries.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "transfer",
+   "word": "transfer",
+   "ipa": "/trænsˈfɜː/",
+   "pos": "v.",
+   "zh": "轉移；轉乘",
+   "example": "You can transfer at Taipei Main Station.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "transform",
+   "word": "transform",
+   "ipa": "/trænsˈfɔːm/",
+   "pos": "v.",
+   "zh": "改變；轉化",
+   "example": "The new park will transform this part of the city.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "trigger",
+   "word": "trigger",
+   "ipa": "/ˈtrɪɡə/",
+   "pos": "v.",
+   "zh": "引發",
+   "example": "A small rise in prices can trigger public anger.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "ultimate",
+   "word": "ultimate",
+   "ipa": "/ˈʌltɪmət/",
+   "pos": "adj.",
+   "zh": "最終的",
+   "example": "The ultimate goal is to speak with confidence.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "undergo",
+   "word": "undergo",
+   "ipa": "/ˌʌndəˈɡəʊ/",
+   "pos": "v.",
+   "zh": "經歷",
+   "example": "The building will undergo repairs next month.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "underlie",
+   "word": "underlie",
+   "ipa": "/ˌʌndəˈlaɪ/",
+   "pos": "v.",
+   "zh": "構成…的基礎",
+   "example": "Several causes underlie the fall in sales.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "undertake",
+   "word": "undertake",
+   "ipa": "/ˌʌndəˈteɪk/",
+   "pos": "v.",
+   "zh": "著手做；承擔",
+   "example": "The university will undertake a larger survey next year.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "uniform",
+   "word": "uniform",
+   "ipa": "/ˈjuːnɪfɔːm/",
+   "pos": "adj.",
+   "zh": "一致的；相同的",
+   "example": "The results were not uniform across the country.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "utilise",
+   "word": "utilise",
+   "ipa": "/ˈjuːtəlaɪz/",
+   "pos": "v.",
+   "zh": "利用",
+   "example": "Farmers utilise rainwater during the dry season.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "version",
+   "word": "version",
+   "ipa": "/ˈvɜːʃn/",
+   "pos": "n.",
+   "zh": "版本",
+   "example": "This version of the story is shorter.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "via",
+   "word": "via",
+   "ipa": "/ˈvaɪə/",
+   "pos": "prep.",
+   "zh": "經由",
+   "example": "We flew to London via Hong Kong.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "violate",
+   "word": "violate",
+   "ipa": "/ˈvaɪəleɪt/",
+   "pos": "v.",
+   "zh": "違反",
+   "example": "You must not violate the exam rules.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "visible",
+   "word": "visible",
+   "ipa": "/ˈvɪzəbl/",
+   "pos": "adj.",
+   "zh": "看得見的",
+   "example": "The mountains are visible from the classroom.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "volume",
+   "word": "volume",
+   "ipa": "/ˈvɒljuːm/",
+   "pos": "n.",
+   "zh": "音量；冊",
+   "example": "Please keep the volume low in the library.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "voluntary",
+   "word": "voluntary",
+   "ipa": "/ˈvɒləntri/",
+   "pos": "adj.",
+   "zh": "自願的",
+   "example": "Attendance at the workshop is voluntary.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "whereby",
+   "word": "whereby",
+   "ipa": "/weəˈbaɪ/",
+   "pos": "adv.",
+   "zh": "藉以",
+   "example": "They agreed a plan whereby students teach one another.",
+   "unit": "academic",
+   "topic": "學術基礎"
+  },
+  {
+   "id": "environment",
+   "word": "environment",
+   "ipa": "/ɪnˈvaɪrənmənt/",
+   "pos": "n.",
+   "zh": "環境",
+   "example": "We all have a duty to protect the environment.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "pollution",
+   "word": "pollution",
+   "ipa": "/pəˈluːʃn/",
+   "pos": "n.",
+   "zh": "污染",
+   "example": "Air pollution is worse on days with little wind.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "pollutant",
+   "word": "pollutant",
+   "ipa": "/pəˈluːtənt/",
+   "pos": "n.",
+   "zh": "污染物",
+   "example": "Factories must reduce every pollutant they release.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "emission",
+   "word": "emission",
+   "ipa": "/ɪˈmɪʃn/",
+   "pos": "n.",
+   "zh": "排放",
+   "example": "The city wants to cut carbon emission from traffic.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "carbon",
+   "word": "carbon",
+   "ipa": "/ˈkɑːbən/",
+   "pos": "n.",
+   "zh": "碳",
+   "example": "Carbon from cars stays in the air for a long time.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "climate",
+   "word": "climate",
+   "ipa": "/ˈklaɪmət/",
+   "pos": "n.",
+   "zh": "氣候",
+   "example": "The climate here is hot and wet in summer.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "atmosphere",
+   "word": "atmosphere",
+   "ipa": "/ˈætməsfɪə/",
+   "pos": "n.",
+   "zh": "大氣；氣氛",
+   "example": "Gases in the atmosphere trap heat from the sun.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "temperature",
+   "word": "temperature",
+   "ipa": "/ˈtemprətʃə/",
+   "pos": "n.",
+   "zh": "溫度",
+   "example": "The temperature reached thirty-five degrees yesterday.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "drought",
+   "word": "drought",
+   "ipa": "/draʊt/",
+   "pos": "n.",
+   "zh": "乾旱",
+   "example": "A long drought left the river almost dry.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "flood",
+   "word": "flood",
+   "ipa": "/flʌd/",
+   "pos": "n.",
+   "zh": "洪水",
+   "example": "The flood damaged hundreds of homes near the river.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "disaster",
+   "word": "disaster",
+   "ipa": "/dɪˈzɑːstə/",
+   "pos": "n.",
+   "zh": "災害",
+   "example": "The storm was the worst disaster in ten years.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "species",
+   "word": "species",
+   "ipa": "/ˈspiːʃiːz/",
+   "pos": "n.",
+   "zh": "物種",
+   "example": "This species of bird is rarely seen in the city.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "habitat",
+   "word": "habitat",
+   "ipa": "/ˈhæbɪtæt/",
+   "pos": "n.",
+   "zh": "棲息地",
+   "example": "The forest is the natural habitat of these monkeys.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "biodiversity",
+   "word": "biodiversity",
+   "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+   "pos": "n.",
+   "zh": "生物多樣性",
+   "example": "Protecting biodiversity keeps an ecosystem healthy.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "ecosystem",
+   "word": "ecosystem",
+   "ipa": "/ˈiːkəʊsɪstəm/",
+   "pos": "n.",
+   "zh": "生態系統",
+   "example": "A coral reef is a rich but fragile ecosystem.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "wildlife",
+   "word": "wildlife",
+   "ipa": "/ˈwaɪldlaɪf/",
+   "pos": "n.",
+   "zh": "野生動植物",
+   "example": "The park is home to a lot of wildlife.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "extinct",
+   "word": "extinct",
+   "ipa": "/ɪkˈstɪŋkt/",
+   "pos": "adj.",
+   "zh": "滅絕的",
+   "example": "The animal became extinct after its forest disappeared.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "endangered",
+   "word": "endangered",
+   "ipa": "/ɪnˈdeɪndʒəd/",
+   "pos": "adj.",
+   "zh": "瀕危的",
+   "example": "Turtles are endangered because of plastic in the sea.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "conservation",
+   "word": "conservation",
+   "ipa": "/ˌkɒnsəˈveɪʃn/",
+   "pos": "n.",
+   "zh": "保育",
+   "example": "Conservation groups plant trees along the coast.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "preserve",
+   "word": "preserve",
+   "ipa": "/prɪˈzɜːv/",
+   "pos": "v.",
+   "zh": "保護；保存",
+   "example": "We should preserve old buildings as well as forests.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "sustainable",
+   "word": "sustainable",
+   "ipa": "/səˈsteɪnəbl/",
+   "pos": "adj.",
+   "zh": "永續的",
+   "example": "Cycling is a sustainable way to travel short distances.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "renewable",
+   "word": "renewable",
+   "ipa": "/rɪˈnjuːəbl/",
+   "pos": "adj.",
+   "zh": "可再生的",
+   "example": "Solar power is a renewable source of energy.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "solar",
+   "word": "solar",
+   "ipa": "/ˈsəʊlə/",
+   "pos": "adj.",
+   "zh": "太陽能的",
+   "example": "Solar panels on the roof cut the electricity bill.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "fossil",
+   "word": "fossil",
+   "ipa": "/ˈfɒsl/",
+   "pos": "n.",
+   "zh": "化石",
+   "example": "Burning fossil fuel is a major cause of climate change.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "energy",
+   "word": "energy",
+   "ipa": "/ˈenədʒi/",
+   "pos": "n.",
+   "zh": "能源；精力",
+   "example": "The country is investing in clean energy.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "resource",
+   "word": "resource",
+   "ipa": "/rɪˈzɔːs/",
+   "pos": "n.",
+   "zh": "資源",
+   "example": "Fresh water is a precious resource.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "waste",
+   "word": "waste",
+   "ipa": "/weɪst/",
+   "pos": "n.",
+   "zh": "廢棄物；浪費",
+   "example": "Food waste can be turned into compost.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "recycle",
+   "word": "recycle",
+   "ipa": "/ˌriːˈsaɪkl/",
+   "pos": "v.",
+   "zh": "回收再利用",
+   "example": "We recycle paper, glass and plastic at home.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "plastic",
+   "word": "plastic",
+   "ipa": "/ˈplæstɪk/",
+   "pos": "n.",
+   "zh": "塑膠",
+   "example": "A plastic bottle can take centuries to break down.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "landfill",
+   "word": "landfill",
+   "ipa": "/ˈlændfɪl/",
+   "pos": "n.",
+   "zh": "垃圾掩埋場",
+   "example": "Too much rubbish still ends up in a landfill.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "deforestation",
+   "word": "deforestation",
+   "ipa": "/ˌdiːˌfɒrɪˈsteɪʃn/",
+   "pos": "n.",
+   "zh": "砍伐森林",
+   "example": "Deforestation destroys the homes of wild animals.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "erosion",
+   "word": "erosion",
+   "ipa": "/ɪˈrəʊʒn/",
+   "pos": "n.",
+   "zh": "侵蝕",
+   "example": "Soil erosion is worse on hills with no trees.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "agriculture",
+   "word": "agriculture",
+   "ipa": "/ˈæɡrɪkʌltʃə/",
+   "pos": "n.",
+   "zh": "農業",
+   "example": "Agriculture uses a large share of the island's water.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "pesticide",
+   "word": "pesticide",
+   "ipa": "/ˈpestɪsaɪd/",
+   "pos": "n.",
+   "zh": "殺蟲劑",
+   "example": "Some farmers are using less pesticide than before.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "organic",
+   "word": "organic",
+   "ipa": "/ɔːˈɡænɪk/",
+   "pos": "adj.",
+   "zh": "有機的",
+   "example": "Organic vegetables are grown without chemical sprays.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "rural",
+   "word": "rural",
+   "ipa": "/ˈrʊərəl/",
+   "pos": "adj.",
+   "zh": "鄉村的",
+   "example": "Rural areas often have cleaner air than cities.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "urban",
+   "word": "urban",
+   "ipa": "/ˈɜːbən/",
+   "pos": "adj.",
+   "zh": "都市的",
+   "example": "Urban residents depend on buses and the metro.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "infrastructure",
+   "word": "infrastructure",
+   "ipa": "/ˈɪnfrəstrʌktʃə/",
+   "pos": "n.",
+   "zh": "基礎設施",
+   "example": "The city needs better infrastructure for cyclists.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "congestion",
+   "word": "congestion",
+   "ipa": "/kənˈdʒestʃən/",
+   "pos": "n.",
+   "zh": "壅塞",
+   "example": "Traffic congestion is worst around eight in the morning.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "transport",
+   "word": "transport",
+   "ipa": "/ˈtrænspɔːt/",
+   "pos": "n.",
+   "zh": "交通運輸",
+   "example": "Public transport is cheaper than driving every day.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "vehicle",
+   "word": "vehicle",
+   "ipa": "/ˈviːəkl/",
+   "pos": "n.",
+   "zh": "車輛",
+   "example": "An electric vehicle produces less air pollution.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "commute",
+   "word": "commute",
+   "ipa": "/kəˈmjuːt/",
+   "pos": "v.",
+   "zh": "通勤",
+   "example": "I commute by metro because the roads are too busy.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "resident",
+   "word": "resident",
+   "ipa": "/ˈrezɪdənt/",
+   "pos": "n.",
+   "zh": "居民",
+   "example": "Every resident was invited to the meeting.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "community",
+   "word": "community",
+   "ipa": "/kəˈmjuːnəti/",
+   "pos": "n.",
+   "zh": "社區",
+   "example": "The community organised a beach clean-up.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "poverty",
+   "word": "poverty",
+   "ipa": "/ˈpɒvəti/",
+   "pos": "n.",
+   "zh": "貧窮",
+   "example": "Poverty makes it harder for children to stay in school.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "inequality",
+   "word": "inequality",
+   "ipa": "/ˌɪnɪˈkwɒləti/",
+   "pos": "n.",
+   "zh": "不平等",
+   "example": "Income inequality has grown in many countries.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "charity",
+   "word": "charity",
+   "ipa": "/ˈtʃærəti/",
+   "pos": "n.",
+   "zh": "慈善團體",
+   "example": "The charity provides meals for older people.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "volunteer",
+   "word": "volunteer",
+   "ipa": "/ˌvɒlənˈtɪə/",
+   "pos": "n.",
+   "zh": "志工",
+   "example": "Every volunteer wore a green vest.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "greenhouse",
+   "word": "greenhouse",
+   "ipa": "/ˈɡriːnhaʊs/",
+   "pos": "n.",
+   "zh": "溫室",
+   "example": "A greenhouse gas traps heat in the atmosphere.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "shortage",
+   "word": "shortage",
+   "ipa": "/ˈʃɔːtɪdʒ/",
+   "pos": "n.",
+   "zh": "短缺",
+   "example": "A water shortage can follow a very dry summer.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "disposal",
+   "word": "disposal",
+   "ipa": "/dɪˈspəʊzl/",
+   "pos": "n.",
+   "zh": "處置",
+   "example": "The safe disposal of chemicals is strictly controlled.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "contamination",
+   "word": "contamination",
+   "ipa": "/kənˌtæmɪˈneɪʃn/",
+   "pos": "n.",
+   "zh": "污染；沾染",
+   "example": "Soil contamination near the factory is a serious worry.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "ozone",
+   "word": "ozone",
+   "ipa": "/ˈəʊzəʊn/",
+   "pos": "n.",
+   "zh": "臭氧",
+   "example": "The ozone layer protects us from strong sunlight.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "glacier",
+   "word": "glacier",
+   "ipa": "/ˈɡlæsiə/",
+   "pos": "n.",
+   "zh": "冰川",
+   "example": "The glacier is smaller than it was twenty years ago.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "threaten",
+   "word": "threaten",
+   "ipa": "/ˈθretn/",
+   "pos": "v.",
+   "zh": "威脅",
+   "example": "Rising seas threaten homes along the coast.",
+   "unit": "environment",
+   "topic": "環境"
+  },
+  {
+   "id": "education",
+   "word": "education",
+   "ipa": "/ˌedʒuˈkeɪʃn/",
+   "pos": "n.",
+   "zh": "教育",
+   "example": "Free education helps children from every background.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "academic",
+   "word": "academic",
+   "ipa": "/ˌækəˈdemɪk/",
+   "pos": "adj.",
+   "zh": "學術的",
+   "example": "The essay is too informal for an academic course.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "curriculum",
+   "word": "curriculum",
+   "ipa": "/kəˈrɪkjələm/",
+   "pos": "n.",
+   "zh": "課程架構",
+   "example": "The school is changing its science curriculum.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "syllabus",
+   "word": "syllabus",
+   "ipa": "/ˈsɪləbəs/",
+   "pos": "n.",
+   "zh": "課程大綱",
+   "example": "The syllabus lists every topic for the term.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "discipline",
+   "word": "discipline",
+   "ipa": "/ˈdɪsəplɪn/",
+   "pos": "n.",
+   "zh": "學科；紀律",
+   "example": "History is a popular discipline at this university.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "lecture",
+   "word": "lecture",
+   "ipa": "/ˈlektʃə/",
+   "pos": "n.",
+   "zh": "講課",
+   "example": "The lecture on climate change was easy to follow.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "seminar",
+   "word": "seminar",
+   "ipa": "/ˈsemɪnɑː/",
+   "pos": "n.",
+   "zh": "研討課",
+   "example": "In the seminar we discussed the article in small groups.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "tutorial",
+   "word": "tutorial",
+   "ipa": "/tjuːˈtɔːriəl/",
+   "pos": "n.",
+   "zh": "個別指導",
+   "example": "I have a tutorial with my tutor every Thursday.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "assignment",
+   "word": "assignment",
+   "ipa": "/əˈsaɪnmənt/",
+   "pos": "n.",
+   "zh": "作業",
+   "example": "The assignment must be written in your own words.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "deadline",
+   "word": "deadline",
+   "ipa": "/ˈdedlaɪn/",
+   "pos": "n.",
+   "zh": "截止日",
+   "example": "The deadline for the essay is next Monday.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "plagiarism",
+   "word": "plagiarism",
+   "ipa": "/ˈpleɪdʒərɪzəm/",
+   "pos": "n.",
+   "zh": "抄襲",
+   "example": "Plagiarism can cause a student to fail the course.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "scholarship",
+   "word": "scholarship",
+   "ipa": "/ˈskɒləʃɪp/",
+   "pos": "n.",
+   "zh": "獎學金",
+   "example": "She won a scholarship to study engineering.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "tuition",
+   "word": "tuition",
+   "ipa": "/tjuˈɪʃn/",
+   "pos": "n.",
+   "zh": "學費",
+   "example": "University tuition is a heavy cost for many families.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "literacy",
+   "word": "literacy",
+   "ipa": "/ˈlɪtərəsi/",
+   "pos": "n.",
+   "zh": "讀寫能力",
+   "example": "Early literacy makes later study much easier.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "numeracy",
+   "word": "numeracy",
+   "ipa": "/ˈnjuːmərəsi/",
+   "pos": "n.",
+   "zh": "計算能力",
+   "example": "Numeracy is as important as reading.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "qualification",
+   "word": "qualification",
+   "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+   "pos": "n.",
+   "zh": "資格；學歷",
+   "example": "You need a teaching qualification to work in a school.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "certificate",
+   "word": "certificate",
+   "ipa": "/səˈtɪfɪkət/",
+   "pos": "n.",
+   "zh": "證書",
+   "example": "He received a certificate at the end of the course.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "undergraduate",
+   "word": "undergraduate",
+   "ipa": "/ˌʌndəˈɡrædʒuət/",
+   "pos": "n.",
+   "zh": "大學生",
+   "example": "She is an undergraduate in her second year.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "graduate",
+   "word": "graduate",
+   "ipa": "/ˈɡrædʒuət/",
+   "pos": "n.",
+   "zh": "畢業生",
+   "example": "The graduate found a job within three months.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "thesis",
+   "word": "thesis",
+   "ipa": "/ˈθiːsɪs/",
+   "pos": "n.",
+   "zh": "學位論文",
+   "example": "His thesis is about public transport in Taipei.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "hypothesis",
+   "word": "hypothesis",
+   "ipa": "/haɪˈpɒθəsɪs/",
+   "pos": "n.",
+   "zh": "假設",
+   "example": "The hypothesis was not supported by the experiment.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "experiment",
+   "word": "experiment",
+   "ipa": "/ɪkˈsperɪmənt/",
+   "pos": "n.",
+   "zh": "實驗",
+   "example": "The experiment showed that plants grow faster in sunlight.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "laboratory",
+   "word": "laboratory",
+   "ipa": "/ləˈbɒrətri/",
+   "pos": "n.",
+   "zh": "實驗室",
+   "example": "Students wear goggles in the laboratory.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "peer",
+   "word": "peer",
+   "ipa": "/pɪə/",
+   "pos": "n.",
+   "zh": "同儕",
+   "example": "Peer comments helped her improve the draft.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "feedback",
+   "word": "feedback",
+   "ipa": "/ˈfiːdbæk/",
+   "pos": "n.",
+   "zh": "回饋",
+   "example": "The teacher gave clear feedback on my speaking.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "motivation",
+   "word": "motivation",
+   "ipa": "/ˌməʊtɪˈveɪʃn/",
+   "pos": "n.",
+   "zh": "動機",
+   "example": "A clear goal can increase your motivation.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "concentrate",
+   "word": "concentrate",
+   "ipa": "/ˈkɒnsntreɪt/",
+   "pos": "v.",
+   "zh": "專心",
+   "example": "I cannot concentrate when the room is noisy.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "memorise",
+   "word": "memorise",
+   "ipa": "/ˈmeməraɪz/",
+   "pos": "v.",
+   "zh": "背起來",
+   "example": "Do not only memorise word lists; use the words.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "revise",
+   "word": "revise",
+   "ipa": "/rɪˈvaɪz/",
+   "pos": "v.",
+   "zh": "複習；修改",
+   "example": "I revise new words again the next day.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "practise",
+   "word": "practise",
+   "ipa": "/ˈpræktɪs/",
+   "pos": "v.",
+   "zh": "練習",
+   "example": "I practise speaking for ten minutes every evening.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "fluent",
+   "word": "fluent",
+   "ipa": "/ˈfluːənt/",
+   "pos": "adj.",
+   "zh": "流利的",
+   "example": "She is fluent in English and Mandarin.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "pronunciation",
+   "word": "pronunciation",
+   "ipa": "/prəˌnʌnsiˈeɪʃn/",
+   "pos": "n.",
+   "zh": "發音",
+   "example": "Listening to a model helps your pronunciation.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "vocabulary",
+   "word": "vocabulary",
+   "ipa": "/vəˈkæbjələri/",
+   "pos": "n.",
+   "zh": "詞彙",
+   "example": "Reading is a good way to grow your vocabulary.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "comprehension",
+   "word": "comprehension",
+   "ipa": "/ˌkɒmprɪˈhenʃn/",
+   "pos": "n.",
+   "zh": "理解",
+   "example": "The question tests comprehension, not memory alone.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "critical",
+   "word": "critical",
+   "ipa": "/ˈkrɪtɪkl/",
+   "pos": "adj.",
+   "zh": "批判性的；關鍵的",
+   "example": "A critical reader asks whether the evidence is strong.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "creative",
+   "word": "creative",
+   "ipa": "/kriˈeɪtɪv/",
+   "pos": "adj.",
+   "zh": "有創意的",
+   "example": "The task asks for a creative but realistic solution.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "compulsory",
+   "word": "compulsory",
+   "ipa": "/kəmˈpʌlsəri/",
+   "pos": "adj.",
+   "zh": "必修的；強制的",
+   "example": "Mathematics is a compulsory subject in secondary school.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "optional",
+   "word": "optional",
+   "ipa": "/ˈɒpʃənl/",
+   "pos": "adj.",
+   "zh": "選修的；可自由選擇的",
+   "example": "The afternoon workshop is optional.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "achievement",
+   "word": "achievement",
+   "ipa": "/əˈtʃiːvmənt/",
+   "pos": "n.",
+   "zh": "成就",
+   "example": "Finishing the course was a real achievement.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "potential",
+   "word": "potential",
+   "ipa": "/pəˈtenʃl/",
+   "pos": "n.",
+   "zh": "潛力",
+   "example": "The student has the potential to reach band seven.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "curiosity",
+   "word": "curiosity",
+   "ipa": "/ˌkjʊəriˈɒsəti/",
+   "pos": "n.",
+   "zh": "好奇心",
+   "example": "Curiosity makes learning feel less like a duty.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "participate",
+   "word": "participate",
+   "ipa": "/pɑːˈtɪsɪpeɪt/",
+   "pos": "v.",
+   "zh": "參加",
+   "example": "Everyone should participate in the discussion.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "cooperate",
+   "word": "cooperate",
+   "ipa": "/kəʊˈɒpəreɪt/",
+   "pos": "v.",
+   "zh": "合作",
+   "example": "The two classes cooperate on a science fair.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "debate",
+   "word": "debate",
+   "ipa": "/dɪˈbeɪt/",
+   "pos": "n.",
+   "zh": "辯論",
+   "example": "The debate was about whether homework is useful.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "perspective",
+   "word": "perspective",
+   "ipa": "/pəˈspektɪv/",
+   "pos": "n.",
+   "zh": "觀點",
+   "example": "From a parent's perspective, the fee is too high.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "distract",
+   "word": "distract",
+   "ipa": "/dɪˈstrækt/",
+   "pos": "v.",
+   "zh": "使分心",
+   "example": "Phones distract students during a lesson.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "faculty",
+   "word": "faculty",
+   "ipa": "/ˈfæklti/",
+   "pos": "n.",
+   "zh": "全體教師；學院",
+   "example": "The faculty meets once a month.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "knowledge",
+   "word": "knowledge",
+   "ipa": "/ˈnɒlɪdʒ/",
+   "pos": "n.",
+   "zh": "知識",
+   "example": "Knowledge of word roots can help you guess meaning.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "confidence",
+   "word": "confidence",
+   "ipa": "/ˈkɒnfɪdəns/",
+   "pos": "n.",
+   "zh": "信心",
+   "example": "Speaking every day builds confidence.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "campus",
+   "word": "campus",
+   "ipa": "/ˈkæmpəs/",
+   "pos": "n.",
+   "zh": "校園",
+   "example": "The campus has a quiet library and a small lake.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "coursework",
+   "word": "coursework",
+   "ipa": "/ˈkɔːswɜːk/",
+   "pos": "n.",
+   "zh": "課業",
+   "example": "Coursework counts for forty percent of the final mark.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "attendance",
+   "word": "attendance",
+   "ipa": "/əˈtendəns/",
+   "pos": "n.",
+   "zh": "出席",
+   "example": "Poor attendance can affect your grade.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "grade",
+   "word": "grade",
+   "ipa": "/ɡreɪd/",
+   "pos": "n.",
+   "zh": "成績；等級",
+   "example": "She was pleased with her grade for the essay.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "tutor",
+   "word": "tutor",
+   "ipa": "/ˈtjuːtə/",
+   "pos": "n.",
+   "zh": "導師",
+   "example": "My tutor suggested a clearer topic sentence.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "bilingual",
+   "word": "bilingual",
+   "ipa": "/ˌbaɪˈlɪŋɡwəl/",
+   "pos": "adj.",
+   "zh": "雙語的",
+   "example": "A bilingual dictionary is useful, but do not overuse it.",
+   "unit": "education",
+   "topic": "教育"
+  },
+  {
+   "id": "technology",
+   "word": "technology",
+   "ipa": "/tekˈnɒlədʒi/",
+   "pos": "n.",
+   "zh": "科技",
+   "example": "Technology has changed the way we study.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "digital",
+   "word": "digital",
+   "ipa": "/ˈdɪdʒɪtl/",
+   "pos": "adj.",
+   "zh": "數位的",
+   "example": "Digital maps are updated more often than paper maps.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "device",
+   "word": "device",
+   "ipa": "/dɪˈvaɪs/",
+   "pos": "n.",
+   "zh": "裝置",
+   "example": "Please turn the device to silent mode.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "software",
+   "word": "software",
+   "ipa": "/ˈsɒftweə/",
+   "pos": "n.",
+   "zh": "軟體",
+   "example": "The software can check spelling, but not ideas.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "hardware",
+   "word": "hardware",
+   "ipa": "/ˈhɑːdweə/",
+   "pos": "n.",
+   "zh": "硬體",
+   "example": "The hardware is old and needs to be replaced.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "database",
+   "word": "database",
+   "ipa": "/ˈdeɪtəbeɪs/",
+   "pos": "n.",
+   "zh": "資料庫",
+   "example": "The library database lists every journal.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "algorithm",
+   "word": "algorithm",
+   "ipa": "/ˈælɡərɪðəm/",
+   "pos": "n.",
+   "zh": "演算法",
+   "example": "The algorithm recommends videos you may like.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "artificial",
+   "word": "artificial",
+   "ipa": "/ˌɑːtɪˈfɪʃl/",
+   "pos": "adj.",
+   "zh": "人工的",
+   "example": "Artificial light is not the same as sunlight.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "intelligence",
+   "word": "intelligence",
+   "ipa": "/ɪnˈtelɪdʒəns/",
+   "pos": "n.",
+   "zh": "智慧",
+   "example": "Artificial intelligence can draft a text, but you must check it.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "automate",
+   "word": "automate",
+   "ipa": "/ˈɔːtəmeɪt/",
+   "pos": "v.",
+   "zh": "使自動化",
+   "example": "The factory will automate the packing line.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "automatic",
+   "word": "automatic",
+   "ipa": "/ˌɔːtəˈmætɪk/",
+   "pos": "adj.",
+   "zh": "自動的",
+   "example": "The doors are automatic.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "innovation",
+   "word": "innovation",
+   "ipa": "/ˌɪnəˈveɪʃn/",
+   "pos": "n.",
+   "zh": "創新",
+   "example": "The award is for innovation in public transport.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "invention",
+   "word": "invention",
+   "ipa": "/ɪnˈvenʃn/",
+   "pos": "n.",
+   "zh": "發明",
+   "example": "The invention made long-distance calls much cheaper.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "discover",
+   "word": "discover",
+   "ipa": "/dɪˈskʌvə/",
+   "pos": "v.",
+   "zh": "發現",
+   "example": "Scientists hope to discover a cleaner fuel.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "advance",
+   "word": "advance",
+   "ipa": "/ədˈvɑːns/",
+   "pos": "n.",
+   "zh": "進展",
+   "example": "A medical advance can save thousands of lives.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "breakthrough",
+   "word": "breakthrough",
+   "ipa": "/ˈbreɪkθruː/",
+   "pos": "n.",
+   "zh": "突破",
+   "example": "The new battery is a real breakthrough.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "efficient",
+   "word": "efficient",
+   "ipa": "/ɪˈfɪʃnt/",
+   "pos": "adj.",
+   "zh": "有效率的",
+   "example": "Trains are an efficient way to move large crowds.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "convenient",
+   "word": "convenient",
+   "ipa": "/kənˈviːniənt/",
+   "pos": "adj.",
+   "zh": "方便的",
+   "example": "Online payment is convenient, but keep your password safe.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "accessible",
+   "word": "accessible",
+   "ipa": "/əkˈsesəbl/",
+   "pos": "adj.",
+   "zh": "可使用的；易到達的",
+   "example": "The website should be accessible on a phone.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "reliable",
+   "word": "reliable",
+   "ipa": "/rɪˈlaɪəbl/",
+   "pos": "adj.",
+   "zh": "可靠的",
+   "example": "A reliable connection matters in an online class.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "secure",
+   "word": "secure",
+   "ipa": "/sɪˈkjʊə/",
+   "pos": "adj.",
+   "zh": "安全的",
+   "example": "Choose a secure password that you do not reuse.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "privacy",
+   "word": "privacy",
+   "ipa": "/ˈprɪvəsi/",
+   "pos": "n.",
+   "zh": "隱私",
+   "example": "The app asks for more privacy than it needs.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "password",
+   "word": "password",
+   "ipa": "/ˈpɑːswɜːd/",
+   "pos": "n.",
+   "zh": "密碼",
+   "example": "Never send a password by email.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "virus",
+   "word": "virus",
+   "ipa": "/ˈvaɪərəs/",
+   "pos": "n.",
+   "zh": "病毒",
+   "example": "A virus can damage files on a computer.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "network",
+   "word": "network",
+   "ipa": "/ˈnetwɜːk/",
+   "pos": "n.",
+   "zh": "網路",
+   "example": "The office network was down for an hour.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "wireless",
+   "word": "wireless",
+   "ipa": "/ˈwaɪələs/",
+   "pos": "adj.",
+   "zh": "無線的",
+   "example": "Wireless headphones are easy to carry.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "download",
+   "word": "download",
+   "ipa": "/ˌdaʊnˈləʊd/",
+   "pos": "v.",
+   "zh": "下載",
+   "example": "You can download the reading before the class.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "upload",
+   "word": "upload",
+   "ipa": "/ˌʌpˈləʊd/",
+   "pos": "v.",
+   "zh": "上傳",
+   "example": "Please upload the file as a PDF.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "browse",
+   "word": "browse",
+   "ipa": "/braʊz/",
+   "pos": "v.",
+   "zh": "瀏覽",
+   "example": "I browse the news on the metro.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "website",
+   "word": "website",
+   "ipa": "/ˈwebsaɪt/",
+   "pos": "n.",
+   "zh": "網站",
+   "example": "The museum website shows the opening hours.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "platform",
+   "word": "platform",
+   "ipa": "/ˈplætfɔːm/",
+   "pos": "n.",
+   "zh": "平台",
+   "example": "The course is taught on an online platform.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "virtual",
+   "word": "virtual",
+   "ipa": "/ˈvɜːtʃuəl/",
+   "pos": "adj.",
+   "zh": "虛擬的",
+   "example": "The virtual tour lets you walk through the gallery.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "remote",
+   "word": "remote",
+   "ipa": "/rɪˈməʊt/",
+   "pos": "adj.",
+   "zh": "遠距的；偏遠的",
+   "example": "Remote work is common in software companies.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "screen",
+   "word": "screen",
+   "ipa": "/skriːn/",
+   "pos": "n.",
+   "zh": "螢幕",
+   "example": "Looking at a screen all day can tire your eyes.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "battery",
+   "word": "battery",
+   "ipa": "/ˈbætəri/",
+   "pos": "n.",
+   "zh": "電池",
+   "example": "The battery lasts for about ten hours.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "charge",
+   "word": "charge",
+   "ipa": "/tʃɑːdʒ/",
+   "pos": "v.",
+   "zh": "充電",
+   "example": "Remember to charge the laptop before the seminar.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "update",
+   "word": "update",
+   "ipa": "/ˌʌpˈdeɪt/",
+   "pos": "v.",
+   "zh": "更新",
+   "example": "Update the app so the latest lesson appears.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "install",
+   "word": "install",
+   "ipa": "/ɪnˈstɔːl/",
+   "pos": "v.",
+   "zh": "安裝",
+   "example": "It takes a minute to install the dictionary.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "function",
+   "word": "function",
+   "ipa": "/ˈfʌŋkʃn/",
+   "pos": "n.",
+   "zh": "功能",
+   "example": "The search function saves a lot of time.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "operate",
+   "word": "operate",
+   "ipa": "/ˈɒpəreɪt/",
+   "pos": "v.",
+   "zh": "操作；運作",
+   "example": "The machine is simple to operate.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "maintain",
+   "word": "maintain",
+   "ipa": "/meɪnˈteɪn/",
+   "pos": "v.",
+   "zh": "維護；維持",
+   "example": "Engineers maintain the bridge every year.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "repair",
+   "word": "repair",
+   "ipa": "/rɪˈpeə/",
+   "pos": "v.",
+   "zh": "修理",
+   "example": "It is cheaper to repair the phone than to replace it.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "obsolete",
+   "word": "obsolete",
+   "ipa": "/ˈɒbsəliːt/",
+   "pos": "adj.",
+   "zh": "過時的",
+   "example": "That software is obsolete and no longer supported.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "compatible",
+   "word": "compatible",
+   "ipa": "/kəmˈpætəbl/",
+   "pos": "adj.",
+   "zh": "相容的",
+   "example": "The file is compatible with most computers.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "transparent",
+   "word": "transparent",
+   "ipa": "/trænsˈpærənt/",
+   "pos": "adj.",
+   "zh": "透明的；公開的",
+   "example": "A transparent process helps people trust the result.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "monitor",
+   "word": "monitor",
+   "ipa": "/ˈmɒnɪtə/",
+   "pos": "v.",
+   "zh": "監測",
+   "example": "The sensor will monitor air quality.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "detect",
+   "word": "detect",
+   "ipa": "/dɪˈtekt/",
+   "pos": "v.",
+   "zh": "偵測",
+   "example": "The alarm can detect smoke.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "predict",
+   "word": "predict",
+   "ipa": "/prɪˈdɪkt/",
+   "pos": "v.",
+   "zh": "預測",
+   "example": "It is hard to predict the weather a month ahead.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "simulate",
+   "word": "simulate",
+   "ipa": "/ˈsɪmjuleɪt/",
+   "pos": "v.",
+   "zh": "模擬",
+   "example": "The program can simulate a job interview.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "interact",
+   "word": "interact",
+   "ipa": "/ˌɪntərˈækt/",
+   "pos": "v.",
+   "zh": "互動",
+   "example": "Children need time to interact with other people, not only screens.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "storage",
+   "word": "storage",
+   "ipa": "/ˈstɔːrɪdʒ/",
+   "pos": "n.",
+   "zh": "儲存空間",
+   "example": "The phone has enough storage for photos and notes.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "interface",
+   "word": "interface",
+   "ipa": "/ˈɪntəfeɪs/",
+   "pos": "n.",
+   "zh": "介面",
+   "example": "A simple interface is easier for older users.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "cyber",
+   "word": "cyber",
+   "ipa": "/ˈsaɪbə/",
+   "pos": "adj.",
+   "zh": "網路的",
+   "example": "Cyber crime is a growing problem for banks.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "encrypt",
+   "word": "encrypt",
+   "ipa": "/ɪnˈkrɪpt/",
+   "pos": "v.",
+   "zh": "加密",
+   "example": "Banks encrypt messages so strangers cannot read them.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "pixel",
+   "word": "pixel",
+   "ipa": "/ˈpɪksl/",
+   "pos": "n.",
+   "zh": "像素",
+   "example": "A higher pixel count makes the photo clearer.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "robot",
+   "word": "robot",
+   "ipa": "/ˈrəʊbɒt/",
+   "pos": "n.",
+   "zh": "機器人",
+   "example": "The robot moves boxes in the warehouse.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "sensor",
+   "word": "sensor",
+   "ipa": "/ˈsensə/",
+   "pos": "n.",
+   "zh": "感測器",
+   "example": "A sensor turns the light on when you enter the room.",
+   "unit": "technology",
+   "topic": "科技"
+  },
+  {
+   "id": "health",
+   "word": "health",
+   "ipa": "/helθ/",
+   "pos": "n.",
+   "zh": "健康",
+   "example": "Good health depends on sleep, food and movement.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "diet",
+   "word": "diet",
+   "ipa": "/ˈdaɪət/",
+   "pos": "n.",
+   "zh": "飲食",
+   "example": "A balanced diet includes vegetables and protein.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "nutrition",
+   "word": "nutrition",
+   "ipa": "/njuˈtrɪʃn/",
+   "pos": "n.",
+   "zh": "營養",
+   "example": "Nutrition lessons teach children how to choose food.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "nutrient",
+   "word": "nutrient",
+   "ipa": "/ˈnjuːtriənt/",
+   "pos": "n.",
+   "zh": "養分",
+   "example": "Fruit gives you more than one nutrient.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "vitamin",
+   "word": "vitamin",
+   "ipa": "/ˈvɪtəmɪn/",
+   "pos": "n.",
+   "zh": "維生素",
+   "example": "Vitamin D comes from sunlight and some foods.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "protein",
+   "word": "protein",
+   "ipa": "/ˈprəʊtiːn/",
+   "pos": "n.",
+   "zh": "蛋白質",
+   "example": "Eggs and beans are useful sources of protein.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "calorie",
+   "word": "calorie",
+   "ipa": "/ˈkæləri/",
+   "pos": "n.",
+   "zh": "卡路里",
+   "example": "A small cake can contain a surprising calorie count.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "obesity",
+   "word": "obesity",
+   "ipa": "/əʊˈbiːsəti/",
+   "pos": "n.",
+   "zh": "肥胖",
+   "example": "Obesity raises the risk of heart disease.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "overweight",
+   "word": "overweight",
+   "ipa": "/ˌəʊvəˈweɪt/",
+   "pos": "adj.",
+   "zh": "過重的",
+   "example": "He was overweight, so he started walking every day.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "exercise",
+   "word": "exercise",
+   "ipa": "/ˈeksəsaɪz/",
+   "pos": "n.",
+   "zh": "運動",
+   "example": "Even light exercise is better than none.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "fitness",
+   "word": "fitness",
+   "ipa": "/ˈfɪtnəs/",
+   "pos": "n.",
+   "zh": "體能",
+   "example": "Swimming is good for fitness and for your mood.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "muscle",
+   "word": "muscle",
+   "ipa": "/ˈmʌsl/",
+   "pos": "n.",
+   "zh": "肌肉",
+   "example": "Walking uphill builds muscle in your legs.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "symptom",
+   "word": "symptom",
+   "ipa": "/ˈsɪmptəm/",
+   "pos": "n.",
+   "zh": "症狀",
+   "example": "A cough was his only symptom.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "disease",
+   "word": "disease",
+   "ipa": "/dɪˈziːz/",
+   "pos": "n.",
+   "zh": "疾病",
+   "example": "The disease spreads more easily in crowded rooms.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "illness",
+   "word": "illness",
+   "ipa": "/ˈɪlnəs/",
+   "pos": "n.",
+   "zh": "疾病",
+   "example": "A short illness kept her at home for three days.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "infection",
+   "word": "infection",
+   "ipa": "/ɪnˈfekʃn/",
+   "pos": "n.",
+   "zh": "感染",
+   "example": "Wash your hands to reduce the risk of infection.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "vaccine",
+   "word": "vaccine",
+   "ipa": "/ˈvæksiːn/",
+   "pos": "n.",
+   "zh": "疫苗",
+   "example": "The vaccine protects older people from severe illness.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "immune",
+   "word": "immune",
+   "ipa": "/ɪˈmjuːn/",
+   "pos": "adj.",
+   "zh": "免疫的",
+   "example": "Sleep helps your immune system do its job.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "treatment",
+   "word": "treatment",
+   "ipa": "/ˈtriːtmənt/",
+   "pos": "n.",
+   "zh": "治療",
+   "example": "Early treatment can stop the problem getting worse.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "therapy",
+   "word": "therapy",
+   "ipa": "/ˈθerəpi/",
+   "pos": "n.",
+   "zh": "療法",
+   "example": "Talking therapy helped him manage anxiety.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "surgery",
+   "word": "surgery",
+   "ipa": "/ˈsɜːdʒəri/",
+   "pos": "n.",
+   "zh": "手術",
+   "example": "She needed surgery on her knee.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "diagnosis",
+   "word": "diagnosis",
+   "ipa": "/ˌdaɪəɡˈnəʊsɪs/",
+   "pos": "n.",
+   "zh": "診斷",
+   "example": "The diagnosis was made after a blood test.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "prescription",
+   "word": "prescription",
+   "ipa": "/prɪˈskrɪpʃn/",
+   "pos": "n.",
+   "zh": "處方",
+   "example": "Take the medicine exactly as the prescription says.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "medicine",
+   "word": "medicine",
+   "ipa": "/ˈmedɪsn/",
+   "pos": "n.",
+   "zh": "藥；醫學",
+   "example": "This medicine can make you feel sleepy.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "patient",
+   "word": "patient",
+   "ipa": "/ˈpeɪʃnt/",
+   "pos": "n.",
+   "zh": "病人",
+   "example": "The patient left the clinic feeling calmer.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "clinic",
+   "word": "clinic",
+   "ipa": "/ˈklɪnɪk/",
+   "pos": "n.",
+   "zh": "診所",
+   "example": "There is a clinic on the ground floor.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "hospital",
+   "word": "hospital",
+   "ipa": "/ˈhɒspɪtl/",
+   "pos": "n.",
+   "zh": "醫院",
+   "example": "He was taken to hospital after the accident.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "mental",
+   "word": "mental",
+   "ipa": "/ˈmentl/",
+   "pos": "adj.",
+   "zh": "心理的",
+   "example": "Mental health is as important as physical health.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "stress",
+   "word": "stress",
+   "ipa": "/stres/",
+   "pos": "n.",
+   "zh": "壓力",
+   "example": "Too much stress can disturb your sleep.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "anxiety",
+   "word": "anxiety",
+   "ipa": "/æŋˈzaɪəti/",
+   "pos": "n.",
+   "zh": "焦慮",
+   "example": "A little anxiety before a test is normal.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "depression",
+   "word": "depression",
+   "ipa": "/dɪˈpreʃn/",
+   "pos": "n.",
+   "zh": "憂鬱",
+   "example": "Depression is an illness, not a sign of weakness.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "insomnia",
+   "word": "insomnia",
+   "ipa": "/ɪnˈsɒmniə/",
+   "pos": "n.",
+   "zh": "失眠",
+   "example": "Insomnia left her tired every morning.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "addiction",
+   "word": "addiction",
+   "ipa": "/əˈdɪkʃn/",
+   "pos": "n.",
+   "zh": "成癮",
+   "example": "Phone addiction can steal hours from your evening.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "tobacco",
+   "word": "tobacco",
+   "ipa": "/təˈbækəʊ/",
+   "pos": "n.",
+   "zh": "菸草",
+   "example": "Tobacco smoke harms the people nearby as well.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "alcohol",
+   "word": "alcohol",
+   "ipa": "/ˈælkəhɒl/",
+   "pos": "n.",
+   "zh": "酒精",
+   "example": "Too much alcohol is bad for the liver.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "caffeine",
+   "word": "caffeine",
+   "ipa": "/ˈkæfiːn/",
+   "pos": "n.",
+   "zh": "咖啡因",
+   "example": "Caffeine late at night can keep you awake.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "hygiene",
+   "word": "hygiene",
+   "ipa": "/ˈhaɪdʒiːn/",
+   "pos": "n.",
+   "zh": "衛生",
+   "example": "Good hygiene in the kitchen prevents illness.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "sanitation",
+   "word": "sanitation",
+   "ipa": "/ˌsænɪˈteɪʃn/",
+   "pos": "n.",
+   "zh": "衛生設施",
+   "example": "Poor sanitation spreads disease.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "epidemic",
+   "word": "epidemic",
+   "ipa": "/ˌepɪˈdemɪk/",
+   "pos": "n.",
+   "zh": "流行病",
+   "example": "The epidemic forced schools to close for a month.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "prevention",
+   "word": "prevention",
+   "ipa": "/prɪˈvenʃn/",
+   "pos": "n.",
+   "zh": "預防",
+   "example": "Prevention is better than a long treatment.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "recover",
+   "word": "recover",
+   "ipa": "/rɪˈkʌvə/",
+   "pos": "v.",
+   "zh": "康復",
+   "example": "It took him two weeks to recover from the flu.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "benefit",
+   "word": "benefit",
+   "ipa": "/ˈbenɪfɪt/",
+   "pos": "n.",
+   "zh": "好處",
+   "example": "A short walk has a benefit for both body and mind.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "harm",
+   "word": "harm",
+   "ipa": "/hɑːm/",
+   "pos": "n.",
+   "zh": "傷害",
+   "example": "The harm from sugary drinks builds up over years.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "risk",
+   "word": "risk",
+   "ipa": "/rɪsk/",
+   "pos": "n.",
+   "zh": "風險",
+   "example": "There is a higher risk of injury if you skip the warm-up.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "lifestyle",
+   "word": "lifestyle",
+   "ipa": "/ˈlaɪfstaɪl/",
+   "pos": "n.",
+   "zh": "生活方式",
+   "example": "A small change in lifestyle can improve your energy.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "balanced",
+   "word": "balanced",
+   "ipa": "/ˈbælənst/",
+   "pos": "adj.",
+   "zh": "均衡的",
+   "example": "A balanced meal has vegetables, not only meat.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "excessive",
+   "word": "excessive",
+   "ipa": "/ɪkˈsesɪv/",
+   "pos": "adj.",
+   "zh": "過度的",
+   "example": "Excessive screen time can affect a child's sleep.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "moderate",
+   "word": "moderate",
+   "ipa": "/ˈmɒdərət/",
+   "pos": "adj.",
+   "zh": "適度的",
+   "example": "Moderate exercise three times a week is enough to start.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "sedentary",
+   "word": "sedentary",
+   "ipa": "/ˈsedntri/",
+   "pos": "adj.",
+   "zh": "久坐的",
+   "example": "A sedentary job makes it important to stand up often.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "chronic",
+   "word": "chronic",
+   "ipa": "/ˈkrɒnɪk/",
+   "pos": "adj.",
+   "zh": "慢性的",
+   "example": "Chronic pain changed the way he worked.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "acute",
+   "word": "acute",
+   "ipa": "/əˈkjuːt/",
+   "pos": "adj.",
+   "zh": "急性的",
+   "example": "The pain was acute, so he went to the clinic at once.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "vital",
+   "word": "vital",
+   "ipa": "/ˈvaɪtl/",
+   "pos": "adj.",
+   "zh": "極重要的",
+   "example": "Handwashing is vital in a hospital.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "vulnerable",
+   "word": "vulnerable",
+   "ipa": "/ˈvʌlnərəbl/",
+   "pos": "adj.",
+   "zh": "脆弱的；易受傷害的",
+   "example": "Older people are more vulnerable in a heatwave.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "elderly",
+   "word": "elderly",
+   "ipa": "/ˈeldəli/",
+   "pos": "adj.",
+   "zh": "年長的",
+   "example": "The elderly man walks in the park every morning.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "infant",
+   "word": "infant",
+   "ipa": "/ˈɪnfənt/",
+   "pos": "n.",
+   "zh": "嬰兒",
+   "example": "An infant needs more sleep than an adult.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "lifespan",
+   "word": "lifespan",
+   "ipa": "/ˈlaɪfspæn/",
+   "pos": "n.",
+   "zh": "壽命",
+   "example": "A healthier diet can lengthen your lifespan.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "wellbeing",
+   "word": "wellbeing",
+   "ipa": "/ˌwelˈbiːɪŋ/",
+   "pos": "n.",
+   "zh": "身心安適",
+   "example": "Parks add to the wellbeing of a neighbourhood.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "appetite",
+   "word": "appetite",
+   "ipa": "/ˈæpɪtaɪt/",
+   "pos": "n.",
+   "zh": "食慾",
+   "example": "Stress can reduce your appetite.",
+   "unit": "health",
+   "topic": "健康"
+  },
+  {
+   "id": "economy",
+   "word": "economy",
+   "ipa": "/ɪˈkɒnəmi/",
+   "pos": "n.",
+   "zh": "經濟",
+   "example": "The economy grew slowly last year.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "economic",
+   "word": "economic",
+   "ipa": "/ˌekəˈnɒmɪk/",
+   "pos": "adj.",
+   "zh": "經濟上的",
+   "example": "The economic cost of the flood was huge.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "economical",
+   "word": "economical",
+   "ipa": "/ˌekəˈnɒmɪkl/",
+   "pos": "adj.",
+   "zh": "省錢的",
+   "example": "The train is more economical than a taxi.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "finance",
+   "word": "finance",
+   "ipa": "/ˈfaɪnæns/",
+   "pos": "n.",
+   "zh": "財務；金融",
+   "example": "She studied finance at university.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "financial",
+   "word": "financial",
+   "ipa": "/faɪˈnænʃl/",
+   "pos": "adj.",
+   "zh": "財務的",
+   "example": "They made a financial plan before buying a flat.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "income",
+   "word": "income",
+   "ipa": "/ˈɪnkʌm/",
+   "pos": "n.",
+   "zh": "收入",
+   "example": "Rent takes a large part of their income.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "expense",
+   "word": "expense",
+   "ipa": "/ɪkˈspens/",
+   "pos": "n.",
+   "zh": "開支",
+   "example": "Travel is the biggest expense of the trip.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "budget",
+   "word": "budget",
+   "ipa": "/ˈbʌdʒɪt/",
+   "pos": "n.",
+   "zh": "預算",
+   "example": "We set a budget before we booked the hotel.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "tax",
+   "word": "tax",
+   "ipa": "/tæks/",
+   "pos": "n.",
+   "zh": "稅",
+   "example": "The tax on cigarettes went up in January.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "inflation",
+   "word": "inflation",
+   "ipa": "/ɪnˈfleɪʃn/",
+   "pos": "n.",
+   "zh": "通貨膨脹",
+   "example": "Inflation makes daily shopping more expensive.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "recession",
+   "word": "recession",
+   "ipa": "/rɪˈseʃn/",
+   "pos": "n.",
+   "zh": "經濟衰退",
+   "example": "During the recession many small shops closed.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "unemployment",
+   "word": "unemployment",
+   "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+   "pos": "n.",
+   "zh": "失業",
+   "example": "Youth unemployment is higher in rural towns.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "employment",
+   "word": "employment",
+   "ipa": "/ɪmˈplɔɪmənt/",
+   "pos": "n.",
+   "zh": "就業",
+   "example": "The new factory brought employment to the town.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "wage",
+   "word": "wage",
+   "ipa": "/weɪdʒ/",
+   "pos": "n.",
+   "zh": "工資",
+   "example": "The minimum wage rose at the start of the year.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "salary",
+   "word": "salary",
+   "ipa": "/ˈsæləri/",
+   "pos": "n.",
+   "zh": "薪水",
+   "example": "Her salary is paid on the last day of the month.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "profit",
+   "word": "profit",
+   "ipa": "/ˈprɒfɪt/",
+   "pos": "n.",
+   "zh": "利潤",
+   "example": "The cafe made a small profit in its first year.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "loss",
+   "word": "loss",
+   "ipa": "/lɒs/",
+   "pos": "n.",
+   "zh": "虧損",
+   "example": "The shop made a loss after the long roadworks.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "revenue",
+   "word": "revenue",
+   "ipa": "/ˈrevənjuː/",
+   "pos": "n.",
+   "zh": "營收",
+   "example": "Ticket sales are the museum's main revenue.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "investment",
+   "word": "investment",
+   "ipa": "/ɪnˈvestmənt/",
+   "pos": "n.",
+   "zh": "投資",
+   "example": "Education is an investment in the future.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "investor",
+   "word": "investor",
+   "ipa": "/ɪnˈvestə/",
+   "pos": "n.",
+   "zh": "投資人",
+   "example": "The investor asked for a clear business plan.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "capital",
+   "word": "capital",
+   "ipa": "/ˈkæpɪtl/",
+   "pos": "n.",
+   "zh": "資本",
+   "example": "The start-up needs more capital to hire staff.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "asset",
+   "word": "asset",
+   "ipa": "/ˈæset/",
+   "pos": "n.",
+   "zh": "資產",
+   "example": "A home is often a family's largest asset.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "debt",
+   "word": "debt",
+   "ipa": "/det/",
+   "pos": "n.",
+   "zh": "債務",
+   "example": "She is paying off the debt from her student years.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "loan",
+   "word": "loan",
+   "ipa": "/ləʊn/",
+   "pos": "n.",
+   "zh": "貸款",
+   "example": "They took out a loan to open the bakery.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "interest",
+   "word": "interest",
+   "ipa": "/ˈɪntrəst/",
+   "pos": "n.",
+   "zh": "利息；興趣",
+   "example": "The bank raised the interest rate again.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "credit",
+   "word": "credit",
+   "ipa": "/ˈkredɪt/",
+   "pos": "n.",
+   "zh": "信用",
+   "example": "A late payment can damage your credit.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "demand",
+   "word": "demand",
+   "ipa": "/dɪˈmɑːnd/",
+   "pos": "n.",
+   "zh": "需求",
+   "example": "Demand for rental flats is very high.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "supply",
+   "word": "supply",
+   "ipa": "/səˈplaɪ/",
+   "pos": "n.",
+   "zh": "供給",
+   "example": "When supply is low, prices usually rise.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "consume",
+   "word": "consume",
+   "ipa": "/kənˈsjuːm/",
+   "pos": "v.",
+   "zh": "消耗；消費",
+   "example": "Cars consume more fuel in heavy traffic.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "consumer",
+   "word": "consumer",
+   "ipa": "/kənˈsjuːmə/",
+   "pos": "n.",
+   "zh": "消費者",
+   "example": "A careful consumer compares prices.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "consumption",
+   "word": "consumption",
+   "ipa": "/kənˈsʌmpʃn/",
+   "pos": "n.",
+   "zh": "消費量",
+   "example": "Sugar consumption has fallen slightly.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "afford",
+   "word": "afford",
+   "ipa": "/əˈfɔːd/",
+   "pos": "v.",
+   "zh": "負擔得起",
+   "example": "Many young people cannot afford a flat near the centre.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "purchase",
+   "word": "purchase",
+   "ipa": "/ˈpɜːtʃəs/",
+   "pos": "v.",
+   "zh": "購買",
+   "example": "Think twice before you purchase something you do not need.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "retail",
+   "word": "retail",
+   "ipa": "/ˈriːteɪl/",
+   "pos": "n.",
+   "zh": "零售",
+   "example": "She works in retail at a department store.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "export",
+   "word": "export",
+   "ipa": "/ˈekspɔːt/",
+   "pos": "n.",
+   "zh": "出口",
+   "example": "Tea is an important export for the region.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "import",
+   "word": "import",
+   "ipa": "/ˈɪmpɔːt/",
+   "pos": "n.",
+   "zh": "進口",
+   "example": "Oil is a major import.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "trade",
+   "word": "trade",
+   "ipa": "/treɪd/",
+   "pos": "n.",
+   "zh": "貿易",
+   "example": "Trade between the two countries has increased.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "market",
+   "word": "market",
+   "ipa": "/ˈmɑːkɪt/",
+   "pos": "n.",
+   "zh": "市場",
+   "example": "The market for second-hand phones is busy.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "competition",
+   "word": "competition",
+   "ipa": "/ˌkɒmpəˈtɪʃn/",
+   "pos": "n.",
+   "zh": "競爭",
+   "example": "Competition keeps prices from rising too fast.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "monopoly",
+   "word": "monopoly",
+   "ipa": "/məˈnɒpəli/",
+   "pos": "n.",
+   "zh": "壟斷",
+   "example": "A monopoly can leave customers with no real choice.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "subsidy",
+   "word": "subsidy",
+   "ipa": "/ˈsʌbsədi/",
+   "pos": "n.",
+   "zh": "補貼",
+   "example": "The subsidy helps farmers after a bad harvest.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "tariff",
+   "word": "tariff",
+   "ipa": "/ˈtærɪf/",
+   "pos": "n.",
+   "zh": "關稅",
+   "example": "A higher tariff makes imported fruit more expensive.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "currency",
+   "word": "currency",
+   "ipa": "/ˈkʌrənsi/",
+   "pos": "n.",
+   "zh": "貨幣",
+   "example": "The local currency fell against the dollar.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "wealth",
+   "word": "wealth",
+   "ipa": "/welθ/",
+   "pos": "n.",
+   "zh": "財富",
+   "example": "Wealth is not shared evenly across the country.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "prosperity",
+   "word": "prosperity",
+   "ipa": "/prɒˈsperəti/",
+   "pos": "n.",
+   "zh": "繁榮",
+   "example": "Years of prosperity followed the new port.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "crisis",
+   "word": "crisis",
+   "ipa": "/ˈkraɪsɪs/",
+   "pos": "n.",
+   "zh": "危機",
+   "example": "The factory closure caused a local crisis.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "stable",
+   "word": "stable",
+   "ipa": "/ˈsteɪbl/",
+   "pos": "adj.",
+   "zh": "穩定的",
+   "example": "Prices stayed stable for most of the year.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "decline",
+   "word": "decline",
+   "ipa": "/dɪˈklaɪn/",
+   "pos": "v.",
+   "zh": "下降",
+   "example": "Sales decline when the weather is very hot.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "increase",
+   "word": "increase",
+   "ipa": "/ˈɪŋkriːs/",
+   "pos": "n.",
+   "zh": "增加",
+   "example": "There was a sharp increase in rent.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "decrease",
+   "word": "decrease",
+   "ipa": "/ˈdiːkriːs/",
+   "pos": "n.",
+   "zh": "減少",
+   "example": "The chart shows a decrease in car use.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "fluctuate",
+   "word": "fluctuate",
+   "ipa": "/ˈflʌktʃueɪt/",
+   "pos": "v.",
+   "zh": "波動",
+   "example": "Oil prices fluctuate from month to month.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "percentage",
+   "word": "percentage",
+   "ipa": "/pəˈsentɪdʒ/",
+   "pos": "n.",
+   "zh": "百分比",
+   "example": "Only a small percentage of waste is reused.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "statistic",
+   "word": "statistic",
+   "ipa": "/stəˈtɪstɪk/",
+   "pos": "n.",
+   "zh": "統計數字",
+   "example": "That statistic comes from the national survey.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "approximately",
+   "word": "approximately",
+   "ipa": "/əˈprɒksɪmətli/",
+   "pos": "adv.",
+   "zh": "大約",
+   "example": "Approximately half of the class walks to school.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "roughly",
+   "word": "roughly",
+   "ipa": "/ˈrʌfli/",
+   "pos": "adv.",
+   "zh": "大致",
+   "example": "The journey takes roughly forty minutes.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "dramatically",
+   "word": "dramatically",
+   "ipa": "/drəˈmætɪkli/",
+   "pos": "adv.",
+   "zh": "大幅地",
+   "example": "The number of visitors rose dramatically.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "gradually",
+   "word": "gradually",
+   "ipa": "/ˈɡrædʒuəli/",
+   "pos": "adv.",
+   "zh": "逐漸地",
+   "example": "The town has gradually become more crowded.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "sharply",
+   "word": "sharply",
+   "ipa": "/ˈʃɑːpli/",
+   "pos": "adv.",
+   "zh": "急遽地",
+   "example": "Unemployment fell sharply after the factory opened.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "steadily",
+   "word": "steadily",
+   "ipa": "/ˈstedəli/",
+   "pos": "adv.",
+   "zh": "穩定地",
+   "example": "Wages have risen steadily for five years.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "slightly",
+   "word": "slightly",
+   "ipa": "/ˈslaɪtli/",
+   "pos": "adv.",
+   "zh": "稍微",
+   "example": "The figure is slightly higher than last year.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "significantly",
+   "word": "significantly",
+   "ipa": "/sɪɡˈnɪfɪkəntli/",
+   "pos": "adv.",
+   "zh": "顯著地",
+   "example": "Air quality improved significantly.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "bargain",
+   "word": "bargain",
+   "ipa": "/ˈbɑːɡɪn/",
+   "pos": "n.",
+   "zh": "便宜貨；協議",
+   "example": "The shoes were a bargain in the sale.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "invoice",
+   "word": "invoice",
+   "ipa": "/ˈɪnvɔɪs/",
+   "pos": "n.",
+   "zh": "發票；請款單",
+   "example": "Please keep the invoice for your records.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "turnover",
+   "word": "turnover",
+   "ipa": "/ˈtɜːnəʊvə/",
+   "pos": "n.",
+   "zh": "營業額",
+   "example": "The cafe's turnover is higher at weekends.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "deficit",
+   "word": "deficit",
+   "ipa": "/ˈdefɪsɪt/",
+   "pos": "n.",
+   "zh": "赤字",
+   "example": "The club ended the year with a small deficit.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "surplus",
+   "word": "surplus",
+   "ipa": "/ˈsɜːpləs/",
+   "pos": "n.",
+   "zh": "盈餘",
+   "example": "A warm winter left a surplus of unsold coats.",
+   "unit": "economy",
+   "topic": "經濟"
+  },
+  {
+   "id": "society",
+   "word": "society",
+   "ipa": "/səˈsaɪəti/",
+   "pos": "n.",
+   "zh": "社會",
+   "example": "A fair society gives every child a chance to learn.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "citizen",
+   "word": "citizen",
+   "ipa": "/ˈsɪtɪzn/",
+   "pos": "n.",
+   "zh": "公民",
+   "example": "Every citizen over eighteen can vote.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "population",
+   "word": "population",
+   "ipa": "/ˌpɒpjuˈleɪʃn/",
+   "pos": "n.",
+   "zh": "人口",
+   "example": "The population of the city has grown quickly.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "generation",
+   "word": "generation",
+   "ipa": "/ˌdʒenəˈreɪʃn/",
+   "pos": "n.",
+   "zh": "世代",
+   "example": "The younger generation spends more time online.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "household",
+   "word": "household",
+   "ipa": "/ˈhaʊshəʊld/",
+   "pos": "n.",
+   "zh": "家戶",
+   "example": "The average household has three people.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "neighbour",
+   "word": "neighbour",
+   "ipa": "/ˈneɪbə/",
+   "pos": "n.",
+   "zh": "鄰居",
+   "example": "Our neighbour waters the plants when we travel.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "neighbourhood",
+   "word": "neighbourhood",
+   "ipa": "/ˈneɪbəhʊd/",
+   "pos": "n.",
+   "zh": "鄰里",
+   "example": "It is a quiet neighbourhood with a small park.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "suburb",
+   "word": "suburb",
+   "ipa": "/ˈsʌbɜːb/",
+   "pos": "n.",
+   "zh": "郊區",
+   "example": "They moved to a suburb because the rent was lower.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "facility",
+   "word": "facility",
+   "ipa": "/fəˈsɪləti/",
+   "pos": "n.",
+   "zh": "設施",
+   "example": "The sports facility is free for students.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "amenity",
+   "word": "amenity",
+   "ipa": "/əˈmiːnəti/",
+   "pos": "n.",
+   "zh": "生活便利設施",
+   "example": "A nearby supermarket is a useful amenity.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "housing",
+   "word": "housing",
+   "ipa": "/ˈhaʊzɪŋ/",
+   "pos": "n.",
+   "zh": "住房",
+   "example": "Affordable housing is hard to find near the centre.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "rent",
+   "word": "rent",
+   "ipa": "/rent/",
+   "pos": "n.",
+   "zh": "租金",
+   "example": "The rent rose again this year.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "mortgage",
+   "word": "mortgage",
+   "ipa": "/ˈmɔːɡɪdʒ/",
+   "pos": "n.",
+   "zh": "房屋貸款",
+   "example": "They pay the mortgage on the first of each month.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "landlord",
+   "word": "landlord",
+   "ipa": "/ˈlændlɔːd/",
+   "pos": "n.",
+   "zh": "房東",
+   "example": "The landlord repaired the broken window.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "tenant",
+   "word": "tenant",
+   "ipa": "/ˈtenənt/",
+   "pos": "n.",
+   "zh": "房客",
+   "example": "The tenant reported the leak at once.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "crowded",
+   "word": "crowded",
+   "ipa": "/ˈkraʊdɪd/",
+   "pos": "adj.",
+   "zh": "擁擠的",
+   "example": "The train is crowded at half past eight.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "isolated",
+   "word": "isolated",
+   "ipa": "/ˈaɪsəleɪtɪd/",
+   "pos": "adj.",
+   "zh": "孤立的",
+   "example": "Older people can feel isolated if they live alone.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "diverse",
+   "word": "diverse",
+   "ipa": "/daɪˈvɜːs/",
+   "pos": "adj.",
+   "zh": "多元的",
+   "example": "The class is diverse, with students from many cities.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "diversity",
+   "word": "diversity",
+   "ipa": "/daɪˈvɜːsəti/",
+   "pos": "n.",
+   "zh": "多樣性",
+   "example": "Cultural diversity makes the festival more interesting.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "tradition",
+   "word": "tradition",
+   "ipa": "/trəˈdɪʃn/",
+   "pos": "n.",
+   "zh": "傳統",
+   "example": "Sharing a big meal is a family tradition.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "custom",
+   "word": "custom",
+   "ipa": "/ˈkʌstəm/",
+   "pos": "n.",
+   "zh": "習俗",
+   "example": "Taking off your shoes indoors is a common custom.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "attitude",
+   "word": "attitude",
+   "ipa": "/ˈætɪtjuːd/",
+   "pos": "n.",
+   "zh": "態度",
+   "example": "A positive attitude makes a hard task easier.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "behaviour",
+   "word": "behaviour",
+   "ipa": "/bɪˈheɪvjə/",
+   "pos": "n.",
+   "zh": "行為",
+   "example": "Kind behaviour costs nothing.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "norm",
+   "word": "norm",
+   "ipa": "/nɔːm/",
+   "pos": "n.",
+   "zh": "常規；規範",
+   "example": "It is the norm to queue for the bus.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "prejudice",
+   "word": "prejudice",
+   "ipa": "/ˈpredʒudɪs/",
+   "pos": "n.",
+   "zh": "偏見",
+   "example": "Prejudice often comes from a lack of contact.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "discrimination",
+   "word": "discrimination",
+   "ipa": "/dɪˌskrɪmɪˈneɪʃn/",
+   "pos": "n.",
+   "zh": "歧視",
+   "example": "The law bans discrimination at work.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "equality",
+   "word": "equality",
+   "ipa": "/iˈkwɒləti/",
+   "pos": "n.",
+   "zh": "平等",
+   "example": "Equality means the same rules for everyone.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "responsibility",
+   "word": "responsibility",
+   "ipa": "/rɪˌspɒnsəˈbɪləti/",
+   "pos": "n.",
+   "zh": "責任",
+   "example": "It is your responsibility to arrive on time.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "duty",
+   "word": "duty",
+   "ipa": "/ˈdjuːti/",
+   "pos": "n.",
+   "zh": "義務",
+   "example": "Parents have a duty to keep their children safe.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "homeless",
+   "word": "homeless",
+   "ipa": "/ˈhəʊmləs/",
+   "pos": "adj.",
+   "zh": "無家可歸的",
+   "example": "The shelter gives homeless people a bed for the night.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "migrant",
+   "word": "migrant",
+   "ipa": "/ˈmaɪɡrənt/",
+   "pos": "n.",
+   "zh": "移居者",
+   "example": "A migrant worker may send money home.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "immigrant",
+   "word": "immigrant",
+   "ipa": "/ˈɪmɪɡrənt/",
+   "pos": "n.",
+   "zh": "外來移民",
+   "example": "The immigrant opened a small grocery shop.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "refugee",
+   "word": "refugee",
+   "ipa": "/ˌrefjuˈdʒiː/",
+   "pos": "n.",
+   "zh": "難民",
+   "example": "The refugee needed a safe place to live.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "integrate",
+   "word": "integrate",
+   "ipa": "/ˈɪntɪɡreɪt/",
+   "pos": "v.",
+   "zh": "融入",
+   "example": "Language classes help newcomers integrate.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "tolerate",
+   "word": "tolerate",
+   "ipa": "/ˈtɒləreɪt/",
+   "pos": "v.",
+   "zh": "容忍",
+   "example": "A city has to tolerate different ways of living.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "respect",
+   "word": "respect",
+   "ipa": "/rɪˈspekt/",
+   "pos": "v.",
+   "zh": "尊重",
+   "example": "We should respect opinions we do not share.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "public",
+   "word": "public",
+   "ipa": "/ˈpʌblɪk/",
+   "pos": "adj.",
+   "zh": "公共的",
+   "example": "The public park closes at ten.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "private",
+   "word": "private",
+   "ipa": "/ˈpraɪvət/",
+   "pos": "adj.",
+   "zh": "私人的",
+   "example": "This is a private road, not a public one.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "campaign",
+   "word": "campaign",
+   "ipa": "/kæmˈpeɪn/",
+   "pos": "n.",
+   "zh": "宣傳活動",
+   "example": "The campaign asked people to use less plastic.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "protest",
+   "word": "protest",
+   "ipa": "/ˈprəʊtest/",
+   "pos": "n.",
+   "zh": "抗議",
+   "example": "The protest was loud but peaceful.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "petition",
+   "word": "petition",
+   "ipa": "/pəˈtɪʃn/",
+   "pos": "n.",
+   "zh": "請願",
+   "example": "They started a petition for a safer crossing.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "mayor",
+   "word": "mayor",
+   "ipa": "/meə/",
+   "pos": "n.",
+   "zh": "市長",
+   "example": "The mayor opened the new library.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "council",
+   "word": "council",
+   "ipa": "/ˈkaʊnsl/",
+   "pos": "n.",
+   "zh": "議會",
+   "example": "The council will vote on the bus plan.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "welfare",
+   "word": "welfare",
+   "ipa": "/ˈwelfeə/",
+   "pos": "n.",
+   "zh": "福利",
+   "example": "Welfare payments help families on a low income.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "belong",
+   "word": "belong",
+   "ipa": "/bɪˈlɒŋ/",
+   "pos": "v.",
+   "zh": "屬於；有歸屬感",
+   "example": "Children need a place where they belong.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "neighbourly",
+   "word": "neighbourly",
+   "ipa": "/ˈneɪbəli/",
+   "pos": "adj.",
+   "zh": "睦鄰的",
+   "example": "A neighbourly chat can brighten a day.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "overcrowd",
+   "word": "overcrowd",
+   "ipa": "/ˌəʊvəˈkraʊd/",
+   "pos": "v.",
+   "zh": "使過度擁擠",
+   "example": "Too many cars overcrowd the old streets.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "demography",
+   "word": "demography",
+   "ipa": "/dɪˈmɒɡrəfi/",
+   "pos": "n.",
+   "zh": "人口統計",
+   "example": "Demography shows that the town is getting older.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "urbanisation",
+   "word": "urbanisation",
+   "ipa": "/ˌɜːbənaɪˈzeɪʃn/",
+   "pos": "n.",
+   "zh": "都市化",
+   "example": "Urbanisation pulls young people towards big cities.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "commuter",
+   "word": "commuter",
+   "ipa": "/kəˈmjuːtə/",
+   "pos": "n.",
+   "zh": "通勤者",
+   "example": "The commuter catches the same train every morning.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "pavement",
+   "word": "pavement",
+   "ipa": "/ˈpeɪvmənt/",
+   "pos": "n.",
+   "zh": "人行道",
+   "example": "The pavement is wide enough for a wheelchair.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "alley",
+   "word": "alley",
+   "ipa": "/ˈæli/",
+   "pos": "n.",
+   "zh": "巷子",
+   "example": "The noodle shop is down a small alley.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "skyline",
+   "word": "skyline",
+   "ipa": "/ˈskaɪlaɪn/",
+   "pos": "n.",
+   "zh": "天際線",
+   "example": "The skyline is full of new towers.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "suburbia",
+   "word": "suburbia",
+   "ipa": "/səˈbɜːbiə/",
+   "pos": "n.",
+   "zh": "郊區生活",
+   "example": "Life in suburbia is quieter than life downtown.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "downtown",
+   "word": "downtown",
+   "ipa": "/ˌdaʊnˈtaʊn/",
+   "pos": "n.",
+   "zh": "市中心",
+   "example": "Downtown is busy, but the shops stay open late.",
+   "unit": "society",
+   "topic": "社會"
+  },
+  {
+   "id": "culture",
+   "word": "culture",
+   "ipa": "/ˈkʌltʃə/",
+   "pos": "n.",
+   "zh": "文化",
+   "example": "Food is a living part of culture.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "cultural",
+   "word": "cultural",
+   "ipa": "/ˈkʌltʃərəl/",
+   "pos": "adj.",
+   "zh": "文化的",
+   "example": "The museum has a rich cultural programme.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "heritage",
+   "word": "heritage",
+   "ipa": "/ˈherɪtɪdʒ/",
+   "pos": "n.",
+   "zh": "遺產",
+   "example": "The old street is part of the city's heritage.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "festival",
+   "word": "festival",
+   "ipa": "/ˈfestɪvl/",
+   "pos": "n.",
+   "zh": "節慶",
+   "example": "The lantern festival fills the park with light.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "ceremony",
+   "word": "ceremony",
+   "ipa": "/ˈserəməni/",
+   "pos": "n.",
+   "zh": "典禮",
+   "example": "The opening ceremony lasted for an hour.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "ritual",
+   "word": "ritual",
+   "ipa": "/ˈrɪtʃuəl/",
+   "pos": "n.",
+   "zh": "儀式",
+   "example": "Making tea can be a quiet daily ritual.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "belief",
+   "word": "belief",
+   "ipa": "/bɪˈliːf/",
+   "pos": "n.",
+   "zh": "信念",
+   "example": "Her belief in hard work never changed.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "religion",
+   "word": "religion",
+   "ipa": "/rɪˈlɪdʒən/",
+   "pos": "n.",
+   "zh": "宗教",
+   "example": "People of every religion joined the parade.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "identity",
+   "word": "identity",
+   "ipa": "/aɪˈdentəti/",
+   "pos": "n.",
+   "zh": "身分認同",
+   "example": "Language is part of a person's identity.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "globalisation",
+   "word": "globalisation",
+   "ipa": "/ˌɡləʊbəlaɪˈzeɪʃn/",
+   "pos": "n.",
+   "zh": "全球化",
+   "example": "Globalisation makes foreign products easy to buy.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "local",
+   "word": "local",
+   "ipa": "/ˈləʊkl/",
+   "pos": "adj.",
+   "zh": "當地的",
+   "example": "We buy fruit at the local market.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "foreign",
+   "word": "foreign",
+   "ipa": "/ˈfɒrən/",
+   "pos": "adj.",
+   "zh": "外國的",
+   "example": "She enjoys foreign films with subtitles.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "native",
+   "word": "native",
+   "ipa": "/ˈneɪtɪv/",
+   "pos": "adj.",
+   "zh": "本地的；母語的",
+   "example": "Mandarin is his native language.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "language",
+   "word": "language",
+   "ipa": "/ˈlæŋɡwɪdʒ/",
+   "pos": "n.",
+   "zh": "語言",
+   "example": "Body language can say as much as words.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "dialect",
+   "word": "dialect",
+   "ipa": "/ˈdaɪəlekt/",
+   "pos": "n.",
+   "zh": "方言",
+   "example": "The dialect changes from one town to the next.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "translate",
+   "word": "translate",
+   "ipa": "/trænzˈleɪt/",
+   "pos": "v.",
+   "zh": "翻譯",
+   "example": "Please translate the sign into plain English.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "literature",
+   "word": "literature",
+   "ipa": "/ˈlɪtrətʃə/",
+   "pos": "n.",
+   "zh": "文學",
+   "example": "She studies modern literature.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "novel",
+   "word": "novel",
+   "ipa": "/ˈnɒvl/",
+   "pos": "n.",
+   "zh": "小說",
+   "example": "The novel is set in a fishing village.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "poetry",
+   "word": "poetry",
+   "ipa": "/ˈpəʊətri/",
+   "pos": "n.",
+   "zh": "詩",
+   "example": "He reads poetry on the bus.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "museum",
+   "word": "museum",
+   "ipa": "/mjuˈziːəm/",
+   "pos": "n.",
+   "zh": "博物館",
+   "example": "The museum is free on Saturday morning.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "gallery",
+   "word": "gallery",
+   "ipa": "/ˈɡæləri/",
+   "pos": "n.",
+   "zh": "美術館",
+   "example": "The gallery is showing photographs of the harbour.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "exhibition",
+   "word": "exhibition",
+   "ipa": "/ˌeksɪˈbɪʃn/",
+   "pos": "n.",
+   "zh": "展覽",
+   "example": "The exhibition closes at the end of the month.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "performance",
+   "word": "performance",
+   "ipa": "/pəˈfɔːməns/",
+   "pos": "n.",
+   "zh": "表演",
+   "example": "The performance started ten minutes late.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "audience",
+   "word": "audience",
+   "ipa": "/ˈɔːdiəns/",
+   "pos": "n.",
+   "zh": "觀眾",
+   "example": "The audience clapped for a long time.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "entertainment",
+   "word": "entertainment",
+   "ipa": "/ˌentəˈteɪnmənt/",
+   "pos": "n.",
+   "zh": "娛樂",
+   "example": "There is little entertainment in the small town.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "leisure",
+   "word": "leisure",
+   "ipa": "/ˈleʒə/",
+   "pos": "n.",
+   "zh": "休閒",
+   "example": "Reading is her favourite leisure activity.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "hobby",
+   "word": "hobby",
+   "ipa": "/ˈhɒbi/",
+   "pos": "n.",
+   "zh": "嗜好",
+   "example": "Cooking became his hobby during the lockdown.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "advertisement",
+   "word": "advertisement",
+   "ipa": "/ədˈvɜːtɪsmənt/",
+   "pos": "n.",
+   "zh": "廣告",
+   "example": "The advertisement made the job sound easier than it is.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "advertise",
+   "word": "advertise",
+   "ipa": "/ˈædvətaɪz/",
+   "pos": "v.",
+   "zh": "打廣告",
+   "example": "They advertise the course on social media.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "journalist",
+   "word": "journalist",
+   "ipa": "/ˈdʒɜːnəlɪst/",
+   "pos": "n.",
+   "zh": "記者",
+   "example": "The journalist asked a short, clear question.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "headline",
+   "word": "headline",
+   "ipa": "/ˈhedlaɪn/",
+   "pos": "n.",
+   "zh": "標題",
+   "example": "The headline was more dramatic than the article.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "celebrity",
+   "word": "celebrity",
+   "ipa": "/səˈlebrəti/",
+   "pos": "n.",
+   "zh": "名人",
+   "example": "The celebrity avoided the cameras.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "influence",
+   "word": "influence",
+   "ipa": "/ˈɪnfluəns/",
+   "pos": "n.",
+   "zh": "影響",
+   "example": "Parents have a strong influence on reading habits.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "impact",
+   "word": "impact",
+   "ipa": "/ˈɪmpækt/",
+   "pos": "n.",
+   "zh": "影響；衝擊",
+   "example": "The film had a deep impact on her.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "fashion",
+   "word": "fashion",
+   "ipa": "/ˈfæʃn/",
+   "pos": "n.",
+   "zh": "時尚",
+   "example": "Fashion changes faster than most people can follow.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "ancient",
+   "word": "ancient",
+   "ipa": "/ˈeɪnʃənt/",
+   "pos": "adj.",
+   "zh": "古代的",
+   "example": "The ancient temple is still in use.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "modern",
+   "word": "modern",
+   "ipa": "/ˈmɒdn/",
+   "pos": "adj.",
+   "zh": "現代的",
+   "example": "The modern building sits next to an old house.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "contemporary",
+   "word": "contemporary",
+   "ipa": "/kənˈtemprəri/",
+   "pos": "adj.",
+   "zh": "當代的",
+   "example": "The gallery favours contemporary art.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "traditional",
+   "word": "traditional",
+   "ipa": "/trəˈdɪʃənl/",
+   "pos": "adj.",
+   "zh": "傳統的",
+   "example": "The restaurant serves traditional breakfast.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "symbol",
+   "word": "symbol",
+   "ipa": "/ˈsɪmbl/",
+   "pos": "n.",
+   "zh": "象徵",
+   "example": "The dove is a symbol of peace.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "represent",
+   "word": "represent",
+   "ipa": "/ˌreprɪˈzent/",
+   "pos": "v.",
+   "zh": "代表",
+   "example": "The colours represent the four seasons.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "celebrate",
+   "word": "celebrate",
+   "ipa": "/ˈselɪbreɪt/",
+   "pos": "v.",
+   "zh": "慶祝",
+   "example": "Families celebrate the new year with a big meal.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "appreciate",
+   "word": "appreciate",
+   "ipa": "/əˈpriːʃieɪt/",
+   "pos": "v.",
+   "zh": "欣賞；感激",
+   "example": "I appreciate the time you spent helping me.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "inspire",
+   "word": "inspire",
+   "ipa": "/ɪnˈspaɪə/",
+   "pos": "v.",
+   "zh": "啟發",
+   "example": "The teacher hoped to inspire a love of reading.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "broadcast",
+   "word": "broadcast",
+   "ipa": "/ˈbrɔːdkɑːst/",
+   "pos": "v.",
+   "zh": "廣播",
+   "example": "The station will broadcast the match live.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "censorship",
+   "word": "censorship",
+   "ipa": "/ˈsensəʃɪp/",
+   "pos": "n.",
+   "zh": "審查",
+   "example": "Censorship can hide information the public needs.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "commercial",
+   "word": "commercial",
+   "ipa": "/kəˈmɜːʃl/",
+   "pos": "adj.",
+   "zh": "商業的",
+   "example": "The commercial break lasted three minutes.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "media",
+   "word": "media",
+   "ipa": "/ˈmiːdiə/",
+   "pos": "n.",
+   "zh": "媒體",
+   "example": "Social media spreads a story within minutes.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "subtitle",
+   "word": "subtitle",
+   "ipa": "/ˈsʌbtaɪtl/",
+   "pos": "n.",
+   "zh": "字幕",
+   "example": "I use a subtitle when the accent is new to me.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "folklore",
+   "word": "folklore",
+   "ipa": "/ˈfəʊklɔː/",
+   "pos": "n.",
+   "zh": "民間傳說",
+   "example": "The story comes from local folklore.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "costume",
+   "word": "costume",
+   "ipa": "/ˈkɒstjuːm/",
+   "pos": "n.",
+   "zh": "戲服；傳統服裝",
+   "example": "The dancers wore a bright costume.",
+   "unit": "culture",
+   "topic": "文化"
+  },
+  {
+   "id": "government",
+   "word": "government",
+   "ipa": "/ˈɡʌvənmənt/",
+   "pos": "n.",
+   "zh": "政府",
+   "example": "The government announced a new housing plan.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "authority",
+   "word": "authority",
+   "ipa": "/ɔːˈθɒrəti/",
+   "pos": "n.",
+   "zh": "當局；權威",
+   "example": "The local authority runs the buses.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "official",
+   "word": "official",
+   "ipa": "/əˈfɪʃl/",
+   "pos": "n.",
+   "zh": "官員",
+   "example": "An official explained the new rule.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "policy",
+   "word": "policy",
+   "ipa": "/ˈpɒləsi/",
+   "pos": "n.",
+   "zh": "政策",
+   "example": "The policy aims to cut traffic in the centre.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "regulation",
+   "word": "regulation",
+   "ipa": "/ˌreɡjuˈleɪʃn/",
+   "pos": "n.",
+   "zh": "規定",
+   "example": "The regulation limits noise after ten at night.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "election",
+   "word": "election",
+   "ipa": "/ɪˈlekʃn/",
+   "pos": "n.",
+   "zh": "選舉",
+   "example": "The election will be held in November.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "democracy",
+   "word": "democracy",
+   "ipa": "/dɪˈmɒkrəsi/",
+   "pos": "n.",
+   "zh": "民主",
+   "example": "In a democracy, people can change their leaders.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "crime",
+   "word": "crime",
+   "ipa": "/kraɪm/",
+   "pos": "n.",
+   "zh": "犯罪",
+   "example": "Street lights can reduce crime on a dark road.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "criminal",
+   "word": "criminal",
+   "ipa": "/ˈkrɪmɪnl/",
+   "pos": "n.",
+   "zh": "罪犯",
+   "example": "The criminal was caught on camera.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "victim",
+   "word": "victim",
+   "ipa": "/ˈvɪktɪm/",
+   "pos": "n.",
+   "zh": "受害者",
+   "example": "The victim asked for a safer crossing.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "punishment",
+   "word": "punishment",
+   "ipa": "/ˈpʌnɪʃmənt/",
+   "pos": "n.",
+   "zh": "懲罰",
+   "example": "A fine is a lighter punishment than prison.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "fine",
+   "word": "fine",
+   "ipa": "/faɪn/",
+   "pos": "n.",
+   "zh": "罰款",
+   "example": "He paid a fine for parking on the pavement.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "ban",
+   "word": "ban",
+   "ipa": "/bæn/",
+   "pos": "v.",
+   "zh": "禁止",
+   "example": "The city will ban smoking in all parks.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "permit",
+   "word": "permit",
+   "ipa": "/pəˈmɪt/",
+   "pos": "v.",
+   "zh": "允許",
+   "example": "The rules permit photos, but not flash.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "justice",
+   "word": "justice",
+   "ipa": "/ˈdʒʌstɪs/",
+   "pos": "n.",
+   "zh": "正義；司法",
+   "example": "People expect justice to be fair and open.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "parliament",
+   "word": "parliament",
+   "ipa": "/ˈpɑːləmənt/",
+   "pos": "n.",
+   "zh": "國會",
+   "example": "Parliament will debate the bill next week.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "legislation",
+   "word": "legislation",
+   "ipa": "/ˌledʒɪˈsleɪʃn/",
+   "pos": "n.",
+   "zh": "法律；立法",
+   "example": "New legislation protects renters.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "court",
+   "word": "court",
+   "ipa": "/kɔːt/",
+   "pos": "n.",
+   "zh": "法院",
+   "example": "The case will be heard in court.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "judge",
+   "word": "judge",
+   "ipa": "/dʒʌdʒ/",
+   "pos": "n.",
+   "zh": "法官",
+   "example": "The judge asked the witness to speak slowly.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "lawyer",
+   "word": "lawyer",
+   "ipa": "/ˈlɔːjə/",
+   "pos": "n.",
+   "zh": "律師",
+   "example": "The lawyer explained the contract in plain words.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "legal",
+   "word": "legal",
+   "ipa": "/ˈliːɡl/",
+   "pos": "adj.",
+   "zh": "合法的；法律的",
+   "example": "You need legal advice before you sign.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "illegal",
+   "word": "illegal",
+   "ipa": "/ɪˈliːɡl/",
+   "pos": "adj.",
+   "zh": "違法的",
+   "example": "It is illegal to drive without a licence.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "constitution",
+   "word": "constitution",
+   "ipa": "/ˌkɒnstɪˈtjuːʃn/",
+   "pos": "n.",
+   "zh": "憲法",
+   "example": "The constitution protects freedom of speech.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "prison",
+   "word": "prison",
+   "ipa": "/ˈprɪzn/",
+   "pos": "n.",
+   "zh": "監獄",
+   "example": "He spent a year in prison.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "witness",
+   "word": "witness",
+   "ipa": "/ˈwɪtnəs/",
+   "pos": "n.",
+   "zh": "證人",
+   "example": "The witness described the car.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "guilty",
+   "word": "guilty",
+   "ipa": "/ˈɡɪlti/",
+   "pos": "adj.",
+   "zh": "有罪的",
+   "example": "The jury found him guilty.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "innocent",
+   "word": "innocent",
+   "ipa": "/ˈɪnəsnt/",
+   "pos": "adj.",
+   "zh": "無罪的",
+   "example": "She said she was innocent.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "freedom",
+   "word": "freedom",
+   "ipa": "/ˈfriːdəm/",
+   "pos": "n.",
+   "zh": "自由",
+   "example": "Freedom of the press matters in a democracy.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "liberty",
+   "word": "liberty",
+   "ipa": "/ˈlɪbəti/",
+   "pos": "n.",
+   "zh": "自由",
+   "example": "The law should not take away liberty without a reason.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "corruption",
+   "word": "corruption",
+   "ipa": "/kəˈrʌpʃn/",
+   "pos": "n.",
+   "zh": "貪腐",
+   "example": "Corruption wastes public money.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "reform",
+   "word": "reform",
+   "ipa": "/rɪˈfɔːm/",
+   "pos": "n.",
+   "zh": "改革",
+   "example": "The reform made the tax system simpler.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "minister",
+   "word": "minister",
+   "ipa": "/ˈmɪnɪstə/",
+   "pos": "n.",
+   "zh": "部長",
+   "example": "The health minister visited the hospital.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "enforce",
+   "word": "enforce",
+   "ipa": "/ɪnˈfɔːs/",
+   "pos": "v.",
+   "zh": "執行",
+   "example": "Police enforce the speed limit near schools.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "treaty",
+   "word": "treaty",
+   "ipa": "/ˈtriːti/",
+   "pos": "n.",
+   "zh": "條約",
+   "example": "The two countries signed a trade treaty.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "sanction",
+   "word": "sanction",
+   "ipa": "/ˈsæŋkʃn/",
+   "pos": "n.",
+   "zh": "制裁",
+   "example": "A sanction can limit what a country may export.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "border",
+   "word": "border",
+   "ipa": "/ˈbɔːdə/",
+   "pos": "n.",
+   "zh": "邊界",
+   "example": "You show your passport at the border.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "security",
+   "word": "security",
+   "ipa": "/sɪˈkjʊərəti/",
+   "pos": "n.",
+   "zh": "安全；保全",
+   "example": "Airport security checked every bag.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "military",
+   "word": "military",
+   "ipa": "/ˈmɪlɪtri/",
+   "pos": "adj.",
+   "zh": "軍事的",
+   "example": "Military service is not required here.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "civil",
+   "word": "civil",
+   "ipa": "/ˈsɪvl/",
+   "pos": "adj.",
+   "zh": "公民的；民事的",
+   "example": "Civil rights include the right to a fair trial.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "obligation",
+   "word": "obligation",
+   "ipa": "/ˌɒblɪˈɡeɪʃn/",
+   "pos": "n.",
+   "zh": "義務",
+   "example": "Tenants have an obligation to pay the rent.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "jury",
+   "word": "jury",
+   "ipa": "/ˈdʒʊəri/",
+   "pos": "n.",
+   "zh": "陪審團",
+   "example": "The jury reached a decision after two hours.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "ballot",
+   "word": "ballot",
+   "ipa": "/ˈbælət/",
+   "pos": "n.",
+   "zh": "選票",
+   "example": "She put her ballot in the box.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "candidate",
+   "word": "candidate",
+   "ipa": "/ˈkændɪdət/",
+   "pos": "n.",
+   "zh": "候選人",
+   "example": "Each candidate gave a three-minute speech.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "governor",
+   "word": "governor",
+   "ipa": "/ˈɡʌvənə/",
+   "pos": "n.",
+   "zh": "州長；總督",
+   "example": "The governor signed the bill.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "bureaucracy",
+   "word": "bureaucracy",
+   "ipa": "/bjʊəˈrɒkrəsi/",
+   "pos": "n.",
+   "zh": "官僚體系",
+   "example": "Bureaucracy can make a simple form very slow.",
+   "unit": "government",
+   "topic": "政府"
+  },
+  {
+   "id": "science",
+   "word": "science",
+   "ipa": "/ˈsaɪəns/",
+   "pos": "n.",
+   "zh": "科學",
+   "example": "Science helps us test ideas instead of only believing them.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "scientific",
+   "word": "scientific",
+   "ipa": "/ˌsaɪənˈtɪfɪk/",
+   "pos": "adj.",
+   "zh": "科學的",
+   "example": "A scientific claim needs evidence.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "scientist",
+   "word": "scientist",
+   "ipa": "/ˈsaɪəntɪst/",
+   "pos": "n.",
+   "zh": "科學家",
+   "example": "The scientist explained the result in simple words.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "variable",
+   "word": "variable",
+   "ipa": "/ˈveəriəbl/",
+   "pos": "n.",
+   "zh": "變數",
+   "example": "Temperature was the only variable they changed.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "sample",
+   "word": "sample",
+   "ipa": "/ˈsɑːmpl/",
+   "pos": "n.",
+   "zh": "樣本",
+   "example": "The sample included two hundred adults.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "survey",
+   "word": "survey",
+   "ipa": "/ˈsɜːveɪ/",
+   "pos": "n.",
+   "zh": "調查",
+   "example": "The survey asked how often people take the bus.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "questionnaire",
+   "word": "questionnaire",
+   "ipa": "/ˌkwestʃəˈneə/",
+   "pos": "n.",
+   "zh": "問卷",
+   "example": "Please complete the questionnaire before you leave.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "respondent",
+   "word": "respondent",
+   "ipa": "/rɪˈspɒndənt/",
+   "pos": "n.",
+   "zh": "受訪者",
+   "example": "Each respondent remained anonymous.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "statistics",
+   "word": "statistics",
+   "ipa": "/stəˈtɪstɪks/",
+   "pos": "n.",
+   "zh": "統計學；統計資料",
+   "example": "The statistics come from last year's census.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "average",
+   "word": "average",
+   "ipa": "/ˈævərɪdʒ/",
+   "pos": "n.",
+   "zh": "平均",
+   "example": "The average score was six out of ten.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "median",
+   "word": "median",
+   "ipa": "/ˈmiːdiən/",
+   "pos": "n.",
+   "zh": "中位數",
+   "example": "The median age in the village is forty-two.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "correlation",
+   "word": "correlation",
+   "ipa": "/ˌkɒrəˈleɪʃn/",
+   "pos": "n.",
+   "zh": "相關",
+   "example": "There is a correlation between exercise and mood.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "consequence",
+   "word": "consequence",
+   "ipa": "/ˈkɒnsɪkwəns/",
+   "pos": "n.",
+   "zh": "後果",
+   "example": "One consequence of the delay was a missed flight.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "random",
+   "word": "random",
+   "ipa": "/ˈrændəm/",
+   "pos": "adj.",
+   "zh": "隨機的",
+   "example": "The names were chosen in random order.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "publish",
+   "word": "publish",
+   "ipa": "/ˈpʌblɪʃ/",
+   "pos": "v.",
+   "zh": "發表",
+   "example": "They will publish the findings in a journal.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "journal",
+   "word": "journal",
+   "ipa": "/ˈdʒɜːnl/",
+   "pos": "n.",
+   "zh": "期刊",
+   "example": "The article appeared in a medical journal.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "cite",
+   "word": "cite",
+   "ipa": "/saɪt/",
+   "pos": "v.",
+   "zh": "引用",
+   "example": "You should cite the source of every figure.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "reference",
+   "word": "reference",
+   "ipa": "/ˈrefrəns/",
+   "pos": "n.",
+   "zh": "參考文獻",
+   "example": "The reference list comes at the end of the essay.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "procedure",
+   "word": "procedure",
+   "ipa": "/prəˈsiːdʒə/",
+   "pos": "n.",
+   "zh": "程序",
+   "example": "Follow the same procedure in every trial.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "observation",
+   "word": "observation",
+   "ipa": "/ˌɒbzəˈveɪʃn/",
+   "pos": "n.",
+   "zh": "觀察",
+   "example": "Careful observation comes before a conclusion.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "phenomenon",
+   "word": "phenomenon",
+   "ipa": "/fəˈnɒmɪnən/",
+   "pos": "n.",
+   "zh": "現象",
+   "example": "Lightning is a natural phenomenon.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "molecule",
+   "word": "molecule",
+   "ipa": "/ˈmɒlɪkjuːl/",
+   "pos": "n.",
+   "zh": "分子",
+   "example": "A water molecule contains hydrogen and oxygen.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "atom",
+   "word": "atom",
+   "ipa": "/ˈætəm/",
+   "pos": "n.",
+   "zh": "原子",
+   "example": "An atom is far too small to see.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "cell",
+   "word": "cell",
+   "ipa": "/sel/",
+   "pos": "n.",
+   "zh": "細胞",
+   "example": "The cell divides into two.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "gene",
+   "word": "gene",
+   "ipa": "/dʒiːn/",
+   "pos": "n.",
+   "zh": "基因",
+   "example": "A gene can influence eye colour.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "genetic",
+   "word": "genetic",
+   "ipa": "/dʒəˈnetɪk/",
+   "pos": "adj.",
+   "zh": "基因的",
+   "example": "Genetic research moves very quickly.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "evolution",
+   "word": "evolution",
+   "ipa": "/ˌiːvəˈluːʃn/",
+   "pos": "n.",
+   "zh": "演化",
+   "example": "Evolution explains why species change over time.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "gravity",
+   "word": "gravity",
+   "ipa": "/ˈɡrævəti/",
+   "pos": "n.",
+   "zh": "重力",
+   "example": "Gravity pulls the ball back to the ground.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "chemical",
+   "word": "chemical",
+   "ipa": "/ˈkemɪkl/",
+   "pos": "n.",
+   "zh": "化學物質",
+   "example": "The chemical must be stored in a closed bottle.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "reaction",
+   "word": "reaction",
+   "ipa": "/riˈækʃn/",
+   "pos": "n.",
+   "zh": "反應",
+   "example": "The reaction produced heat.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "substance",
+   "word": "substance",
+   "ipa": "/ˈsʌbstəns/",
+   "pos": "n.",
+   "zh": "物質",
+   "example": "The substance is harmless in small amounts.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "particle",
+   "word": "particle",
+   "ipa": "/ˈpɑːtɪkl/",
+   "pos": "n.",
+   "zh": "微粒",
+   "example": "A dust particle can carry bacteria.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "microscope",
+   "word": "microscope",
+   "ipa": "/ˈmaɪkrəskəʊp/",
+   "pos": "n.",
+   "zh": "顯微鏡",
+   "example": "We looked at the leaf under a microscope.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "conduct",
+   "word": "conduct",
+   "ipa": "/kənˈdʌkt/",
+   "pos": "v.",
+   "zh": "進行",
+   "example": "The team will conduct the survey in March.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "demonstrate",
+   "word": "demonstrate",
+   "ipa": "/ˈdemənstreɪt/",
+   "pos": "v.",
+   "zh": "證明；示範",
+   "example": "These figures demonstrate a clear rise.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "confirm",
+   "word": "confirm",
+   "ipa": "/kənˈfɜːm/",
+   "pos": "v.",
+   "zh": "確認",
+   "example": "Further tests confirm the first result.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "contradict",
+   "word": "contradict",
+   "ipa": "/ˌkɒntrəˈdɪkt/",
+   "pos": "v.",
+   "zh": "與…矛盾",
+   "example": "These two reports contradict each other.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "apparent",
+   "word": "apparent",
+   "ipa": "/əˈpærənt/",
+   "pos": "adj.",
+   "zh": "明顯的；表面上的",
+   "example": "The apparent cause was a broken pipe.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "estimate",
+   "word": "estimate",
+   "ipa": "/ˈestɪmeɪt/",
+   "pos": "v.",
+   "zh": "估計",
+   "example": "Experts estimate the cost at two million dollars.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "calculate",
+   "word": "calculate",
+   "ipa": "/ˈkælkjuleɪt/",
+   "pos": "v.",
+   "zh": "計算",
+   "example": "Calculate the percentage before you write the sentence.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "measure",
+   "word": "measure",
+   "ipa": "/ˈmeʒə/",
+   "pos": "v.",
+   "zh": "測量",
+   "example": "We measure the temperature every hour.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "compare",
+   "word": "compare",
+   "ipa": "/kəmˈpeə/",
+   "pos": "v.",
+   "zh": "比較",
+   "example": "Compare the two columns before you decide.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "contrast",
+   "word": "contrast",
+   "ipa": "/ˈkɒntrɑːst/",
+   "pos": "n.",
+   "zh": "對比",
+   "example": "The contrast between the two years is striking.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "classify",
+   "word": "classify",
+   "ipa": "/ˈklæsɪfaɪ/",
+   "pos": "v.",
+   "zh": "分類",
+   "example": "Scientists classify animals into groups.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "category",
+   "word": "category",
+   "ipa": "/ˈkætəɡəri/",
+   "pos": "n.",
+   "zh": "類別",
+   "example": "Put each answer in the correct category.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "identify",
+   "word": "identify",
+   "ipa": "/aɪˈdentɪfaɪ/",
+   "pos": "v.",
+   "zh": "辨識",
+   "example": "Can you identify the main idea of the paragraph?",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "distinguish",
+   "word": "distinguish",
+   "ipa": "/dɪˈstɪŋɡwɪʃ/",
+   "pos": "v.",
+   "zh": "區分",
+   "example": "It is hard to distinguish the twins.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "similar",
+   "word": "similar",
+   "ipa": "/ˈsɪmələ/",
+   "pos": "adj.",
+   "zh": "相似的",
+   "example": "The two graphs look similar at first.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "probability",
+   "word": "probability",
+   "ipa": "/ˌprɒbəˈbɪləti/",
+   "pos": "n.",
+   "zh": "機率",
+   "example": "The probability of rain tomorrow is low.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "likely",
+   "word": "likely",
+   "ipa": "/ˈlaɪkli/",
+   "pos": "adj.",
+   "zh": "可能的",
+   "example": "It is likely that the shop will be busy.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "unlikely",
+   "word": "unlikely",
+   "ipa": "/ʌnˈlaɪkli/",
+   "pos": "adj.",
+   "zh": "不太可能的",
+   "example": "A snowstorm is unlikely in June.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "probable",
+   "word": "probable",
+   "ipa": "/ˈprɒbəbl/",
+   "pos": "adj.",
+   "zh": "很可能的",
+   "example": "The probable cause is a flat tyre.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "possibility",
+   "word": "possibility",
+   "ipa": "/ˌpɒsəˈbɪləti/",
+   "pos": "n.",
+   "zh": "可能性",
+   "example": "There is a possibility of delay.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "replicate",
+   "word": "replicate",
+   "ipa": "/ˈreplɪkeɪt/",
+   "pos": "v.",
+   "zh": "重複驗證",
+   "example": "Other labs could not replicate the result.",
+   "unit": "science",
+   "topic": "科學"
+  },
+  {
+   "id": "travel",
+   "word": "travel",
+   "ipa": "/ˈtrævl/",
+   "pos": "v.",
+   "zh": "旅行",
+   "example": "I travel by train whenever I can.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "journey",
+   "word": "journey",
+   "ipa": "/ˈdʒɜːni/",
+   "pos": "n.",
+   "zh": "旅程",
+   "example": "The journey from Taipei to Kaohsiung takes about two hours.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "destination",
+   "word": "destination",
+   "ipa": "/ˌdestɪˈneɪʃn/",
+   "pos": "n.",
+   "zh": "目的地",
+   "example": "Kyoto was our first destination.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "abroad",
+   "word": "abroad",
+   "ipa": "/əˈbrɔːd/",
+   "pos": "adv.",
+   "zh": "到國外",
+   "example": "She hopes to study abroad next year.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "tourist",
+   "word": "tourist",
+   "ipa": "/ˈtʊərɪst/",
+   "pos": "n.",
+   "zh": "遊客",
+   "example": "A tourist asked me the way to the station.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "tourism",
+   "word": "tourism",
+   "ipa": "/ˈtʊərɪzəm/",
+   "pos": "n.",
+   "zh": "觀光業",
+   "example": "Tourism brings jobs, but also crowds.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "attraction",
+   "word": "attraction",
+   "ipa": "/əˈtrækʃn/",
+   "pos": "n.",
+   "zh": "景點；吸引力",
+   "example": "The night market is the main attraction.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "scenery",
+   "word": "scenery",
+   "ipa": "/ˈsiːnəri/",
+   "pos": "n.",
+   "zh": "風景",
+   "example": "The scenery along the coast is beautiful.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "accommodation",
+   "word": "accommodation",
+   "ipa": "/əˌkɒməˈdeɪʃn/",
+   "pos": "n.",
+   "zh": "住宿",
+   "example": "We booked simple accommodation near the station.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "reservation",
+   "word": "reservation",
+   "ipa": "/ˌrezəˈveɪʃn/",
+   "pos": "n.",
+   "zh": "預約",
+   "example": "I made a reservation for two people.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "itinerary",
+   "word": "itinerary",
+   "ipa": "/aɪˈtɪnərəri/",
+   "pos": "n.",
+   "zh": "行程",
+   "example": "The itinerary includes two museums and a walk.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "luggage",
+   "word": "luggage",
+   "ipa": "/ˈlʌɡɪdʒ/",
+   "pos": "n.",
+   "zh": "行李",
+   "example": "Please do not leave your luggage unattended.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "passport",
+   "word": "passport",
+   "ipa": "/ˈpɑːspɔːt/",
+   "pos": "n.",
+   "zh": "護照",
+   "example": "Check that your passport is still valid.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "visa",
+   "word": "visa",
+   "ipa": "/ˈviːzə/",
+   "pos": "n.",
+   "zh": "簽證",
+   "example": "He is waiting for a student visa.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "flight",
+   "word": "flight",
+   "ipa": "/flaɪt/",
+   "pos": "n.",
+   "zh": "航班",
+   "example": "Our flight leaves at seven in the morning.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "departure",
+   "word": "departure",
+   "ipa": "/dɪˈpɑːtʃə/",
+   "pos": "n.",
+   "zh": "出發",
+   "example": "The departure was delayed by fog.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "arrival",
+   "word": "arrival",
+   "ipa": "/əˈraɪvl/",
+   "pos": "n.",
+   "zh": "抵達",
+   "example": "We sent a message after our arrival.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "delay",
+   "word": "delay",
+   "ipa": "/dɪˈleɪ/",
+   "pos": "n.",
+   "zh": "延誤",
+   "example": "The delay lasted more than an hour.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "souvenir",
+   "word": "souvenir",
+   "ipa": "/ˌsuːvəˈnɪə/",
+   "pos": "n.",
+   "zh": "紀念品",
+   "example": "I bought a small souvenir for my sister.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "experience",
+   "word": "experience",
+   "ipa": "/ɪkˈspɪəriəns/",
+   "pos": "n.",
+   "zh": "經驗；體驗",
+   "example": "The trip was an experience I will not forget.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "adventure",
+   "word": "adventure",
+   "ipa": "/ədˈventʃə/",
+   "pos": "n.",
+   "zh": "冒險",
+   "example": "Getting lost became an unexpected adventure.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "independent",
+   "word": "independent",
+   "ipa": "/ˌɪndɪˈpendənt/",
+   "pos": "adj.",
+   "zh": "獨立的",
+   "example": "Travelling alone made him more independent.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "flexible",
+   "word": "flexible",
+   "ipa": "/ˈfleksəbl/",
+   "pos": "adj.",
+   "zh": "有彈性的",
+   "example": "Our plans are flexible if the weather changes.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "affordable",
+   "word": "affordable",
+   "ipa": "/əˈfɔːdəbl/",
+   "pos": "adj.",
+   "zh": "負擔得起的",
+   "example": "The hostel is affordable for students.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "expensive",
+   "word": "expensive",
+   "ipa": "/ɪkˈspensɪv/",
+   "pos": "adj.",
+   "zh": "昂貴的",
+   "example": "The hotel was too expensive, so we chose another.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "global",
+   "word": "global",
+   "ipa": "/ˈɡləʊbl/",
+   "pos": "adj.",
+   "zh": "全球的",
+   "example": "Climate change is a global problem.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "international",
+   "word": "international",
+   "ipa": "/ˌɪntəˈnæʃnəl/",
+   "pos": "adj.",
+   "zh": "國際的",
+   "example": "The airport has many international flights.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "domestic",
+   "word": "domestic",
+   "ipa": "/dəˈmestɪk/",
+   "pos": "adj.",
+   "zh": "國內的",
+   "example": "A domestic flight is often shorter than the train.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "migration",
+   "word": "migration",
+   "ipa": "/maɪˈɡreɪʃn/",
+   "pos": "n.",
+   "zh": "遷移",
+   "example": "Bird migration happens every autumn.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "opportunity",
+   "word": "opportunity",
+   "ipa": "/ˌɒpəˈtjuːnəti/",
+   "pos": "n.",
+   "zh": "機會",
+   "example": "The trip is an opportunity to use English.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "challenge",
+   "word": "challenge",
+   "ipa": "/ˈtʃælɪndʒ/",
+   "pos": "n.",
+   "zh": "挑戰",
+   "example": "Reading a timetable in another language is a challenge.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "drawback",
+   "word": "drawback",
+   "ipa": "/ˈdrɔːbæk/",
+   "pos": "n.",
+   "zh": "缺點",
+   "example": "The drawback is the long queue for tickets.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "advantage",
+   "word": "advantage",
+   "ipa": "/ədˈvɑːntɪdʒ/",
+   "pos": "n.",
+   "zh": "優點",
+   "example": "One advantage of the train is the view.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "disadvantage",
+   "word": "disadvantage",
+   "ipa": "/ˌdɪsədˈvɑːntɪdʒ/",
+   "pos": "n.",
+   "zh": "缺點",
+   "example": "The disadvantage of flying is the cost.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "broaden",
+   "word": "broaden",
+   "ipa": "/ˈbrɔːdn/",
+   "pos": "v.",
+   "zh": "拓展",
+   "example": "Travel can broaden your view of the world.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "horizon",
+   "word": "horizon",
+   "ipa": "/həˈraɪzn/",
+   "pos": "n.",
+   "zh": "地平線；眼界",
+   "example": "Books and travel both widen your horizon.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "homesick",
+   "word": "homesick",
+   "ipa": "/ˈhəʊmsɪk/",
+   "pos": "adj.",
+   "zh": "想家的",
+   "example": "She felt homesick after the first week.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "adapt",
+   "word": "adapt",
+   "ipa": "/əˈdæpt/",
+   "pos": "v.",
+   "zh": "適應",
+   "example": "It took a few days to adapt to the food.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "adjust",
+   "word": "adjust",
+   "ipa": "/əˈdʒʌst/",
+   "pos": "v.",
+   "zh": "調整",
+   "example": "You can adjust the plan if you are tired.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "familiar",
+   "word": "familiar",
+   "ipa": "/fəˈmɪliə/",
+   "pos": "adj.",
+   "zh": "熟悉的",
+   "example": "The street looked familiar, but I was still lost.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "recommend",
+   "word": "recommend",
+   "ipa": "/ˌrekəˈmend/",
+   "pos": "v.",
+   "zh": "推薦",
+   "example": "I recommend the night market to every visitor.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "prefer",
+   "word": "prefer",
+   "ipa": "/prɪˈfɜː/",
+   "pos": "v.",
+   "zh": "較喜歡",
+   "example": "I prefer a window seat on a long flight.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "worth",
+   "word": "worth",
+   "ipa": "/wɜːθ/",
+   "pos": "adj.",
+   "zh": "值得的",
+   "example": "The museum is worth the ticket price.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "exchange",
+   "word": "exchange",
+   "ipa": "/ɪksˈtʃeɪndʒ/",
+   "pos": "v.",
+   "zh": "交換",
+   "example": "We exchange a few words with the host each morning.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "customs",
+   "word": "customs",
+   "ipa": "/ˈkʌstəmz/",
+   "pos": "n.",
+   "zh": "海關",
+   "example": "We walked through customs with nothing to declare.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "terminal",
+   "word": "terminal",
+   "ipa": "/ˈtɜːmɪnl/",
+   "pos": "n.",
+   "zh": "航廈",
+   "example": "The bus leaves from the airport terminal.",
+   "unit": "travel",
+   "topic": "旅行"
+  },
+  {
+   "id": "opinion",
+   "word": "opinion",
+   "ipa": "/əˈpɪnjən/",
+   "pos": "n.",
+   "zh": "意見",
+   "example": "In my opinion, cities need more parks.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "emphasise",
+   "word": "emphasise",
+   "ipa": "/ˈemfəsaɪz/",
+   "pos": "v.",
+   "zh": "強調",
+   "example": "I want to emphasise the cost, not only the benefit.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "mention",
+   "word": "mention",
+   "ipa": "/ˈmenʃn/",
+   "pos": "v.",
+   "zh": "提到",
+   "example": "She forgot to mention the time of the meeting.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "explain",
+   "word": "explain",
+   "ipa": "/ɪkˈspleɪn/",
+   "pos": "v.",
+   "zh": "解釋",
+   "example": "Could you explain that word in a simpler way?",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "describe",
+   "word": "describe",
+   "ipa": "/dɪˈskraɪb/",
+   "pos": "v.",
+   "zh": "描述",
+   "example": "Describe a place you like to relax.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "instance",
+   "word": "instance",
+   "ipa": "/ˈɪnstəns/",
+   "pos": "n.",
+   "zh": "例子",
+   "example": "For instance, many students study on the bus.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "reason",
+   "word": "reason",
+   "ipa": "/ˈriːzn/",
+   "pos": "n.",
+   "zh": "理由",
+   "example": "The main reason is the price.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "result",
+   "word": "result",
+   "ipa": "/rɪˈzʌlt/",
+   "pos": "n.",
+   "zh": "結果",
+   "example": "As a result, the shop closed early.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "although",
+   "word": "although",
+   "ipa": "/ɔːlˈðəʊ/",
+   "pos": "conj.",
+   "zh": "雖然",
+   "example": "Although the film was long, I enjoyed it.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "despite",
+   "word": "despite",
+   "ipa": "/dɪˈspaɪt/",
+   "pos": "prep.",
+   "zh": "儘管",
+   "example": "Despite the rain, the match went ahead.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "furthermore",
+   "word": "furthermore",
+   "ipa": "/ˌfɜːðəˈmɔː/",
+   "pos": "adv.",
+   "zh": "此外",
+   "example": "The flat is small. Furthermore, it is far from the metro.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "besides",
+   "word": "besides",
+   "ipa": "/bɪˈsaɪdz/",
+   "pos": "prep.",
+   "zh": "除…之外",
+   "example": "Besides English, she speaks Japanese.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "instead",
+   "word": "instead",
+   "ipa": "/ɪnˈsted/",
+   "pos": "adv.",
+   "zh": "反而；作為替代",
+   "example": "Take the stairs instead of the lift.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "otherwise",
+   "word": "otherwise",
+   "ipa": "/ˈʌðəwaɪz/",
+   "pos": "adv.",
+   "zh": "否則",
+   "example": "Leave now; otherwise you will miss the train.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "eventually",
+   "word": "eventually",
+   "ipa": "/ɪˈventʃuəli/",
+   "pos": "adv.",
+   "zh": "最終",
+   "example": "We eventually found a quiet cafe.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "currently",
+   "word": "currently",
+   "ipa": "/ˈkʌrəntli/",
+   "pos": "adv.",
+   "zh": "目前",
+   "example": "I am currently preparing for IELTS.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "recently",
+   "word": "recently",
+   "ipa": "/ˈriːsntli/",
+   "pos": "adv.",
+   "zh": "最近",
+   "example": "I recently started reading for twenty minutes a day.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "previously",
+   "word": "previously",
+   "ipa": "/ˈpriːviəsli/",
+   "pos": "adv.",
+   "zh": "先前",
+   "example": "I previously lived in Taichung.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "frequently",
+   "word": "frequently",
+   "ipa": "/ˈfriːkwəntli/",
+   "pos": "adv.",
+   "zh": "經常",
+   "example": "Trains are frequently late in bad weather.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "rarely",
+   "word": "rarely",
+   "ipa": "/ˈreəli/",
+   "pos": "adv.",
+   "zh": "很少",
+   "example": "I rarely eat fast food now.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "hardly",
+   "word": "hardly",
+   "ipa": "/ˈhɑːdli/",
+   "pos": "adv.",
+   "zh": "幾乎不",
+   "example": "I hardly had time to eat breakfast.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "nearly",
+   "word": "nearly",
+   "ipa": "/ˈnɪəli/",
+   "pos": "adv.",
+   "zh": "將近",
+   "example": "It is nearly eight o'clock.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "relatively",
+   "word": "relatively",
+   "ipa": "/ˈrelətɪvli/",
+   "pos": "adv.",
+   "zh": "相對地",
+   "example": "The exam was relatively fair.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "extremely",
+   "word": "extremely",
+   "ipa": "/ɪkˈstriːmli/",
+   "pos": "adv.",
+   "zh": "非常",
+   "example": "The room was extremely quiet.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "particularly",
+   "word": "particularly",
+   "ipa": "/pəˈtɪkjələli/",
+   "pos": "adv.",
+   "zh": "尤其",
+   "example": "I like the city, particularly the food.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "especially",
+   "word": "especially",
+   "ipa": "/ɪˈspeʃəli/",
+   "pos": "adv.",
+   "zh": "特別是",
+   "example": "It is hard, especially at the beginning.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "generally",
+   "word": "generally",
+   "ipa": "/ˈdʒenrəli/",
+   "pos": "adv.",
+   "zh": "一般而言",
+   "example": "People generally prefer a short commute.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "typically",
+   "word": "typically",
+   "ipa": "/ˈtɪpɪkli/",
+   "pos": "adv.",
+   "zh": "通常",
+   "example": "I typically revise in the evening.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "tend",
+   "word": "tend",
+   "ipa": "/tend/",
+   "pos": "v.",
+   "zh": "傾向於",
+   "example": "Students tend to forget irregular verbs.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "necessary",
+   "word": "necessary",
+   "ipa": "/ˈnesəsəri/",
+   "pos": "adj.",
+   "zh": "必要的",
+   "example": "It is necessary to read the question twice.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "suitable",
+   "word": "suitable",
+   "ipa": "/ˈsuːtəbl/",
+   "pos": "adj.",
+   "zh": "適合的",
+   "example": "This topic is suitable for a two-minute answer.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "effective",
+   "word": "effective",
+   "ipa": "/ɪˈfektɪv/",
+   "pos": "adj.",
+   "zh": "有效的",
+   "example": "Short daily practice is more effective than one long session.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "practical",
+   "word": "practical",
+   "ipa": "/ˈpræktɪkl/",
+   "pos": "adj.",
+   "zh": "實際的",
+   "example": "We need a practical plan, not only a hope.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "realistic",
+   "word": "realistic",
+   "ipa": "/ˌrɪəˈlɪstɪk/",
+   "pos": "adj.",
+   "zh": "務實的",
+   "example": "A realistic goal keeps you going.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "ideal",
+   "word": "ideal",
+   "ipa": "/aɪˈdiːəl/",
+   "pos": "adj.",
+   "zh": "理想的",
+   "example": "A quiet room is ideal for speaking practice.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "available",
+   "word": "available",
+   "ipa": "/əˈveɪləbl/",
+   "pos": "adj.",
+   "zh": "可取得的",
+   "example": "The book is available at the library.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "lack",
+   "word": "lack",
+   "ipa": "/læk/",
+   "pos": "n.",
+   "zh": "缺乏",
+   "example": "A lack of examples makes an answer sound thin.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "access",
+   "word": "access",
+   "ipa": "/ˈækses/",
+   "pos": "n.",
+   "zh": "使用機會",
+   "example": "Not every student has access to a quiet desk.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "solution",
+   "word": "solution",
+   "ipa": "/səˈluːʃn/",
+   "pos": "n.",
+   "zh": "解決方法",
+   "example": "One solution is to set a time limit for your phone.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "strategy",
+   "word": "strategy",
+   "ipa": "/ˈstrætədʒi/",
+   "pos": "n.",
+   "zh": "策略",
+   "example": "My strategy is to learn words in short sentences.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "implement",
+   "word": "implement",
+   "ipa": "/ˈɪmplɪment/",
+   "pos": "v.",
+   "zh": "實施",
+   "example": "The school will implement the new rule in March.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "encourage",
+   "word": "encourage",
+   "ipa": "/ɪnˈkʌrɪdʒ/",
+   "pos": "v.",
+   "zh": "鼓勵",
+   "example": "Teachers should encourage students to speak.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "prevent",
+   "word": "prevent",
+   "ipa": "/prɪˈvent/",
+   "pos": "v.",
+   "zh": "防止",
+   "example": "A short break can prevent you from getting too tired.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "promote",
+   "word": "promote",
+   "ipa": "/prəˈməʊt/",
+   "pos": "v.",
+   "zh": "促進；推廣",
+   "example": "The campaign will promote cycling.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "reduce",
+   "word": "reduce",
+   "ipa": "/rɪˈdjuːs/",
+   "pos": "v.",
+   "zh": "減少",
+   "example": "We can reduce waste by bringing a bottle.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "improve",
+   "word": "improve",
+   "ipa": "/ɪmˈpruːv/",
+   "pos": "v.",
+   "zh": "改善",
+   "example": "Reading aloud can improve your rhythm.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "develop",
+   "word": "develop",
+   "ipa": "/dɪˈveləp/",
+   "pos": "v.",
+   "zh": "發展",
+   "example": "Cities develop when transport improves.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "contribute",
+   "word": "contribute",
+   "ipa": "/kənˈtrɪbjuːt/",
+   "pos": "v.",
+   "zh": "促成；貢獻",
+   "example": "Everyone can contribute a small amount of time.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "contribution",
+   "word": "contribution",
+   "ipa": "/ˌkɒntrɪˈbjuːʃn/",
+   "pos": "n.",
+   "zh": "貢獻",
+   "example": "Her contribution to the project was the design.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "affect",
+   "word": "affect",
+   "ipa": "/əˈfekt/",
+   "pos": "v.",
+   "zh": "影響",
+   "example": "Noise can affect how well you sleep.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "depend",
+   "word": "depend",
+   "ipa": "/dɪˈpend/",
+   "pos": "v.",
+   "zh": "取決於",
+   "example": "The result will depend on how often you practise.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "require",
+   "word": "require",
+   "ipa": "/rɪˈkwaɪə/",
+   "pos": "v.",
+   "zh": "需要",
+   "example": "The job will require clear spoken English.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "provide",
+   "word": "provide",
+   "ipa": "/prəˈvaɪd/",
+   "pos": "v.",
+   "zh": "提供",
+   "example": "The course will provide feedback every week.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "support",
+   "word": "support",
+   "ipa": "/səˈpɔːt/",
+   "pos": "v.",
+   "zh": "支持",
+   "example": "I support the plan because it is fair.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "oppose",
+   "word": "oppose",
+   "ipa": "/əˈpəʊz/",
+   "pos": "v.",
+   "zh": "反對",
+   "example": "Some residents oppose the new road.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "consider",
+   "word": "consider",
+   "ipa": "/kənˈsɪdə/",
+   "pos": "v.",
+   "zh": "考慮",
+   "example": "We should consider both the cost and the benefit.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "remain",
+   "word": "remain",
+   "ipa": "/rɪˈmeɪn/",
+   "pos": "v.",
+   "zh": "仍然是",
+   "example": "Tickets remain expensive in the holidays.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "agree",
+   "word": "agree",
+   "ipa": "/əˈɡriː/",
+   "pos": "v.",
+   "zh": "同意",
+   "example": "I agree with the first point.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "disagree",
+   "word": "disagree",
+   "ipa": "/ˌdɪsəˈɡriː/",
+   "pos": "v.",
+   "zh": "不同意",
+   "example": "I disagree with the idea that homework is useless.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "argue",
+   "word": "argue",
+   "ipa": "/ˈɑːɡjuː/",
+   "pos": "v.",
+   "zh": "主張",
+   "example": "Some people argue that cities are too crowded.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "suggest",
+   "word": "suggest",
+   "ipa": "/səˈdʒest/",
+   "pos": "v.",
+   "zh": "建議",
+   "example": "I suggest taking the bus instead of a taxi.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "regard",
+   "word": "regard",
+   "ipa": "/rɪˈɡɑːd/",
+   "pos": "v.",
+   "zh": "視為",
+   "example": "Many people regard the park as the heart of the town.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "seem",
+   "word": "seem",
+   "ipa": "/siːm/",
+   "pos": "v.",
+   "zh": "似乎",
+   "example": "The instructions seem clear.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "appear",
+   "word": "appear",
+   "ipa": "/əˈpɪə/",
+   "pos": "v.",
+   "zh": "似乎；出現",
+   "example": "The total may appear wrong at first glance.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "therefore",
+   "word": "therefore",
+   "ipa": "/ˈðeəfɔː/",
+   "pos": "adv.",
+   "zh": "因此",
+   "example": "The road was closed; therefore we walked.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "however",
+   "word": "however",
+   "ipa": "/haʊˈevə/",
+   "pos": "adv.",
+   "zh": "然而",
+   "example": "The hotel was expensive. However, the view was wonderful.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "moreover",
+   "word": "moreover",
+   "ipa": "/mɔːrˈəʊvə/",
+   "pos": "adv.",
+   "zh": "而且",
+   "example": "The flat is bright. Moreover, it is near a park.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "nevertheless",
+   "word": "nevertheless",
+   "ipa": "/ˌnevəðəˈles/",
+   "pos": "adv.",
+   "zh": "儘管如此",
+   "example": "It was raining. We went out nevertheless.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "whereas",
+   "word": "whereas",
+   "ipa": "/ˌweərˈæz/",
+   "pos": "conj.",
+   "zh": "而",
+   "example": "I like quiet cafes, whereas my brother likes crowds.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "meanwhile",
+   "word": "meanwhile",
+   "ipa": "/ˈmiːnwaɪl/",
+   "pos": "adv.",
+   "zh": "與此同時",
+   "example": "The cake is in the oven. Meanwhile, we can wash up.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "on-balance",
+   "word": "on balance",
+   "ipa": "/ɒn ˈbæləns/",
+   "pos": "phr.",
+   "zh": "總的來說",
+   "example": "On balance, the advantages outweigh the drawbacks.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "in-addition",
+   "word": "in addition",
+   "ipa": "/ɪn əˈdɪʃn/",
+   "pos": "phr.",
+   "zh": "此外",
+   "example": "In addition, the library is open on Sundays.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "for-instance",
+   "word": "for instance",
+   "ipa": "/fər ˈɪnstəns/",
+   "pos": "phr.",
+   "zh": "例如",
+   "example": "I walk every day; for instance, I walk to the market.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "as-a-result",
+   "word": "as a result",
+   "ipa": "/æz ə rɪˈzʌlt/",
+   "pos": "phr.",
+   "zh": "因此",
+   "example": "The bus was full. As a result, I was late.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "on-the-other-hand",
+   "word": "on the other hand",
+   "ipa": "/ɒn ðɪ ˈʌðə hænd/",
+   "pos": "phr.",
+   "zh": "另一方面",
+   "example": "The city is exciting. On the other hand, it is noisy.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "in-terms-of",
+   "word": "in terms of",
+   "ipa": "/ɪn ˈtɜːmz əv/",
+   "pos": "phr.",
+   "zh": "就…而言",
+   "example": "In terms of cost, the train is the better choice.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "from-my-point-of-view",
+   "word": "from my point of view",
+   "ipa": "/frəm maɪ pɔɪnt əv vjuː/",
+   "pos": "phr.",
+   "zh": "依我看來",
+   "example": "From my point of view, daily practice matters most.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "to-a-certain-extent",
+   "word": "to a certain extent",
+   "ipa": "/tə ə ˈsɜːtn ɪkˈstent/",
+   "pos": "phr.",
+   "zh": "在某種程度上",
+   "example": "To a certain extent, I agree with that idea.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "that-is-to-say",
+   "word": "that is to say",
+   "ipa": "/ðæt ɪz tə seɪ/",
+   "pos": "phr.",
+   "zh": "也就是說",
+   "example": "I am busy, that is to say I have little free time.",
+   "unit": "speaking",
+   "topic": "口說"
+  },
+  {
+   "id": "a-case-in-point",
+   "word": "a case in point",
+   "ipa": "/ə keɪs ɪn pɔɪnt/",
+   "pos": "phr.",
+   "zh": "一個恰當的例子",
+   "example": "Traffic is worse. A case in point is the morning rush.",
+   "unit": "speaking",
+   "topic": "口說"
+  }
+ ]
+}

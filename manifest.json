@@ -1,0 +1,15 @@
+{
+  "name": "IELTS 每日練習",
+  "short_name": "IELTS練習",
+  "description": "單字、文法、閱讀與口說練習。進度只存在這台裝置。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f7",
+  "theme_color": "#58cc02",
+  "lang": "zh-Hant",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
